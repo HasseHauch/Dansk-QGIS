@@ -41,7 +41,7 @@
     <message>
         <location filename="../src/plugins/coordinate_capture/coordinatecapture.cpp" line="128"/>
         <source>Coordinate in map canvas coordinate reference system</source>
-        <translation type="unfinished"></translation>
+        <translation>Koordinat i kortbilledets projektion (CRS)</translation>
     </message>
     <message>
         <location filename="../src/plugins/coordinate_capture/coordinatecapture.cpp" line="131"/>
@@ -51,7 +51,7 @@
     <message>
         <location filename="../src/plugins/coordinate_capture/coordinatecapture.cpp" line="136"/>
         <source>Click to enable mouse tracking. Click the canvas to stop</source>
-        <translation type="unfinished"></translation>
+        <translation>Klik for at starte digitalisering vha. mus. Klik i kortbilledet for at stoppe </translation>
     </message>
     <message>
         <location filename="../src/plugins/coordinate_capture/coordinatecapture.cpp" line="141"/>
@@ -186,7 +186,7 @@
     <message>
         <location filename="../python/plugins/fTools/tools/frmGeoprocessing.ui" line="262"/>
         <source>Segments to approximate</source>
-        <translation type="unfinished"></translation>
+        <translation>Forventet ant. segmenter</translation>
     </message>
     <message>
         <location filename="../python/plugins/fTools/tools/frmIntersectLines.ui" line="16"/>
@@ -233,7 +233,7 @@
     <message>
         <location filename="../python/plugins/fTools/tools/frmMeanCoords.ui" line="41"/>
         <source>Weight field</source>
-        <translation type="unfinished"></translation>
+        <translation>Vægt felt</translation>
     </message>
     <message>
         <location filename="../python/plugins/fTools/tools/frmMeanCoords.ui" line="69"/>
@@ -253,7 +253,7 @@
     <message>
         <location filename="../python/plugins/fTools/tools/frmMergeShapes.ui" line="20"/>
         <source>Select by layers in the folder</source>
-        <translation type="unfinished"></translation>
+        <translation>Vælg vha. lag i mappe</translation>
     </message>
     <message>
         <location filename="../python/plugins/fTools/tools/frmMergeShapes.ui" line="29"/>
@@ -283,7 +283,7 @@
     <message>
         <location filename="../python/plugins/fTools/tools/frmMergeShapes.ui" line="99"/>
         <source>Add result to map canvas</source>
-        <translation type="unfinished"></translation>
+        <translation>Tilføj resultat til kortbillede</translation>
     </message>
     <message>
         <location filename="../python/plugins/fTools/tools/frmPointDistance.ui" line="16"/>
@@ -370,17 +370,17 @@
         <location filename="../python/plugins/fTools/tools/frmRandPoints.ui" line="32"/>
         <location filename="../python/plugins/fTools/tools/frmRegPoints.ui" line="32"/>
         <source>Input Boundary Layer</source>
-        <translation type="unfinished"></translation>
+        <translation>Input afgrænsningslag</translation>
     </message>
     <message>
         <location filename="../python/plugins/fTools/tools/frmRandPoints.ui" line="42"/>
         <source>Sample Size</source>
-        <translation type="unfinished"></translation>
+        <translation>Størrelse af udvalg</translation>
     </message>
     <message>
         <location filename="../python/plugins/fTools/tools/frmRandPoints.ui" line="55"/>
         <source>Unstratified Sampling Design (Entire layer)</source>
-        <translation type="unfinished"></translation>
+        <translation>Ikke-grupperet udvælgelse (Hele laget)</translation>
     </message>
     <message>
         <location filename="../python/plugins/fTools/tools/frmRandPoints.ui" line="64"/>
@@ -392,7 +392,7 @@
     <message>
         <location filename="../python/plugins/fTools/tools/frmRandPoints.ui" line="96"/>
         <source>Stratified Sampling Design (Individual polygons)</source>
-        <translation type="unfinished"></translation>
+        <translation>Grupperet udvælgelse (Individuelle polygoner)</translation>
     </message>
     <message>
         <location filename="../python/plugins/fTools/tools/frmRandPoints.ui" line="129"/>
@@ -557,7 +557,7 @@
     <message>
         <location filename="../python/plugins/fTools/tools/frmSimplify.ui" line="102"/>
         <source>Add result to canvas</source>
-        <translation type="unfinished"></translation>
+        <translation>Tilføj resultat til kortbillede</translation>
     </message>
     <message>
         <location filename="../python/plugins/fTools/tools/frmSpatialIndex.ui" line="14"/>
@@ -602,22 +602,22 @@
     <message>
         <location filename="../python/plugins/fTools/tools/frmSpatialJoin.ui" line="42"/>
         <source>Join vector layer</source>
-        <translation type="unfinished"></translation>
+        <translation>Vektorlag, som skal tilføjes</translation>
     </message>
     <message>
         <location filename="../python/plugins/fTools/tools/frmSpatialJoin.ui" line="54"/>
         <source>Attribute Summary</source>
-        <translation type="unfinished"></translation>
+        <translation>Attribut aggregering</translation>
     </message>
     <message>
         <location filename="../python/plugins/fTools/tools/frmSpatialJoin.ui" line="146"/>
         <source>Take attributes of first located feature</source>
-        <translation type="unfinished"></translation>
+        <translation>Benyt attributter fra først fundne objekt</translation>
     </message>
     <message>
         <location filename="../python/plugins/fTools/tools/frmSpatialJoin.ui" line="99"/>
         <source>Take summary of intersecting features</source>
-        <translation type="unfinished"></translation>
+        <translation>Beregn attributter for overlappende objekter</translation>
     </message>
     <message>
         <location filename="../python/plugins/fTools/tools/frmSpatialJoin.ui" line="89"/>
@@ -662,12 +662,12 @@
     <message>
         <location filename="../python/plugins/fTools/tools/frmSubsetSelect.ui" line="14"/>
         <source>Random Selection From Within Subsets</source>
-        <translation type="unfinished"></translation>
+        <translation>Tilfældigt udvalg fra subset</translation>
     </message>
     <message>
         <location filename="../python/plugins/fTools/tools/frmSubsetSelect.ui" line="39"/>
         <source>Input subset field (unique ID field)</source>
-        <translation type="unfinished"></translation>
+        <translation>Input subset felt (Unikt ID-felt)</translation>
     </message>
     <message>
         <location filename="../python/plugins/fTools/tools/frmSumLines.ui" line="16"/>
@@ -677,7 +677,7 @@
     <message>
         <location filename="../python/plugins/fTools/tools/frmSumLines.ui" line="27"/>
         <source>Output summed length field name</source>
-        <translation type="unfinished"></translation>
+        <translation>Feltnavn for opsummeret længde</translation>
     </message>
     <message>
         <location filename="../python/plugins/fTools/tools/frmSumLines.ui" line="34"/>
@@ -707,12 +707,12 @@
     <message>
         <location filename="../python/plugins/fTools/tools/frmVectorGrid.ui" line="54"/>
         <source>Update extents from canvas</source>
-        <translation type="unfinished"></translation>
+        <translation>Opdater udbredelsen fra kortbillede</translation>
     </message>
     <message>
         <location filename="../python/plugins/fTools/tools/frmVectorGrid.ui" line="169"/>
         <source>Align extents and resolution to selected raster layer</source>
-        <translation type="unfinished"></translation>
+        <translation>Tilpas udbredelse og opløsning til valgte rasterlag</translation>
     </message>
     <message>
         <location filename="../python/plugins/fTools/tools/frmVectorGrid.ui" line="179"/>
@@ -905,261 +905,275 @@ Er du sikker på at du vil fortsætte?</translation>
     </message>
     <message>
         <source>Please specify output count field</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Angiv venligst output tælle feltl</translation>
     </message>
     <message>
         <source>Created output shapefile:
 %1
 
 Would you like to add the new layer to the TOC?</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Genereret output shapefil:
+%1
+
+Vil du tilføje det nye lag til TOC?</translation>
     </message>
     <message>
         <source>CRS warning!</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Projektions (CRS) advarsel</translation>
     </message>
     <message>
         <source>Warning: Input layers have non-matching CRS.
 This may cause unexpected results.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Advarsel: Input lagene har forskellige projektioner (CRS).
+Dette kan give ikke-forventede og forkerte  resultater.</translation>
     </message>
     <message>
         <source>Sum line lengths</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Sum af linielængder</translation>
     </message>
     <message>
         <source>Sum Line Lengths In Polyons</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Sum af omkreds i polygoner</translation>
     </message>
     <message>
         <source>Please specify input line vector layer</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Vælg input vektorlag med linier</translation>
     </message>
     <message>
         <source>Please specify output length field</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Vælg felt til beregnet længde</translation>
     </message>
     <message>
         <source>length field</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Længde felt</translation>
     </message>
     <message>
         <source>Join attributes by location</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Sammeflet attributter vha. geografisk placering</translation>
     </message>
     <message>
         <source>Please specify target vector layer</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Vælg mål vektor lag</translation>
     </message>
     <message>
         <source>Please specify join vector layer</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Vælg sammenkobligs vektor lag</translation>
     </message>
     <message>
         <source>Please specify at least one summary statistic</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Vælg venligst mindst én statistisk opsummering</translation>
     </message>
     <message>
         <source>Summary field</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Opsummerings felt</translation>
     </message>
     <message>
         <source>Incorrect field names</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Forkert feltnavn</translation>
     </message>
     <message>
         <source>No output will be created.
 Following field names are longer than 10 characters:
 %1</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Der genereres ikke uddata.
+Følgende feltnavne er længere end 10 karakterer:
+%1</translation>
     </message>
     <message>
         <source>Error deleting shapefile</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Fejl ved sletning af shapefil</translation>
     </message>
     <message>
         <source>Can&apos;t delete existing shapefile
 %1</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Kan ikke slette eksisterende shapefil
+%1</translation>
     </message>
     <message>
         <source>Vector grid</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Vektor grid</translation>
     </message>
     <message>
         <source>Please select a raster layer</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Angiv venligst et raster lag</translation>
     </message>
     <message>
         <source>Unable to compute extents aligned on selected raster layer</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Ikke i stand til at beregne afgrænsningertilpasset til det valgte rasterlag</translation>
     </message>
     <message>
         <source>Please specify valid extent coordinates</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Angiv venligst korrekte koordinater for udbredelse</translation>
     </message>
     <message>
         <source>Invalid extent coordinates entered</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Der er indtastet ukorrekte koordinater for afgrænsning </translation>
     </message>
     <message>
         <source>Random selection</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Tilfældigt valg</translation>
     </message>
     <message>
         <source>Random Points</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Tilfældige punkter</translation>
     </message>
     <message>
         <source>No input layer specified</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Ingen input lag specificeret</translation>
     </message>
     <message>
         <source>unstratified</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">ikke grupperet</translation>
     </message>
     <message>
         <source>stratified</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">grupperet</translation>
     </message>
     <message>
         <source>density</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">tyngde</translation>
     </message>
     <message>
         <source>field</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">felt</translation>
     </message>
     <message>
         <source>Unknown layer type...</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Ukendt lagtype</translation>
     </message>
     <message>
         <source>Created output point shapefile:
 %1
 
 Would you like to add the new layer to the TOC?</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Genereret output punkt shapefil:
+%1
+
+Vil du tilføje det nye lag til TOC?</translation>
     </message>
     <message>
         <source>Regular points</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Regulære punkter</translation>
     </message>
     <message>
         <source>Please specify input layer</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Angiv venligst et input lag</translation>
     </message>
     <message>
         <source>Please properly specify extent coordinates</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Angiv venligst korrekte koordinater for udbredelse</translation>
     </message>
     <message>
         <source>creating new selection</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Generer ny selektion</translation>
     </message>
     <message>
         <source>adding to current selection</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">tilføjer til nuværende selektion</translation>
     </message>
     <message>
         <source>removing from current selection</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">fjerner fra nuværende selektion</translation>
     </message>
     <message>
         <source>Select by location</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Udvælg via geografisk placering</translation>
     </message>
     <message>
         <source>Select features in:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Vælg objekt i:</translation>
     </message>
     <message>
         <source>that intersect features in:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">som overlapper i:</translation>
     </message>
     <message>
         <source>Modify current selection by:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Tilret nuværende selektion vha.:</translation>
     </message>
     <message>
         <source>Use selected features only</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Benyt kun valgte objekter</translation>
     </message>
     <message>
         <source>Please specify select layer</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Angiv venligst et valg-lag</translation>
     </message>
     <message>
         <source>Random selection within subsets</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Tilfældig udvalg i grupperinger</translation>
     </message>
     <message>
         <source>Please specify input vector layer</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Angiv venligst input vektor lag</translation>
     </message>
     <message>
         <source>Please specify an input field</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Angiv venligst et input felt</translation>
     </message>
     <message>
         <source>Mean coordinates</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Gennemsnits koordinater</translation>
     </message>
     <message>
         <source>Standard distance</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Standard afstand</translation>
     </message>
     <message>
         <source>(Optional) Weight field</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">(Valgfrit) Vægt felt</translation>
     </message>
     <message>
         <source>(Optional) Unique ID field</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">(Valgfrit) Unikt ID felt</translation>
     </message>
     <message>
         <source>Coordinate statistics</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Koordinat statistik</translation>
     </message>
     <message>
         <source>No input vector layer specified</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Ingen input vektor lag specificeret</translation>
     </message>
     <message>
         <source>Split vector layer</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Split vektor lag</translation>
     </message>
     <message>
         <source>Created output shapefiles in folder:
 %1</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Genereret output shape-filer in mappe:
+%1</translation>
     </message>
     <message>
         <source>Densify geometries</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Fortæt geometrier</translation>
     </message>
     <message>
         <source>Vertices to add</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">knuepunkter at tilføje</translation>
     </message>
     <message>
         <source>Warning</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Advarsel</translation>
     </message>
     <message>
         <source>Currently QGIS doesn&apos;t allow simultaneous access from 
                                  different threads to the same datasource. Make sure your layer&apos;s 
                                  attribute tables are closed. Continue?</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">I øjeblikket tillader QGIS ikke samtidig tilgang fra 
+                                 forskellige tråde til den samme datakilde. Kontrollér, at dine lags 
+                                 attributtabeller are lukket. Fortsæt?</translation>
     </message>
     <message>
         <source>Simplify results</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Simplificér resultat</translation>
     </message>
     <message>
         <source>There were %1 vertices in original dataset which
 were reduced to %2 vertices after simplification</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Der var %1 knudepunkter i det originale datasæt som blev
+forsimplet til %2 knudepunkter</translation>
     </message>
     <message>
         <source>Error</source>
@@ -1167,60 +1181,60 @@ were reduced to %2 vertices after simplification</source>
     </message>
     <message>
         <source>Finished</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Færdig</translation>
     </message>
     <message>
         <source>Processing completed.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Behandling færdiggjort.</translation>
     </message>
     <message>
         <source>Line intersections</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Linieskæringer</translation>
     </message>
     <message>
         <source>Please specify input line layer</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Angiv venligst et input linie lag</translation>
     </message>
     <message>
         <source>Please specify line intersect layer</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Angiv venligst linie krydsnings lag</translation>
     </message>
     <message>
         <source>Please specify input unique ID field</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Angiv venligst input unikt ID felt</translation>
     </message>
     <message>
         <source>Please specify intersect unique ID field</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Angiv venligst skærings unikt ID felt</translation>
     </message>
     <message>
         <source>Distance matrix</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Distance matrice</translation>
     </message>
     <message>
         <source>Create Point Distance Matrix</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Dan punkt distance matrice</translation>
     </message>
     <message>
         <source>Please specify input point layer</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Angiv venligst et input punkt lag</translation>
     </message>
     <message>
         <source>Please specify output file</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Vælg output fil</translation>
     </message>
     <message>
         <source>Please specify target point layer</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Angiv venligst et mål punkt lag</translation>
     </message>
     <message>
         <source>Please specify target unique ID field</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Angiv venligst et mål unikt ID felt</translation>
     </message>
     <message>
         <source>Created output matrix:
 </source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Genereret output matrice:</translation>
     </message>
 </context>
 <context>
@@ -1908,11 +1922,11 @@ Dette plugin vil ikke være aktiveret.</translation>
     </message>
     <message>
         <source>Warp (Reproject)</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Reprojicér (Warp)</translation>
     </message>
     <message>
         <source>Warp an image into a new coordinate system</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Reprojicé ret billede til et nyt koordinatsystem</translation>
     </message>
     <message>
         <source>Assign projection</source>
@@ -1936,19 +1950,19 @@ Dette plugin vil ikke være aktiveret.</translation>
     </message>
     <message>
         <source>Rasterize (Vector to raster)</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Rasterisér (Vektor til raster)</translation>
     </message>
     <message>
         <source>Burns vector geometries into a raster</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Tilføjer vektor geometrier ind i et rasterbillde</translation>
     </message>
     <message>
         <source>Polygonize (Raster to vector)</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Vektorisér (Raster til vektor)</translation>
     </message>
     <message>
         <source>Produces a polygon feature layer from a raster</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Genererer et polygonlag fra et rasterbillede</translation>
     </message>
     <message>
         <source>Translate (Convert format)</source>
@@ -1976,19 +1990,19 @@ Dette plugin vil ikke være aktiveret.</translation>
     </message>
     <message>
         <source>Extraction</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Udtræk</translation>
     </message>
     <message>
         <source>Contour</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Kontour</translation>
     </message>
     <message>
         <source>Builds vector contour lines from a DEM</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Danner vektor kontourlinier fra en DEM</translation>
     </message>
     <message>
         <source>Clipper</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Klipper</translation>
     </message>
     <message>
         <source>Analysis</source>
@@ -2004,27 +2018,27 @@ Dette plugin vil ikke være aktiveret.</translation>
     </message>
     <message>
         <source>Near black</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Næsten sort</translation>
     </message>
     <message>
         <source>Convert nearly black/white borders to exact value</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Konvertér næsten sort/hvide kanter til eksakt værdi</translation>
     </message>
     <message>
         <source>Fill nodata</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Udfyld ingen-data</translation>
     </message>
     <message>
         <source>Fill raster regions by interpolation from edges</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Udfyld raster via interpolation fra kanter</translation>
     </message>
     <message>
         <source>Proximity (Raster distance)</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Proximity (Raster distance)</translation>
     </message>
     <message>
         <source>Produces a raster proximity map</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Genererer et raster proximity kort</translation>
     </message>
     <message>
         <source>Grid (Interpolation)</source>
@@ -2032,51 +2046,51 @@ Dette plugin vil ikke være aktiveret.</translation>
     </message>
     <message>
         <source>Create raster from the scattered data</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Generer raster fra spredte data</translation>
     </message>
     <message>
         <source>DEM (Terrain models)</source>
-        <translation>DEM (terren model)</translation>
+        <translation type="unfinished">DEM (terræn modeller)</translation>
     </message>
     <message>
         <source>Tool to analyze and visualize DEMs</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Værktøj til at analysere og visualisere DEMs</translation>
     </message>
     <message>
         <source>Miscellaneous</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Forskellige</translation>
     </message>
     <message>
         <source>Build Virtual Raster (Catalog)</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Generer virtuel raster (Katalog)</translation>
     </message>
     <message>
         <source>Builds a VRT from a list of datasets</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Genererer en VRT fra en liste af datasæt</translation>
     </message>
     <message>
         <source>Merge</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Sammeflet</translation>
     </message>
     <message>
         <source>Build a quick mosaic from a set of images</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Generér en hurtig mosaik fra et sæt af billeder</translation>
     </message>
     <message>
         <source>Information</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Information</translation>
     </message>
     <message>
         <source>Lists information about raster dataset</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Viser information vedr. et raster datasæt</translation>
     </message>
     <message>
         <source>Build overviews (Pyramids)</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Generér overbliks pyramider</translation>
     </message>
     <message>
         <source>Builds or rebuilds overview images</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Danner eller gendanner overbliks billeder</translation>
     </message>
     <message>
         <source>Tile index</source>
