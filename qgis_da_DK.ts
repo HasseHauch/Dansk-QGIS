@@ -905,21 +905,21 @@ Er du sikker på at du vil fortsætte?</translation>
     </message>
     <message>
         <source>Please specify output count field</source>
-        <translation type="unfinished">Angiv venligst output tælle feltl</translation>
+        <translation>Angiv venligst output tælle felt</translation>
     </message>
     <message>
         <source>Created output shapefile:
 %1
 
 Would you like to add the new layer to the TOC?</source>
-        <translation type="unfinished">Genereret output shapefil:
+        <translation>Genereret output shapefil:
 %1
 
 Vil du tilføje det nye lag til TOC?</translation>
     </message>
     <message>
         <source>CRS warning!</source>
-        <translation type="unfinished">Projektions (CRS) advarsel</translation>
+        <translation>Projektions (CRS) advarsel!</translation>
     </message>
     <message>
         <source>Warning: Input layers have non-matching CRS.
@@ -4213,7 +4213,7 @@ GEOS geoprocessing error: One or more input features have invalid geometry.</sou
     <message>
         <location filename="../src/ui/qgisapp.ui" line="53"/>
         <source>&amp;File</source>
-        <translation>&amp;Fil</translation>
+        <translation>&amp;Filer</translation>
     </message>
     <message>
         <location filename="../src/ui/qgisapp.ui" line="57"/>
@@ -4229,7 +4229,7 @@ GEOS geoprocessing error: One or more input features have invalid geometry.</sou
     <message>
         <location filename="../src/ui/qgisapp.ui" line="81"/>
         <source>&amp;View</source>
-        <translation>&amp;View</translation>
+        <translation>&amp;Kort</translation>
     </message>
     <message>
         <location filename="../src/ui/qgisapp.ui" line="85"/>
@@ -4961,7 +4961,7 @@ GEOS geoprocessing error: One or more input features have invalid geometry.</sou
     <message>
         <location filename="../src/ui/qgisapp.ui" line="1354"/>
         <source>Options...</source>
-        <translation type="unfinished">Globale indstillinger...</translation>
+        <translation>Globale indstillinger...</translation>
     </message>
     <message>
         <location filename="../src/ui/qgisapp.ui" line="1366"/>
