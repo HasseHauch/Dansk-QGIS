@@ -4827,12 +4827,12 @@ GEOS geoprocessing error: One or more input features have invalid geometry.</sou
     <message>
         <location filename="../src/ui/qgisapp.ui" line="1202"/>
         <source>Toggle Editing</source>
-        <translation>Ændre editering</translation>
+        <translation>Start/Stop redigering</translation>
     </message>
     <message>
         <location filename="../src/ui/qgisapp.ui" line="1205"/>
         <source>Toggles the editing state of the current layer</source>
-        <translation>Ændre editeringsvalg af det valgte lag</translation>
+        <translation>Start/Stop redigering af det valgte lag</translation>
     </message>
     <message>
         <location filename="../src/ui/qgisapp.ui" line="1214"/>
@@ -10382,7 +10382,7 @@ User DB Path:	%8
     <message>
         <location filename="../src/ui/qgsattributetabledialog.ui" line="268"/>
         <source>Toggle editing mode (Ctrl+E)</source>
-        <translation>Ændre editerings mode (Ctrl+E)</translation>
+        <translation type="unfinished">Start/Stop redigeringsmode (Ctrl+E)</translation>
     </message>
     <message>
         <location filename="../src/ui/qgsattributetabledialog.ui" line="287"/>
