@@ -1039,7 +1039,7 @@ Følgende feltnavne er længere end 10 karakterer:
     </message>
     <message>
         <source>Unknown layer type...</source>
-        <translation type="unfinished">Ukendt lagtype</translation>
+        <translation>Ukendt lagtype...</translation>
     </message>
     <message>
         <source>Created output point shapefile:
@@ -11353,7 +11353,7 @@ Should the existing classes be deleted before classification?</source>
     <message>
         <location filename="../src/gui/symbology-ng/qgscolorrampcombobox.cpp" line="54"/>
         <source>New color ramp...</source>
-        <translation type="unfinished"></translation>
+        <translation>Ny farveskala...</translation>
     </message>
 </context>
 <context>
