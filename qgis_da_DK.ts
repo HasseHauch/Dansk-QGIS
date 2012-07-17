@@ -1039,7 +1039,7 @@ Følgende feltnavne er længere end 10 karakterer:
     </message>
     <message>
         <source>Unknown layer type...</source>
-        <translation>Ukendt lagtype...</translation>
+        <translation type="unfinished">Ukendt lagtype</translation>
     </message>
     <message>
         <source>Created output point shapefile:
@@ -11353,7 +11353,7 @@ Should the existing classes be deleted before classification?</source>
     <message>
         <location filename="../src/gui/symbology-ng/qgscolorrampcombobox.cpp" line="54"/>
         <source>New color ramp...</source>
-        <translation>Ny farveskala...</translation>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -34212,17 +34212,17 @@ Overwrite?</source>
     <message>
         <location filename="../src/app/qgstextannotationdialog.cpp" line="47"/>
         <source>Delete</source>
-        <translation type="unfinished"></translation>
+        <translation>Slet</translation>
     </message>
     <message>
         <location filename="../src/app/qgstextannotationdialog.cpp" line="107"/>
         <source>Select font color</source>
-        <translation type="unfinished"></translation>
+        <translation>Vælg font farve</translation>
     </message>
     <message>
         <location filename="../src/app/qgstextannotationdialog.cpp" line="160"/>
         <source>Select background color</source>
-        <translation type="unfinished"></translation>
+        <translation>Vælg baggrundsfarve</translation>
     </message>
 </context>
 <context>
@@ -38361,7 +38361,7 @@ Description: %3</source>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished">Afbryd</translation>
+        <translation>Afbryd</translation>
     </message>
     <message>
         <source>Feature</source>
@@ -38369,62 +38369,62 @@ Description: %3</source>
     </message>
     <message>
         <source>Error(s)</source>
-        <translation type="unfinished"></translation>
+        <translation>Fejl</translation>
     </message>
 </context>
 <context>
     <name>VisualDialog</name>
     <message>
         <source>Error!</source>
-        <translation type="unfinished"></translation>
+        <translation>Fejl!</translation>
     </message>
     <message>
         <source>Please specify input vector layer</source>
-        <translation type="unfinished"></translation>
+        <translation>Angiv venligst input vektor lag</translation>
     </message>
     <message>
         <source>Please specify input field</source>
-        <translation type="unfinished"></translation>
+        <translation>Angiv venligst input felt</translation>
     </message>
     <message>
         <source>List unique values</source>
-        <translation type="unfinished"></translation>
+        <translation>Oplist unikke værdier</translation>
     </message>
     <message>
         <source>Unique values</source>
-        <translation type="unfinished"></translation>
+        <translation>Unikke værdier</translation>
     </message>
     <message>
         <source>Total unique values</source>
-        <translation type="unfinished"></translation>
+        <translation>Alle unikke værdier</translation>
     </message>
     <message>
         <source>Basics statistics</source>
-        <translation type="unfinished"></translation>
+        <translation>Grundlæggende statistik</translation>
     </message>
     <message>
         <source>Statistics output</source>
-        <translation type="unfinished"></translation>
+        <translation>Statistik resultat</translation>
     </message>
     <message>
         <source>Nearest neighbour analysis</source>
-        <translation type="unfinished"></translation>
+        <translation>Nearest neighbour analyse</translation>
     </message>
     <message>
         <source>Nearest neighbour statistics</source>
-        <translation type="unfinished"></translation>
+        <translation>Nearest neighbour statistik</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished">Afbryd</translation>
+        <translation>Afbryd</translation>
     </message>
     <message>
         <source>Parameter</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>Value</source>
-        <translation type="unfinished"></translation>
+        <translation>Værdi</translation>
     </message>
 </context>
 <context>
@@ -38649,22 +38649,22 @@ Description: %3</source>
     <message>
         <location filename="../src/ui/symbollayer/widget_markerline.ui" line="57"/>
         <source>with interval</source>
-        <translation type="unfinished"></translation>
+        <translation>med interval</translation>
     </message>
     <message>
         <location filename="../src/ui/symbollayer/widget_markerline.ui" line="80"/>
         <source>on every vertex</source>
-        <translation type="unfinished"></translation>
+        <translation>på alle knudepunkter</translation>
     </message>
     <message>
         <location filename="../src/ui/symbollayer/widget_markerline.ui" line="87"/>
         <source>on last vertex only</source>
-        <translation type="unfinished"></translation>
+        <translation>kun på sidste knudepunkt</translation>
     </message>
     <message>
         <location filename="../src/ui/symbollayer/widget_markerline.ui" line="94"/>
         <source>on first vertex only</source>
-        <translation type="unfinished"></translation>
+        <translation>kun på første knudepunkt</translation>
     </message>
     <message>
         <location filename="../src/ui/symbollayer/widget_markerline.ui" line="101"/>
@@ -38679,7 +38679,7 @@ Description: %3</source>
     <message>
         <location filename="../src/ui/symbollayer/widget_markerline.ui" line="148"/>
         <source>on central point</source>
-        <translation type="unfinished"></translation>
+        <translation>på centerpunkt</translation>
     </message>
 </context>
 <context>
@@ -39148,7 +39148,16 @@ Developed by Paolo L. Scala, Barbara Rita Barricelli, Marco Padula
 CNR, Milan Unit (Information Technology), Construction Technologies Institute.
 For support send a mail to scala@itc.cnr.it
 </source>
-        <translation type="unfinished"></translation>
+        <translation>Felt beskrivelse:
+* Input DXF-fil: stien til DXF-fil, der skal konverteres
+* Output SHP-filen: navn på shape fil, der skal oprettes
+* Shp output filtype: angiver typen på output fienl
+* Eksport tekstetiketter afkrydsningsfeltet: Hvis markeret, vil et shp punkter lag blive oprettet, og den tilhørende dbf tabel vil indeholde oplysninger om &quot;Tekst&quot; felter, der findes i DXF-fil, og tekststrengen selv
+
+---
+Udviklet af Paolo L. Scala, Barbara Rita Barricelli, Marco Padula
+CNR, Milan Unit (Information Technology), Construction Technologies Institute.
+For support send a mail to scala@itc.cnr.it</translation>
     </message>
     <message>
         <location filename="../src/plugins/dxf2shp_converter/dxf2shpconvertergui.cpp" line="157"/>
