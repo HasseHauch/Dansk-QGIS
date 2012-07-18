@@ -253,7 +253,7 @@
     <message>
         <location filename="../python/plugins/fTools/tools/frmMergeShapes.ui" line="20"/>
         <source>Select by layers in the folder</source>
-        <translation>Vælg vha. lag i mappe</translation>
+        <translation>Vælg vha. lag i mappen</translation>
     </message>
     <message>
         <location filename="../python/plugins/fTools/tools/frmMergeShapes.ui" line="29"/>
@@ -839,11 +839,11 @@
     </message>
     <message>
         <source>No input shapefile specified</source>
-        <translation>Ingen input shapefil specificeret</translation>
+        <translation>Ingen input shapefil valgt</translation>
     </message>
     <message>
         <source>Please specify spatial reference system</source>
-        <translation>Specificer spatial reference system</translation>
+        <translation>Vælg koordinat reference system</translation>
     </message>
     <message>
         <source>Cannot define projection for PostGIS data...yet!</source>
@@ -869,7 +869,7 @@ Er du sikker på at du vil fortsætte?</translation>
     </message>
     <message>
         <source>Please select the projection system that defines the current layer.</source>
-        <translation>Vælg det projektionssystem der definerer det valgte lag.</translation>
+        <translation>Vælg det projektionssystem der definerer det nuværende lag.</translation>
     </message>
     <message>
         <source>Layer CRS information will be updated to the selected CRS.</source>
@@ -1019,7 +1019,7 @@ Følgende feltnavne er længere end 10 karakterer:
     </message>
     <message>
         <source>No input layer specified</source>
-        <translation>Ingen input lag specificeret</translation>
+        <translation>Ingen input lag valgt</translation>
     </message>
     <message>
         <source>unstratified</source>
@@ -1077,11 +1077,11 @@ Vil du tilføje det nye lag til TOC?</translation>
     </message>
     <message>
         <source>Select by location</source>
-        <translation>Udvælg via geografisk placering</translation>
+        <translation>Vælg via geografisk placering</translation>
     </message>
     <message>
         <source>Select features in:</source>
-        <translation>Vælg objekt i:</translation>
+        <translation>Vælg objekter i:</translation>
     </message>
     <message>
         <source>that intersect features in:</source>
@@ -1097,7 +1097,7 @@ Vil du tilføje det nye lag til TOC?</translation>
     </message>
     <message>
         <source>Please specify select layer</source>
-        <translation>Vælg et valg-lag</translation>
+        <translation>Vælg et selektions-lag</translation>
     </message>
     <message>
         <source>Random selection within subsets</source>
@@ -1133,7 +1133,7 @@ Vil du tilføje det nye lag til TOC?</translation>
     </message>
     <message>
         <source>No input vector layer specified</source>
-        <translation>Ingen input vektor lag specificeret</translation>
+        <translation>Ingen input vektor lag valgt</translation>
     </message>
     <message>
         <source>Split vector layer</source>
@@ -2339,7 +2339,7 @@ Vil du afslutte den alligevel?</translation>
     </message>
     <message>
         <source>Select where to save the Polygonize output</source>
-        <translation>Angiv, hvor vektordata skal gemmes</translation>
+        <translation>Angiv, hvor vektor output data skal gemmes</translation>
     </message>
     <message>
         <source>Select the input file for Grid</source>
@@ -2387,7 +2387,7 @@ Deaktivér &quot;Use intersected extent&quot; optionen for at få ikke-tomme udd
     </message>
     <message>
         <source>Select where to save the Merge output</source>
-        <translation>Angiv, hvor sammenfletnings data gemmes</translation>
+        <translation>Angiv, hvor sammenfletnings uddata gemmes</translation>
     </message>
     <message>
         <source>Select the input directory with files to Merge</source>
@@ -3841,7 +3841,7 @@ Would you like to add the new layer to the TOC?</source>
     </message>
     <message>
         <source>Please specify dissolve field</source>
-        <translation>Vælg det &quot;dissolve&quot; feldt</translation>
+        <translation>Vælg &quot;dissolve&quot; felt</translation>
     </message>
     <message>
         <source>Please specify output shapefile</source>
@@ -23942,14 +23942,14 @@ http://my.host.com/cgi-bin/mapserv.exe</source>
         <source>Connection failed - Host name hasn&apos;t been specified.
 
 </source>
-        <translation>Tilslutning mislykkedes - Host navn er ikke blevet specificeret.</translation>
+        <translation>Tilslutning mislykkedes - Host navn er ikke blevet angivet.</translation>
     </message>
     <message>
         <location filename="../src/providers/mssql/qgsmssqlnewconnection.cpp" line="152"/>
         <source>Connection failed - Database name hasn&apos;t been specified.
 
 </source>
-        <translation>Tilslutning mislykkedes -Databasenavn er ikke blevet specificeret.</translation>
+        <translation>Tilslutning mislykkedes -Databasenavn er ikke blevet angivet.</translation>
     </message>
     <message>
         <location filename="../src/providers/mssql/qgsmssqlnewconnection.cpp" line="174"/>
@@ -25889,7 +25889,7 @@ Extended error information:
     <message>
         <location filename="../src/app/ogr/qgsopenvectorlayerdialog.cpp" line="324"/>
         <source>Please enter your password:</source>
-        <translation>Venligts indtast kodeord:</translation>
+        <translation>Indtast kodeord:</translation>
     </message>
     <message>
         <location filename="../src/app/ogr/qgsopenvectorlayerdialog.cpp" line="347"/>
