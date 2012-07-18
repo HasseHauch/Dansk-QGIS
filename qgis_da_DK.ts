@@ -6,7 +6,7 @@
     <message>
         <location filename="../src/gui/symbology-ng/characterwidget.cpp" line="111"/>
         <source>&lt;p&gt;Character: &lt;span style=&quot;font-size: 24pt; font-family: %1%2&lt;/span&gt;&lt;p&gt;Value: 0x%3&quot;&gt;</source>
-        <translation>&lt;p&gt;Character: &lt;span style=&quot;font-size: 24pt; font-family: %1%2&lt;/span&gt;&lt;p&gt;V&amp;aelig;rdi: 0x%3&quot;&gt;</translation>
+        <translation></translation>
     </message>
 </context>
 <context>
@@ -278,7 +278,7 @@
     <message>
         <location filename="../python/plugins/fTools/tools/frmMergeShapes.ui" line="57"/>
         <source>Input directory</source>
-        <translation>Input bibliotek</translation>
+        <translation>Input mappe</translation>
     </message>
     <message>
         <location filename="../python/plugins/fTools/tools/frmMergeShapes.ui" line="99"/>
@@ -813,7 +813,7 @@
     </message>
     <message>
         <source>Cancel</source>
-        <translation>Afbryd</translation>
+        <translation>Annuller</translation>
     </message>
     <message>
         <source>Merging</source>
@@ -1999,11 +1999,11 @@ Dette plugin vil ikke være aktiveret.</translation>
     </message>
     <message>
         <source>Builds vector contour lines from a DEM</source>
-        <translation>Danner vektor kontourlinier fra en DEM</translation>
+        <translation type="unfinished">Danner vektor kontourlinier fra en DEM</translation>
     </message>
     <message>
         <source>Clipper</source>
-        <translation>Klipper</translation>
+        <translation type="unfinished">Klipper</translation>
     </message>
     <message>
         <source>Analysis</source>
@@ -2011,7 +2011,7 @@ Dette plugin vil ikke være aktiveret.</translation>
     </message>
     <message>
         <source>Sieve</source>
-        <translation>Si(filter)</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Removes small raster polygons</source>
@@ -2019,87 +2019,87 @@ Dette plugin vil ikke være aktiveret.</translation>
     </message>
     <message>
         <source>Near black</source>
-        <translation>Næsten sort</translation>
+        <translation type="unfinished">Næsten sort</translation>
     </message>
     <message>
         <source>Convert nearly black/white borders to exact value</source>
-        <translation>Konvertér næsten sort/hvide kanter til eksakt værdi</translation>
+        <translation type="unfinished">Konvertér næsten sort/hvide kanter til eksakt værdi</translation>
     </message>
     <message>
         <source>Fill nodata</source>
-        <translation>Udfyld ingen-data</translation>
+        <translation type="unfinished">Udfyld ingen-data</translation>
     </message>
     <message>
         <source>Fill raster regions by interpolation from edges</source>
-        <translation>Udfyld raster via interpolation fra kanter</translation>
+        <translation type="unfinished">Udfyld raster via interpolation fra kanter</translation>
     </message>
     <message>
         <source>Proximity (Raster distance)</source>
-        <translation>Nærhed (Raster distance)</translation>
+        <translation type="unfinished">Proximity (Raster distance)</translation>
     </message>
     <message>
         <source>Produces a raster proximity map</source>
-        <translation>Genererer et raster nærheds kort</translation>
+        <translation type="unfinished">Genererer et raster proximity kort</translation>
     </message>
     <message>
         <source>Grid (Interpolation)</source>
-        <translation>Grid (Interpolation)</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Create raster from the scattered data</source>
-        <translation>Generer raster fra spredte data</translation>
+        <translation type="unfinished">Generer raster fra spredte data</translation>
     </message>
     <message>
         <source>DEM (Terrain models)</source>
-        <translation>DEM (terræn modeller)</translation>
+        <translation type="unfinished">DEM (terræn modeller)</translation>
     </message>
     <message>
         <source>Tool to analyze and visualize DEMs</source>
-        <translation>Værktøj til at analysere og visualisere DEMs</translation>
+        <translation type="unfinished">Værktøj til at analysere og visualisere DEMs</translation>
     </message>
     <message>
         <source>Miscellaneous</source>
-        <translation>Forskellige</translation>
+        <translation type="unfinished">Forskellige</translation>
     </message>
     <message>
         <source>Build Virtual Raster (Catalog)</source>
-        <translation>Dan virtuel raster (Katalog)</translation>
+        <translation type="unfinished">Generer virtuel raster (Katalog)</translation>
     </message>
     <message>
         <source>Builds a VRT from a list of datasets</source>
-        <translation>Danner en VRT fra en liste af datasæt</translation>
+        <translation type="unfinished">Genererer en VRT fra en liste af datasæt</translation>
     </message>
     <message>
         <source>Merge</source>
-        <translation>Sammenflet</translation>
+        <translation type="unfinished">Sammeflet</translation>
     </message>
     <message>
         <source>Build a quick mosaic from a set of images</source>
-        <translation>Generér en hurtig mosaik fra et sæt af billeder</translation>
+        <translation type="unfinished">Generér en hurtig mosaik fra et sæt af billeder</translation>
     </message>
     <message>
         <source>Information</source>
-        <translation>Information</translation>
+        <translation type="unfinished">Information</translation>
     </message>
     <message>
         <source>Lists information about raster dataset</source>
-        <translation>Viser information vedr. et raster datasæt</translation>
+        <translation type="unfinished">Viser information vedr. et raster datasæt</translation>
     </message>
     <message>
         <source>Build overviews (Pyramids)</source>
-        <translation>Dan overbliks pyramider</translation>
+        <translation type="unfinished">Generér overbliks pyramider</translation>
     </message>
     <message>
         <source>Builds or rebuilds overview images</source>
-        <translation>Danner eller gendanner overbliks billeder</translation>
+        <translation type="unfinished">Danner eller gendanner overbliks billeder</translation>
     </message>
     <message>
         <source>Tile index</source>
-        <translation>Tile indeks</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Build a shapefile as a raster tileindex</source>
-        <translation>Dan en shapefil som et raster tileindeks</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>GdalTools settings</source>
@@ -2107,31 +2107,31 @@ Dette plugin vil ikke være aktiveret.</translation>
     </message>
     <message>
         <source>Various settings for Gdal Tools</source>
-        <translation>Forskellige indstillinger for GDAL tools</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>&amp;Input directory</source>
-        <translation>&amp;Input mappe</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>&amp;Output directory</source>
-        <translation>&amp;Output mappe</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>The process failed to start. Either the invoked program is missing, or you may have insufficient permissions to invoke the program.</source>
-        <translation>Processen kunne ikke starte. Måske findes programmet ikke eller du har ikke privilegier til at state programmet</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>The process crashed some time after starting successfully.</source>
-        <translation>Programmet stoppede med en fejl efter at have startet korrekt</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>An unknown error occurred.</source>
-        <translation>Der er sket en ukendt fejl</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>The selected file is not a supported OGR format</source>
-        <translation>Den valgte fil er ikke i et format understøttet af OGR</translation>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -2242,7 +2242,7 @@ Vil du afslutte den alligevel?</translation>
     <message>
         <location filename="../python/plugins/GdalTools/tools/dialogBase.ui" line="29"/>
         <source>&amp;Load into canvas when finished</source>
-        <translation>&amp;Tilføj til kortbillede efter færdiggørelse</translation>
+        <translation type="unfinished">&amp;Tilføj til kortbillede efter færdiggørelse</translation>
     </message>
     <message>
         <location filename="../python/plugins/GdalTools/tools/dialogBase.ui" line="63"/>
@@ -2403,91 +2403,91 @@ Deaktivér &quot;Use intersected extent&quot; optionen for at få ikke-tomme udd
     </message>
     <message>
         <source>Select where to save the TileIndex output</source>
-        <translation>Angiv, hvor TileIndex output skal gemmes</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Warning</source>
-        <translation>Advarsel</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Warning: CRS information for all raster in subfolders will be rewritten. Are you sure?</source>
-        <translation>Advarsel ! CRS information for alle rasterfiler i undermapperne vil blive overskrevet. Er du sikker?</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Select the file to analyse</source>
-        <translation>Vælg filen, som skal analyseres</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Select the input directory with files to Assign projection</source>
-        <translation>Vælg input mappen med filer, som skal tildeles projektion</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Finished</source>
-        <translation>Færdig</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Processing completed.</source>
-        <translation>Behandling færdiggjort.</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>%1 not created.</source>
-        <translation>%1 ikke dannet.</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Assign projection</source>
-        <translation>Tildel projektion</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>This raster already found in map canvas</source>
-        <translation>Denne rasterfil findes allerede i kortbilledet</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Select the input file for Rasterize</source>
-        <translation>Vælg input fil for rasterisering</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Output size required</source>
-        <translation>Output størrelse er nødvendig</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>The output file doesn&apos;t exist. You must set up the output size to create it.</source>
-        <translation>Output fille eksisterer ikke. Du må værdisætte output størrelse for at danne den.</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Select the input file for Contour</source>
-        <translation>Vælg input fil for kontourering</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Select where to save the Contour output</source>
-        <translation>Vælg, hvor kontour output skal gemmes</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Select the input file for Warp</source>
-        <translation>Vælg input fil for warp</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Select the mask file</source>
-        <translation>Vælg maske filen</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Select the input directory with files to Warp</source>
-        <translation>Vælg input mappe med filer, der skal warpes</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Convert paletted image to RGB</source>
-        <translation>Konverter palette billede til RGB</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Select the input file for Sieve</source>
-        <translation>Vælg input filen for Si (Sieve)</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Select the file for DEM</source>
-        <translation>Vælg filen til DEM</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Select the color configuration file</source>
-        <translation>Vælg farve konfigurationsfil</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Copy</source>
@@ -2499,7 +2499,7 @@ Deaktivér &quot;Use intersected extent&quot; optionen for at få ikke-tomme udd
     </message>
     <message>
         <source>Select the input file for Near Black</source>
-        <translation>Vælg input filen for Næsten Sort</translation>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -2507,12 +2507,12 @@ Deaktivér &quot;Use intersected extent&quot; optionen for at få ikke-tomme udd
     <message>
         <location filename="../python/plugins/GdalTools/tools/extentSelector.ui" line="20"/>
         <source>Select the extent by drag on canvas</source>
-        <translation>Vælg udbredelsen ved at trække musen på kortbilledet</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../python/plugins/GdalTools/tools/extentSelector.ui" line="27"/>
         <source>or change the extent coordinates</source>
-        <translation>eller ændre udbredelses koordinaterne</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../python/plugins/GdalTools/tools/extentSelector.ui" line="37"/>
@@ -2539,7 +2539,7 @@ Deaktivér &quot;Use intersected extent&quot; optionen for at få ikke-tomme udd
     <message>
         <location filename="../python/plugins/GdalTools/tools/extentSelector.ui" line="97"/>
         <source>Re-Enable</source>
-        <translation>Reaktivér</translation>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -2683,7 +2683,7 @@ når man vælger hjælp knappen i Tool dialogen.</translation>
         <location filename="../python/plugins/GdalTools/tools/widgetProjection.ui" line="52"/>
         <location filename="../python/plugins/GdalTools/tools/widgetTileIndex.ui" line="32"/>
         <source>Recurse subdirectories</source>
-        <translation>Gennemløb undermapper</translation>
+        <translation type="unfinished">Gennemløb undermapper</translation>
     </message>
     <message>
         <location filename="../python/plugins/GdalTools/tools/widgetBuildVRT.ui" line="62"/>
@@ -2724,12 +2724,12 @@ når man vælger hjælp knappen i Tool dialogen.</translation>
     <message>
         <location filename="../python/plugins/GdalTools/tools/widgetBuildVRT.ui" line="107"/>
         <source>&amp;Source No Data</source>
-        <translation>&amp;Kilde ingen data</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../python/plugins/GdalTools/tools/widgetBuildVRT.ui" line="124"/>
         <source>Se&amp;parate</source>
-        <translation>&amp;Adskil</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../python/plugins/GdalTools/tools/widgetBuildVRT.ui" line="137"/>
@@ -2739,7 +2739,7 @@ når man vælger hjælp knappen i Tool dialogen.</translation>
     <message>
         <location filename="../python/plugins/GdalTools/tools/widgetClipper.ui" line="20"/>
         <source>Clipper</source>
-        <translation>Klipper</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../python/plugins/GdalTools/tools/widgetClipper.ui" line="38"/>
@@ -2763,54 +2763,54 @@ når man vælger hjælp knappen i Tool dialogen.</translation>
         <location filename="../python/plugins/GdalTools/tools/widgetClipper.ui" line="79"/>
         <location filename="../python/plugins/GdalTools/tools/widgetGrid.ui" line="804"/>
         <source>Extent</source>
-        <translation>Udbredelse</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../python/plugins/GdalTools/tools/widgetClipper.ui" line="89"/>
         <location filename="../python/plugins/GdalTools/tools/widgetClipper.ui" line="129"/>
         <location filename="../python/plugins/GdalTools/tools/widgetWarp.ui" line="181"/>
         <source>Mask layer</source>
-        <translation>Maskér lag</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../python/plugins/GdalTools/tools/widgetClipper.ui" line="139"/>
         <source>Create an output alpha band</source>
-        <translation>Dan et output alpha bånd</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../python/plugins/GdalTools/tools/widgetContour.ui" line="20"/>
         <source>Contour</source>
-        <translation>Kontour</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../python/plugins/GdalTools/tools/widgetContour.ui" line="38"/>
         <source>&amp;Output file for contour lines (vector)</source>
-        <translation>&amp;Output fil for kontourer(vektorer)</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../python/plugins/GdalTools/tools/widgetContour.ui" line="48"/>
         <source>I&amp;nterval between contour lines</source>
-        <translation>&amp;Interval mellem kontourlinier</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../python/plugins/GdalTools/tools/widgetContour.ui" line="73"/>
         <source>&amp;Attribute name</source>
-        <translation>&amp;Attribut navn</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../python/plugins/GdalTools/tools/widgetContour.ui" line="85"/>
         <source>If not provided, no elevation attribute is attached.</source>
-        <translation>Hvis ikke tildelt, vil der ikke tilføjes højde attribut </translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../python/plugins/GdalTools/tools/widgetContour.ui" line="99"/>
         <source>ELEV</source>
-        <translation>ELEV</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../python/plugins/GdalTools/tools/widgetConvert.ui" line="20"/>
         <source>Convert RGB image to paletted</source>
-        <translation>Konvertér RGB billede til palette billede</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../python/plugins/GdalTools/tools/widgetConvert.ui" line="26"/>
@@ -2820,7 +2820,7 @@ når man vælger hjælp knappen i Tool dialogen.</translation>
         <location filename="../python/plugins/GdalTools/tools/widgetTranslate.ui" line="26"/>
         <location filename="../python/plugins/GdalTools/tools/widgetWarp.ui" line="26"/>
         <source>Batch mode (for processing whole directory)</source>
-        <translation>Batch metode (for at behandle en hel mappe)</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../python/plugins/GdalTools/tools/widgetConvert.ui" line="35"/>
@@ -2833,87 +2833,87 @@ når man vælger hjælp knappen i Tool dialogen.</translation>
         <location filename="../python/plugins/GdalTools/tools/widgetSieve.ui" line="28"/>
         <location filename="../python/plugins/GdalTools/tools/widgetWarp.ui" line="35"/>
         <source>&amp;Input file</source>
-        <translation>&amp;Input fil</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../python/plugins/GdalTools/tools/widgetConvert.ui" line="55"/>
         <source>Number of colors</source>
-        <translation>Farve antal</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../python/plugins/GdalTools/tools/widgetConvert.ui" line="82"/>
         <source>Band to convert</source>
-        <translation>Konverterings bånd</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../python/plugins/GdalTools/tools/widgetDEM.ui" line="20"/>
         <source>DEM (Terrain models)</source>
-        <translation>DEM (terræn modeller)</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../python/plugins/GdalTools/tools/widgetDEM.ui" line="28"/>
         <source>&amp;Input file (DEM raster)</source>
-        <translation>&amp;Input fil (DEM raster)</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../python/plugins/GdalTools/tools/widgetDEM.ui" line="48"/>
         <source>&amp;Band</source>
-        <translation>&amp;Bånd</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../python/plugins/GdalTools/tools/widgetDEM.ui" line="62"/>
         <source>Compute &amp;edges</source>
-        <translation>Beregn kanter</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../python/plugins/GdalTools/tools/widgetDEM.ui" line="69"/>
         <source>&amp;Mode</source>
-        <translation>&amp;Tilstand</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../python/plugins/GdalTools/tools/widgetDEM.ui" line="89"/>
         <source>Hillshade</source>
-        <translation type="unfinished">Skyggevirkning</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../python/plugins/GdalTools/tools/widgetDEM.ui" line="94"/>
         <source>Slope</source>
-        <translation>Hældning</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../python/plugins/GdalTools/tools/widgetDEM.ui" line="99"/>
         <source>Aspect</source>
-        <translation>Aspekt</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../python/plugins/GdalTools/tools/widgetDEM.ui" line="104"/>
         <source>Color relief</source>
-        <translation>Farve relief</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../python/plugins/GdalTools/tools/widgetDEM.ui" line="109"/>
         <source>TRI (Terrain Ruggedness Index)</source>
-        <translation>TRI (Terræn Ruggedness Indeks)</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../python/plugins/GdalTools/tools/widgetDEM.ui" line="114"/>
         <source>TPI (Topographic Position Index)</source>
-        <translation>TPI (Topografisk positions Indeks)</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../python/plugins/GdalTools/tools/widgetDEM.ui" line="119"/>
         <source>Roughness</source>
-        <translation>Grovhed</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../python/plugins/GdalTools/tools/widgetDEM.ui" line="127"/>
         <source>Use Zevenbergen&amp;&amp;Thorne formula (instead of the Horn&apos;s one)</source>
-        <translation>Brug Zevenbergen&amp;&amp;Thorne formular (i stedet for Horn&apos;s one)</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../python/plugins/GdalTools/tools/widgetDEM.ui" line="149"/>
         <source>Z factor (vertical exaggeration)</source>
-        <translation>Z faktor (vertikal overhøjde)</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../python/plugins/GdalTools/tools/widgetDEM.ui" line="172"/>
@@ -3774,7 +3774,7 @@ The &apos;gray&apos; value (from GDAL 1.7.0) enables to expand a dataset with a 
     </message>
     <message>
         <source>Cancel</source>
-        <translation>Afbryd</translation>
+        <translation type="unfinished">Annuller</translation>
     </message>
     <message>
         <source>Error processing specified tolerance!
@@ -4824,7 +4824,7 @@ GEOS geoprocessing error: One or more input features have invalid geometry.</sou
     <message>
         <location filename="../src/ui/qgisapp.ui" line="1190"/>
         <source>Open Attribute Table</source>
-        <translation>Åbn attribut tabel</translation>
+        <translation>Åben listevindue</translation>
     </message>
     <message>
         <location filename="../src/ui/qgisapp.ui" line="1202"/>
@@ -5414,7 +5414,7 @@ GEOS geoprocessing error: One or more input features have invalid geometry.</sou
     <message>
         <location filename="../python/plugins/osm/ui_files/OsmDownloadDlg.ui" line="365"/>
         <source>Cancel</source>
-        <translation>Afbryd</translation>
+        <translation>Annuller</translation>
     </message>
     <message>
         <source>OSM Download</source>
@@ -5714,7 +5714,7 @@ GEOS geoprocessing error: One or more input features have invalid geometry.</sou
     </message>
     <message>
         <source>Cancel</source>
-        <translation>Afbryd</translation>
+        <translation>Annuller</translation>
     </message>
     <message>
         <source>Import</source>
@@ -6327,7 +6327,7 @@ You are seeing this message most likely because you have no DISPLAY environment 
         <location filename="../src/app/qgspluginregistry.cpp" line="287"/>
         <source>Library name is %1
 </source>
-        <translation>Bibliotek navn er %1</translation>
+        <translation type="unfinished">Mappenavn er %1</translation>
     </message>
     <message>
         <location filename="../src/app/qgspluginregistry.cpp" line="292"/>
@@ -10225,7 +10225,7 @@ User DB Path:	%8
     <message>
         <location filename="../src/ui/qgsattributeselectiondialogbase.ui" line="14"/>
         <source>Select attributes</source>
-        <translation>Vælg attributter</translation>
+        <translation type="unfinished">Vælg attributter</translation>
     </message>
     <message>
         <location filename="../src/ui/qgsattributeselectiondialogbase.ui" line="20"/>
@@ -10284,7 +10284,7 @@ User DB Path:	%8
     <message>
         <location filename="../src/ui/qgsattributetabledialog.ui" line="14"/>
         <source>Attribute Table</source>
-        <translation>Attribut tabel</translation>
+        <translation>Listevindue</translation>
     </message>
     <message>
         <location filename="../src/ui/qgsattributetabledialog.ui" line="38"/>
@@ -10384,7 +10384,7 @@ User DB Path:	%8
     <message>
         <location filename="../src/ui/qgsattributetabledialog.ui" line="268"/>
         <source>Toggle editing mode (Ctrl+E)</source>
-        <translation type="unfinished">Start/Stop redigeringsmode (Ctrl+E)</translation>
+        <translation>Start/Stop redigeringsmode (Ctrl+E)</translation>
     </message>
     <message>
         <location filename="../src/ui/qgsattributetabledialog.ui" line="287"/>
@@ -10476,7 +10476,8 @@ User DB Path:	%8
         <location filename="../src/app/qgsattributetabledialog.cpp" line="80"/>
         <source>Attribute table - %1 (%n Feature(s))</source>
         <comment>feature count</comment>
-        <translation type="unfinished">
+        <translation>
+            <numerusform>Listevindue - %1 (%n objekt(er))</numerusform>
             <numerusform></numerusform>
         </translation>
     </message>
@@ -10484,19 +10485,20 @@ User DB Path:	%8
         <location filename="../src/app/qgsattributetabledialog.cpp" line="156"/>
         <source>Attribute table - %1 :: %n / %2 feature(s) selected</source>
         <comment>feature count</comment>
-        <translation type="unfinished">
+        <translation>
+            <numerusform>Listevindue - %1 :: %n / %2 objekt(er) valgt</numerusform>
             <numerusform></numerusform>
         </translation>
     </message>
     <message>
         <location filename="../src/app/qgsattributetabledialog.cpp" line="541"/>
         <source>Parsing error</source>
-        <translation type="unfinished"></translation>
+        <translation>Tolkningsfejl</translation>
     </message>
     <message>
         <location filename="../src/app/qgsattributetabledialog.cpp" line="547"/>
         <source>Evaluation error</source>
-        <translation type="unfinished"></translation>
+        <translation>Evaluering fejl</translation>
     </message>
     <message>
         <location filename="../src/app/qgsattributetabledialog.cpp" line="591"/>
@@ -10507,14 +10509,15 @@ User DB Path:	%8
         <location filename="../src/app/qgsattributetabledialog.cpp" line="601"/>
         <source>Attribute table - %1 (%n matching features)</source>
         <comment>matching features</comment>
-        <translation type="unfinished">
+        <translation>
+            <numerusform>Listevindue - %1 (%n matchende objekter)</numerusform>
             <numerusform></numerusform>
         </translation>
     </message>
     <message>
         <location filename="../src/app/qgsattributetabledialog.cpp" line="605"/>
         <source>Attribute table - %1 (No matching features)</source>
-        <translation>Attributtabel - %1 (Ingen matchende objekter)</translation>
+        <translation>Listevindue - %1 (Ingen matchende objekter)</translation>
     </message>
     <message>
         <location filename="../src/app/qgsattributetabledialog.cpp" line="720"/>
@@ -10550,13 +10553,13 @@ User DB Path:	%8
     <message>
         <location filename="../src/app/qgsattributetabledialog.cpp" line="811"/>
         <source>Run action</source>
-        <translation type="unfinished"></translation>
+        <translation>Kør funktion</translation>
     </message>
     <message>
         <location filename="../src/app/qgsattributetabledialog.cpp" line="826"/>
         <location filename="../src/app/qgsattributetabledialog.cpp" line="827"/>
         <source>Open form</source>
-        <translation type="unfinished"></translation>
+        <translation>Åben form</translation>
     </message>
     <message>
         <location filename="../src/app/qgsattributetabledialog.cpp" line="834"/>
@@ -15482,7 +15485,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../src/gui/qgsencodingfiledialog.cpp" line="93"/>
         <source>Cancel &amp;All</source>
-        <translation type="unfinished"></translation>
+        <translation>Annuller &amp;alt</translation>
     </message>
 </context>
 <context>
@@ -15672,98 +15675,98 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../src/ui/qgsexpressionbuilder.ui" line="20"/>
         <source>Form</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="../src/ui/qgsexpressionbuilder.ui" line="40"/>
         <source>Function List</source>
-        <translation type="unfinished"></translation>
+        <translation>Funktioner</translation>
     </message>
     <message>
         <location filename="../src/ui/qgsexpressionbuilder.ui" line="107"/>
         <source>Selected Function Help</source>
-        <translation type="unfinished"></translation>
+        <translation>Hjælp til valgte funktion</translation>
     </message>
     <message>
         <location filename="../src/ui/qgsexpressionbuilder.ui" line="141"/>
         <source>Field Values</source>
-        <translation type="unfinished"></translation>
+        <translation>Felt værdi</translation>
     </message>
     <message>
         <location filename="../src/ui/qgsexpressionbuilder.ui" line="204"/>
         <source>Load all unique values</source>
-        <translation type="unfinished"></translation>
+        <translation>Hent alle unikke værdier</translation>
     </message>
     <message>
         <location filename="../src/ui/qgsexpressionbuilder.ui" line="211"/>
         <source>Load 10 sample values</source>
-        <translation type="unfinished"></translation>
+        <translation>Hent første 10 værdier</translation>
     </message>
     <message>
         <location filename="../src/ui/qgsexpressionbuilder.ui" line="260"/>
         <source>Operators</source>
-        <translation type="unfinished"></translation>
+        <translation>Operatorer</translation>
     </message>
     <message>
         <location filename="../src/ui/qgsexpressionbuilder.ui" line="287"/>
         <source>=</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="../src/ui/qgsexpressionbuilder.ui" line="300"/>
         <source>+</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="../src/ui/qgsexpressionbuilder.ui" line="307"/>
         <source>-</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="../src/ui/qgsexpressionbuilder.ui" line="314"/>
         <source>/</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="../src/ui/qgsexpressionbuilder.ui" line="321"/>
         <source>*</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="../src/ui/qgsexpressionbuilder.ui" line="328"/>
         <source>^</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="../src/ui/qgsexpressionbuilder.ui" line="335"/>
         <source>||</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="../src/ui/qgsexpressionbuilder.ui" line="354"/>
         <source>(</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="../src/ui/qgsexpressionbuilder.ui" line="361"/>
         <source>)</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="../src/ui/qgsexpressionbuilder.ui" line="385"/>
         <location filename="../src/ui/qgsexpressionbuilder.ui" line="409"/>
         <source>Output preview is generated &lt;br&gt; using the first feature from the layer.</source>
-        <translation type="unfinished"></translation>
+        <translation>Output preview er dannet &lt;br&gt; udfra det første objekt i laget</translation>
     </message>
     <message>
         <location filename="../src/ui/qgsexpressionbuilder.ui" line="388"/>
         <source>Output preview:   </source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="../src/ui/qgsexpressionbuilder.ui" line="466"/>
         <source>Expression</source>
-        <translation type="unfinished"></translation>
+        <translation>Udtryk</translation>
     </message>
 </context>
 <context>
@@ -15824,47 +15827,47 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../src/ui/qgsfieldcalculatorbase.ui" line="14"/>
         <source>Field calculator</source>
-        <translation type="unfinished"></translation>
+        <translation>Opdater kolonne værktøj</translation>
     </message>
     <message>
         <location filename="../src/ui/qgsfieldcalculatorbase.ui" line="20"/>
         <source>Only update selected features</source>
-        <translation type="unfinished"></translation>
+        <translation>Opdater kun valgte objekter</translation>
     </message>
     <message>
         <location filename="../src/ui/qgsfieldcalculatorbase.ui" line="33"/>
         <source>Create a new field</source>
-        <translation type="unfinished"></translation>
+        <translation>Opret en ny kolonne</translation>
     </message>
     <message>
         <location filename="../src/ui/qgsfieldcalculatorbase.ui" line="66"/>
         <source>Output field name</source>
-        <translation type="unfinished"></translation>
+        <translation>Kolonnenavn</translation>
     </message>
     <message>
         <location filename="../src/ui/qgsfieldcalculatorbase.ui" line="79"/>
         <source>Output field type</source>
-        <translation type="unfinished"></translation>
+        <translation>Datatype</translation>
     </message>
     <message>
         <location filename="../src/ui/qgsfieldcalculatorbase.ui" line="92"/>
         <source>Output field width</source>
-        <translation type="unfinished"></translation>
+        <translation>Feltbredde</translation>
     </message>
     <message>
         <location filename="../src/ui/qgsfieldcalculatorbase.ui" line="102"/>
         <source>Width of complete output. For example 123,456 means 6 as field width.</source>
-        <translation type="unfinished"></translation>
+        <translation>Bredden af det samlede felt. For eksempel 123,456 defineres som 6 i feltbredde.</translation>
     </message>
     <message>
         <location filename="../src/ui/qgsfieldcalculatorbase.ui" line="115"/>
         <source>Precision</source>
-        <translation type="unfinished"></translation>
+        <translation>Nøjagtighed</translation>
     </message>
     <message>
         <location filename="../src/ui/qgsfieldcalculatorbase.ui" line="135"/>
         <source>Update existing field</source>
-        <translation type="unfinished"></translation>
+        <translation>Opdater eksisterende kolonne</translation>
     </message>
 </context>
 <context>
@@ -16731,7 +16734,7 @@ Please reselect a valid file.</source>
         <location filename="../src/plugins/gps_importer/qgsgpsplugin.cpp" line="435"/>
         <location filename="../src/plugins/gps_importer/qgsgpsplugin.cpp" line="525"/>
         <source>Cancel</source>
-        <translation type="unfinished">Afbryd</translation>
+        <translation>Annuller</translation>
     </message>
     <message>
         <location filename="../src/plugins/gps_importer/qgsgpsplugin.cpp" line="288"/>
@@ -18940,7 +18943,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../src/plugins/grass/qgsgrassutils.cpp" line="113"/>
         <source>Cancel</source>
-        <translation type="unfinished">Afbryd</translation>
+        <translation type="unfinished">Annuller</translation>
     </message>
     <message>
         <location filename="../src/plugins/grass/qgsgrassutils.cpp" line="142"/>
@@ -22323,7 +22326,7 @@ This may be a problem in your network connection or at the WMS server.</source>
     <message>
         <location filename="../src/app/legend/qgslegendlayer.cpp" line="473"/>
         <source>&amp;Query...</source>
-        <translation>&amp;SQL forespørgsel:</translation>
+        <translation type="unfinished">&amp;Set filter på lag:</translation>
     </message>
     <message>
         <location filename="../src/app/legend/qgslegendlayer.cpp" line="476"/>
@@ -26315,7 +26318,7 @@ Extended error information:
     <message>
         <location filename="../src/ui/qgsoptionsbase.ui" line="364"/>
         <source>Open attribute table</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Åben listevindue</translation>
     </message>
     <message>
         <location filename="../src/ui/qgsoptionsbase.ui" line="374"/>
@@ -29593,7 +29596,7 @@ Because of this the projection selector will not work...</source>
     <message>
         <location filename="../src/gui/qgsquerybuilder.cpp" line="38"/>
         <source>&amp;Test</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Test</translation>
     </message>
     <message>
         <location filename="../src/gui/qgsquerybuilder.cpp" line="42"/>
@@ -29603,13 +29606,14 @@ Because of this the projection selector will not work...</source>
     <message>
         <location filename="../src/gui/qgsquerybuilder.cpp" line="163"/>
         <source>Query Result</source>
-        <translation type="unfinished"></translation>
+        <translation>Resultat</translation>
     </message>
     <message numerus="yes">
         <location filename="../src/gui/qgsquerybuilder.cpp" line="164"/>
         <source>The where clause returned %n row(s).</source>
         <comment>returned test rows</comment>
-        <translation type="unfinished">
+        <translation>
+            <numerusform>Forespørgslen retunerede %n række(r).</numerusform>
             <numerusform></numerusform>
         </translation>
     </message>
@@ -29618,14 +29622,14 @@ Because of this the projection selector will not work...</source>
         <location filename="../src/gui/qgsquerybuilder.cpp" line="177"/>
         <location filename="../src/gui/qgsquerybuilder.cpp" line="190"/>
         <source>Query Failed</source>
-        <translation type="unfinished"></translation>
+        <translation>Forespørgsel fejlede</translation>
     </message>
     <message>
         <location filename="../src/gui/qgsquerybuilder.cpp" line="170"/>
         <location filename="../src/gui/qgsquerybuilder.cpp" line="178"/>
         <location filename="../src/gui/qgsquerybuilder.cpp" line="191"/>
         <source>An error occurred when executing the query.</source>
-        <translation type="unfinished"></translation>
+        <translation>Der opstod en fejl ved udførelsen af ​​forespørgslen.</translation>
     </message>
     <message>
         <location filename="../src/gui/qgsquerybuilder.cpp" line="171"/>
@@ -29633,12 +29637,14 @@ Because of this the projection selector will not work...</source>
         <source>
 The data provider said:
 %1</source>
-        <translation type="unfinished"></translation>
+        <translation>
+Dataprovideren retunerede:
+%1</translation>
     </message>
     <message>
         <location filename="../src/gui/qgsquerybuilder.cpp" line="197"/>
         <source>Error in Query</source>
-        <translation type="unfinished"></translation>
+        <translation>Fejl i forespørgsel</translation>
     </message>
     <message>
         <location filename="../src/gui/qgsquerybuilder.cpp" line="197"/>
@@ -29651,17 +29657,17 @@ The data provider said:
     <message>
         <location filename="../src/ui/qgsquerybuilderbase.ui" line="22"/>
         <source>Query Builder</source>
-        <translation type="unfinished"></translation>
+        <translation>Forespørgsel værktøj</translation>
     </message>
     <message>
         <location filename="../src/ui/qgsquerybuilderbase.ui" line="36"/>
         <source>Datasource</source>
-        <translation type="unfinished"></translation>
+        <translation>Datakilde</translation>
     </message>
     <message>
         <location filename="../src/ui/qgsquerybuilderbase.ui" line="49"/>
         <source>Fields</source>
-        <translation type="unfinished"></translation>
+        <translation>felter</translation>
     </message>
     <message>
         <location filename="../src/ui/qgsquerybuilderbase.ui" line="58"/>
@@ -29674,7 +29680,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../src/ui/qgsquerybuilderbase.ui" line="77"/>
         <source>Values</source>
-        <translation type="unfinished"></translation>
+        <translation>Værdi</translation>
     </message>
     <message>
         <location filename="../src/ui/qgsquerybuilderbase.ui" line="86"/>
@@ -29695,7 +29701,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../src/ui/qgsquerybuilderbase.ui" line="111"/>
         <source>Sample</source>
-        <translation type="unfinished"></translation>
+        <translation>Eksempel</translation>
     </message>
     <message>
         <location filename="../src/ui/qgsquerybuilderbase.ui" line="118"/>
@@ -29713,82 +29719,82 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../src/ui/qgsquerybuilderbase.ui" line="134"/>
         <source>Operators</source>
-        <translation type="unfinished"></translation>
+        <translation>Operatorer</translation>
     </message>
     <message>
         <location filename="../src/ui/qgsquerybuilderbase.ui" line="143"/>
         <source>=</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="../src/ui/qgsquerybuilderbase.ui" line="150"/>
         <source>&lt;</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="../src/ui/qgsquerybuilderbase.ui" line="157"/>
         <source>NOT</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="../src/ui/qgsquerybuilderbase.ui" line="164"/>
         <source>OR</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="../src/ui/qgsquerybuilderbase.ui" line="171"/>
         <source>AND</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="../src/ui/qgsquerybuilderbase.ui" line="178"/>
         <source>%</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="../src/ui/qgsquerybuilderbase.ui" line="185"/>
         <source>IN</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="../src/ui/qgsquerybuilderbase.ui" line="192"/>
         <source>NOT IN</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="../src/ui/qgsquerybuilderbase.ui" line="199"/>
         <source>!=</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="../src/ui/qgsquerybuilderbase.ui" line="206"/>
         <source>&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="../src/ui/qgsquerybuilderbase.ui" line="213"/>
         <source>LIKE</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="../src/ui/qgsquerybuilderbase.ui" line="220"/>
         <source>ILIKE</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="../src/ui/qgsquerybuilderbase.ui" line="227"/>
         <source>&gt;=</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="../src/ui/qgsquerybuilderbase.ui" line="234"/>
         <source>&lt;=</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="../src/ui/qgsquerybuilderbase.ui" line="250"/>
         <source>SQL where clause</source>
-        <translation type="unfinished"></translation>
+        <translation>SQL forespørgsel</translation>
     </message>
 </context>
 <context>
@@ -31718,48 +31724,49 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../src/gui/qgssearchquerybuilder.cpp" line="40"/>
         <source>Search query builder</source>
-        <translation type="unfinished"></translation>
+        <translation>Forespørgsel værktøj</translation>
     </message>
     <message>
         <location filename="../src/gui/qgssearchquerybuilder.cpp" line="42"/>
         <source>&amp;Test</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="../src/gui/qgssearchquerybuilder.cpp" line="46"/>
         <source>&amp;Clear</source>
-        <translation type="unfinished">&amp;Ryd</translation>
+        <translation>&amp;Ryd</translation>
     </message>
     <message>
         <location filename="../src/gui/qgssearchquerybuilder.cpp" line="50"/>
         <source>&amp;Save...</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Gem...</translation>
     </message>
     <message>
         <location filename="../src/gui/qgssearchquerybuilder.cpp" line="52"/>
         <source>Save query to an xml file</source>
-        <translation type="unfinished"></translation>
+        <translation>Gem forespørgsel som xml fil</translation>
     </message>
     <message>
         <location filename="../src/gui/qgssearchquerybuilder.cpp" line="55"/>
         <source>&amp;Load...</source>
-        <translation type="unfinished"></translation>
+        <translation>Åben...</translation>
     </message>
     <message>
         <location filename="../src/gui/qgssearchquerybuilder.cpp" line="57"/>
         <source>Load query from xml file</source>
-        <translation type="unfinished"></translation>
+        <translation>Åbner forespørgsel fra xml fil</translation>
     </message>
     <message>
         <location filename="../src/gui/qgssearchquerybuilder.cpp" line="186"/>
         <source>Search results</source>
-        <translation type="unfinished"></translation>
+        <translation>Søge resultat</translation>
     </message>
     <message numerus="yes">
         <location filename="../src/gui/qgssearchquerybuilder.cpp" line="186"/>
         <source>Found %n matching feature(s).</source>
         <comment>test result</comment>
-        <translation type="unfinished">
+        <translation>
+            <numerusform> %n objekter fundet</numerusform>
             <numerusform></numerusform>
         </translation>
     </message>
@@ -31767,32 +31774,32 @@ p, li { white-space: pre-wrap; }
         <location filename="../src/gui/qgssearchquerybuilder.cpp" line="195"/>
         <location filename="../src/gui/qgssearchquerybuilder.cpp" line="438"/>
         <source>Search string parsing error</source>
-        <translation type="unfinished"></translation>
+        <translation>Tolkningsfejl i søgningen</translation>
     </message>
     <message>
         <location filename="../src/gui/qgssearchquerybuilder.cpp" line="210"/>
         <source>Evaluation error</source>
-        <translation type="unfinished"></translation>
+        <translation>Evaluering fejl</translation>
     </message>
     <message>
         <location filename="../src/gui/qgssearchquerybuilder.cpp" line="236"/>
         <source>Error during search</source>
-        <translation type="unfinished"></translation>
+        <translation>Fejl under søgningen</translation>
     </message>
     <message>
         <location filename="../src/gui/qgssearchquerybuilder.cpp" line="261"/>
         <source>No Records</source>
-        <translation type="unfinished"></translation>
+        <translation>Ingen valgt</translation>
     </message>
     <message>
         <location filename="../src/gui/qgssearchquerybuilder.cpp" line="261"/>
         <source>The query you specified results in zero records being returned.</source>
-        <translation type="unfinished"></translation>
+        <translation>Denne forespørgsel vælger ingen objkter.</translation>
     </message>
     <message>
         <location filename="../src/gui/qgssearchquerybuilder.cpp" line="370"/>
         <source>Save query to file</source>
-        <translation type="unfinished"></translation>
+        <translation>gem forespørgsel til fil</translation>
     </message>
     <message>
         <location filename="../src/gui/qgssearchquerybuilder.cpp" line="384"/>
@@ -31805,47 +31812,47 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../src/gui/qgssearchquerybuilder.cpp" line="384"/>
         <source>Could not open file for writing</source>
-        <translation type="unfinished"></translation>
+        <translation>Kunne ikke åbne fil (filen er skrivebeskyttet)</translation>
     </message>
     <message>
         <location filename="../src/gui/qgssearchquerybuilder.cpp" line="406"/>
         <source>Load query from file</source>
-        <translation type="unfinished"></translation>
+        <translation>Åben forspørgsel fra fil</translation>
     </message>
     <message>
         <location filename="../src/gui/qgssearchquerybuilder.cpp" line="406"/>
         <source>Query files</source>
-        <translation type="unfinished"></translation>
+        <translation>Forespørgselsfiler</translation>
     </message>
     <message>
         <location filename="../src/gui/qgssearchquerybuilder.cpp" line="406"/>
         <source>All files</source>
-        <translation type="unfinished"></translation>
+        <translation>Alle filer</translation>
     </message>
     <message>
         <location filename="../src/gui/qgssearchquerybuilder.cpp" line="415"/>
         <source>Could not open file for reading</source>
-        <translation type="unfinished"></translation>
+        <translation>Kunne ikke åbne filen</translation>
     </message>
     <message>
         <location filename="../src/gui/qgssearchquerybuilder.cpp" line="421"/>
         <source>File is not a valid xml document</source>
-        <translation type="unfinished"></translation>
+        <translation>Filen er ikke et gyldigt XML-dokument</translation>
     </message>
     <message>
         <location filename="../src/gui/qgssearchquerybuilder.cpp" line="428"/>
         <source>File is not a valid query document</source>
-        <translation type="unfinished"></translation>
+        <translation>Filen er ikke et gyldigt forespørgsels-dokument</translation>
     </message>
     <message>
         <location filename="../src/gui/qgssearchquerybuilder.cpp" line="466"/>
         <source>Select attribute</source>
-        <translation type="unfinished"></translation>
+        <translation>Vælg attribut</translation>
     </message>
     <message>
         <location filename="../src/gui/qgssearchquerybuilder.cpp" line="466"/>
         <source>There is no attribute &apos;%1&apos; in the current vector layer. Please select an existing attribute</source>
-        <translation type="unfinished"></translation>
+        <translation>Der er ikke nogle attributter %1 i dette vektorlag. Vælg en eksisterende attribut</translation>
     </message>
 </context>
 <context>
@@ -33314,7 +33321,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../src/plugins/spit/qgsspit.cpp" line="523"/>
         <source>Cancel</source>
-        <translation type="unfinished">Afbryd</translation>
+        <translation>Annuller</translation>
     </message>
     <message>
         <location filename="../src/plugins/spit/qgsspit.cpp" line="527"/>
@@ -38364,7 +38371,7 @@ Description: %3</source>
     </message>
     <message>
         <source>Cancel</source>
-        <translation>Afbryd</translation>
+        <translation>Annuller</translation>
     </message>
     <message>
         <source>Feature</source>
@@ -38419,7 +38426,7 @@ Description: %3</source>
     </message>
     <message>
         <source>Cancel</source>
-        <translation>Afbryd</translation>
+        <translation>Annuller</translation>
     </message>
     <message>
         <source>Parameter</source>
