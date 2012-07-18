@@ -789,7 +789,7 @@
     </message>
     <message>
         <source>There are no shapefiles in this directory. Please select another one.</source>
-        <translation>Der er ingen shapefiler i denne mappe. Vælg venligst en anden.</translation>
+        <translation>Der er ingen shapefiler i denne mappe. Vælg en anden.</translation>
     </message>
     <message>
         <source>Input files</source>
@@ -843,7 +843,7 @@
     </message>
     <message>
         <source>Please specify spatial reference system</source>
-        <translation>Specificer venligst spatial reference system</translation>
+        <translation>Specificer spatial reference system</translation>
     </message>
     <message>
         <source>Cannot define projection for PostGIS data...yet!</source>
@@ -869,7 +869,7 @@ Er du sikker på at du vil fortsætte?</translation>
     </message>
     <message>
         <source>Please select the projection system that defines the current layer.</source>
-        <translation>Vælg venligst det projektionssystem der definerer det valgte lag.</translation>
+        <translation>Vælg det projektionssystem der definerer det valgte lag.</translation>
     </message>
     <message>
         <source>Layer CRS information will be updated to the selected CRS.</source>
@@ -893,19 +893,19 @@ Er du sikker på at du vil fortsætte?</translation>
     </message>
     <message>
         <source>Please specify input polygon vector layer</source>
-        <translation>Vælg venligst input polygon vektor lag</translation>
+        <translation>Vælg input polygon vektor lag</translation>
     </message>
     <message>
         <source>Please specify output shapefile</source>
-        <translation>Angiv venligst output shapefil</translation>
+        <translation>Angiv output shapefil</translation>
     </message>
     <message>
         <source>Please specify input point vector layer</source>
-        <translation>Vælg venligst input punkt vektor lag</translation>
+        <translation>Vælg input punkt vektor lag</translation>
     </message>
     <message>
         <source>Please specify output count field</source>
-        <translation>Angiv venligst output tælle felt</translation>
+        <translation>Vælg output tælle felt</translation>
     </message>
     <message>
         <source>Created output shapefile:
@@ -937,11 +937,11 @@ Dette kan give uventede resultater.</translation>
     </message>
     <message>
         <source>Please specify input line vector layer</source>
-        <translation>Vælg venligst input linie vektorlag</translation>
+        <translation>Vælg input linie vektorlag</translation>
     </message>
     <message>
         <source>Please specify output length field</source>
-        <translation>Angiv venligst felt til beregnet længde</translation>
+        <translation>Vælg felt til beregnet længde</translation>
     </message>
     <message>
         <source>length field</source>
@@ -953,15 +953,15 @@ Dette kan give uventede resultater.</translation>
     </message>
     <message>
         <source>Please specify target vector layer</source>
-        <translation>Angiv venligst mål vektor lag</translation>
+        <translation>Vælg mål vektor lag</translation>
     </message>
     <message>
         <source>Please specify join vector layer</source>
-        <translation>Angiv venligst samle vektor lag</translation>
+        <translation>Vælg samle vektor lag</translation>
     </message>
     <message>
         <source>Please specify at least one summary statistic</source>
-        <translation>Vælg venligst mindst én statistisk opsummering</translation>
+        <translation>Vælg mindst én statistisk opsummering</translation>
     </message>
     <message>
         <source>Summary field</source>
@@ -995,7 +995,7 @@ Følgende feltnavne er længere end 10 karakterer:
     </message>
     <message>
         <source>Please select a raster layer</source>
-        <translation>Angiv venligst et raster lag</translation>
+        <translation>Vælg et raster lag</translation>
     </message>
     <message>
         <source>Unable to compute extents aligned on selected raster layer</source>
@@ -1003,7 +1003,7 @@ Følgende feltnavne er længere end 10 karakterer:
     </message>
     <message>
         <source>Please specify valid extent coordinates</source>
-        <translation>Angiv venligst korrekte koordinater for udbredelse</translation>
+        <translation>Angiv korrekte koordinater for udbredelse</translation>
     </message>
     <message>
         <source>Invalid extent coordinates entered</source>
@@ -1057,11 +1057,11 @@ Vil du tilføje det nye lag til TOC?</translation>
     </message>
     <message>
         <source>Please specify input layer</source>
-        <translation>Angiv venligst et input lag</translation>
+        <translation>Vælg et input lag</translation>
     </message>
     <message>
         <source>Please properly specify extent coordinates</source>
-        <translation>Angiv venligst korrekte koordinater for udbredelse</translation>
+        <translation>Angiv koordinater for udbredelse korrekt</translation>
     </message>
     <message>
         <source>creating new selection</source>
@@ -1097,7 +1097,7 @@ Vil du tilføje det nye lag til TOC?</translation>
     </message>
     <message>
         <source>Please specify select layer</source>
-        <translation>Angiv venligst et valg-lag</translation>
+        <translation>Vælg et valg-lag</translation>
     </message>
     <message>
         <source>Random selection within subsets</source>
@@ -1105,11 +1105,11 @@ Vil du tilføje det nye lag til TOC?</translation>
     </message>
     <message>
         <source>Please specify input vector layer</source>
-        <translation>Angiv venligst input vektor lag</translation>
+        <translation>Vælg input vektor lag</translation>
     </message>
     <message>
         <source>Please specify an input field</source>
-        <translation>Angiv venligst et input felt</translation>
+        <translation>Vælg et input felt</translation>
     </message>
     <message>
         <source>Mean coordinates</source>
@@ -1193,19 +1193,19 @@ reduceret til %2 knudepunkter</translation>
     </message>
     <message>
         <source>Please specify input line layer</source>
-        <translation>Angiv venligst et linie input lag</translation>
+        <translation>Vælg et linie input lag</translation>
     </message>
     <message>
         <source>Please specify line intersect layer</source>
-        <translation>Angiv venligst linie krydsnings lag</translation>
+        <translation>Vælg linie krydsnings lag</translation>
     </message>
     <message>
         <source>Please specify input unique ID field</source>
-        <translation>Angiv venligst input unikt ID felt</translation>
+        <translation>Vælg input unikt ID felt</translation>
     </message>
     <message>
         <source>Please specify intersect unique ID field</source>
-        <translation>Angiv venligst skærings unikt ID felt</translation>
+        <translation>Vælg skærings unikt ID felt</translation>
     </message>
     <message>
         <source>Distance matrix</source>
@@ -1217,19 +1217,19 @@ reduceret til %2 knudepunkter</translation>
     </message>
     <message>
         <source>Please specify input point layer</source>
-        <translation>Angiv venligst et input punkt lag</translation>
+        <translation>Vælg et input punkt lag</translation>
     </message>
     <message>
         <source>Please specify output file</source>
-        <translation>Angiv venligst output fil</translation>
+        <translation>Angiv output fil</translation>
     </message>
     <message>
         <source>Please specify target point layer</source>
-        <translation>Angiv venligst et mål punkt lag</translation>
+        <translation>Vælg et mål punkt lag</translation>
     </message>
     <message>
         <source>Please specify target unique ID field</source>
-        <translation>Angiv venligst et mål unikt ID felt</translation>
+        <translation>Vælg et mål unikt ID felt</translation>
     </message>
     <message>
         <source>Created output matrix:
@@ -2351,7 +2351,7 @@ Vil du afslutte den alligevel?</translation>
     </message>
     <message>
         <source>Select the input directory with files for convert</source>
-        <translation>Angiv input mappe med filer, der skal konverteres</translation>
+        <translation>Vælg input mappe med filer, der skal konverteres</translation>
     </message>
     <message>
         <source>Select the files to analyse</source>
@@ -2395,7 +2395,7 @@ Deaktivér &quot;Use intersected extent&quot; optionen for at få ikke-tomme udd
     </message>
     <message>
         <source>Select the input file</source>
-        <translation>Angiv input fil</translation>
+        <translation>Vælg input fil</translation>
     </message>
     <message>
         <source>Select the input directory with raster files</source>
@@ -3660,19 +3660,19 @@ The &apos;gray&apos; value (from GDAL 1.7.0) enables to expand a dataset with a 
     </message>
     <message>
         <source>Please specify input vector layer</source>
-        <translation>Angiv venligst input vektor lag</translation>
+        <translation>Vælg input vektor lag</translation>
     </message>
     <message>
         <source>Please specify output shapefile</source>
-        <translation>Angiv venligst output shapefil</translation>
+        <translation>Angiv output shapefil</translation>
     </message>
     <message>
         <source>Please specify valid tolerance value</source>
-        <translation>Angiv venligst tilladt tolerance værdi</translation>
+        <translation>Angiv tilladt tolerance værdi</translation>
     </message>
     <message>
         <source>Please specify valid UID field</source>
-        <translation>Angiv venligst tilladt UID felt</translation>
+        <translation>Vælg korrekt UID felt</translation>
     </message>
     <message>
         <source>Singleparts to multipart</source>
@@ -3829,23 +3829,23 @@ Would you like to add the new layer to the TOC?</source>
     </message>
     <message>
         <source>Please specify an input layer</source>
-        <translation>Angiv venligst et input lag</translation>
+        <translation>Vælg et input lag</translation>
     </message>
     <message>
         <source>Please specify a difference/intersect/union layer</source>
-        <translation>Angiv venligst et input difference/intersect/union lag</translation>
+        <translation>Vælg et input difference/skærings/forenings lag</translation>
     </message>
     <message>
         <source>Please specify valid buffer value</source>
-        <translation>Angiv venligst tilladt buffer værdi</translation>
+        <translation>Angiv korrekt buffer værdi</translation>
     </message>
     <message>
         <source>Please specify dissolve field</source>
-        <translation>Angiv venligst det &quot;dissolve&quot; feldt</translation>
+        <translation>Vælg det &quot;dissolve&quot; feldt</translation>
     </message>
     <message>
         <source>Please specify output shapefile</source>
-        <translation>Angiv venligst output shapefil</translation>
+        <translation>Angiv output shapefil</translation>
     </message>
     <message>
         <source>No features selected, please uncheck &apos;Use selected&apos; or make a selection</source>
@@ -4098,7 +4098,7 @@ GEOS geoprocessing error: One or more input features have invalid geometry.</sou
     <message>
         <location filename="../src/plugins/heatmap/heatmapgui.cpp" line="408"/>
         <source>Please enter a valid output file path and name.</source>
-        <translation>Indtast venligst et korrekt output filnavn og placering.</translation>
+        <translation>Indtast et korrekt output filnavn og placering.</translation>
     </message>
     <message>
         <location filename="../src/plugins/heatmap/heatmapgui.cpp" line="446"/>
@@ -5872,7 +5872,7 @@ GEOS geoprocessing error: One or more input features have invalid geometry.</sou
         <source>No OSM data are loaded/downloaded or no OSM layer is selected in Layers panel. 
 Please change this situation first, because OSM Plugin doesn&apos;t know what to save.</source>
         <translation>Ingen OSM data er loaded/downloaded eller ingenOSM lag er valgt i Lag panelet.
-Ændr venligst denne situation først, da OSM Plugin ikke ved hvad der skal gemmes.</translation>
+Ændr denne situation først, da OSM Plugin ikke ved hvad der skal gemmes.</translation>
     </message>
     <message>
         <source>OSM Upload</source>
@@ -5882,7 +5882,7 @@ Please change this situation first, because OSM Plugin doesn&apos;t know what to
         <source>No OSM data are loaded/downloaded or no OSM layer is selected in Layers panel. 
 Please change this situation first, because OSM Plugin doesn&apos;t know what to upload.</source>
         <translation>Ingen OSM data er loaded/downloaded eller ingenOSM lag er valgt i Lag panelet.
-Ændr venligst denne situation først, da OSM Plugin ikke ved hvad der skal uploades.</translation>
+Ændr denne situation først, da OSM Plugin ikke ved hvad der skal uploades.</translation>
     </message>
     <message>
         <source>OSM Import</source>
@@ -5892,7 +5892,7 @@ Please change this situation first, because OSM Plugin doesn&apos;t know what to
         <source>No OSM data are loaded/downloaded or no OSM layer is selected in Layers panel. 
 Please change this situation first, because OSM Plugin doesn&apos;t know what layer will be destination of the import.</source>
         <translation>Ingen OSM data er loaded/downloaded eller ingenOSM lag er valgt i Lag panelet.
-Ændr venligst denne situation først, da OSM Plugin ikke ved hvilket lag der skal være mål for importen.</translation>
+Ændr denne situation først, da OSM Plugin ikke ved hvilket lag der skal være mål for importen.</translation>
     </message>
     <message>
         <source>There are currently no available vector layers.</source>
@@ -38383,11 +38383,11 @@ Description: %3</source>
     </message>
     <message>
         <source>Please specify input vector layer</source>
-        <translation>Angiv venligst input vektor lag</translation>
+        <translation>Vælg input vektor lag</translation>
     </message>
     <message>
         <source>Please specify input field</source>
-        <translation>Angiv venligst input felt</translation>
+        <translation>Vælg input felt</translation>
     </message>
     <message>
         <source>List unique values</source>
@@ -39131,12 +39131,12 @@ Description: %3</source>
     <message>
         <location filename="../src/plugins/dxf2shp_converter/dxf2shpconvertergui.cpp" line="51"/>
         <source>Please specify a file to convert.</source>
-        <translation>Vælg venligst filen der skal konverteres.</translation>
+        <translation>Vælg filen der skal konverteres.</translation>
     </message>
     <message>
         <location filename="../src/plugins/dxf2shp_converter/dxf2shpconvertergui.cpp" line="57"/>
         <source>Please specify an output file</source>
-        <translation>Vælg venligst en output fil</translation>
+        <translation>Vælg en output fil</translation>
     </message>
     <message>
         <location filename="../src/plugins/dxf2shp_converter/dxf2shpconvertergui.cpp" line="128"/>
