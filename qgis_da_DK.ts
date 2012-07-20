@@ -4172,7 +4172,7 @@ GEOS geoprocessing error: One or more input features have invalid geometry.</sou
     <message>
         <location filename="../src/plugins/heatmap/heatmapguibase.ui" line="107"/>
         <source>Decay Ratio</source>
-        <translation type="unfinished"></translation>
+        <translation>Henfald (Decay Ratio)</translation>
     </message>
     <message>
         <location filename="../src/plugins/heatmap/heatmapguibase.ui" line="114"/>
@@ -11368,7 +11368,7 @@ Should the existing classes be deleted before classification?</source>
     <message>
         <location filename="../src/gui/symbology-ng/qgscolorrampcombobox.cpp" line="54"/>
         <source>New color ramp...</source>
-        <translation type="unfinished"></translation>
+        <translation>Ny farveskala</translation>
     </message>
 </context>
 <context>
@@ -12243,12 +12243,12 @@ Should the existing classes be deleted before classification?</source>
     <message>
         <location filename="../src/ui/qgscomposerlegenditemdialogbase.ui" line="13"/>
         <source>Legend item properties</source>
-        <translation type="unfinished"></translation>
+        <translation>Egenskaber for signaturelementer</translation>
     </message>
     <message>
         <location filename="../src/ui/qgscomposerlegenditemdialogbase.ui" line="19"/>
         <source>Item text</source>
-        <translation type="unfinished"></translation>
+        <translation>Element tekst</translation>
     </message>
 </context>
 <context>
@@ -12530,7 +12530,7 @@ Should the existing classes be deleted before classification?</source>
     <message>
         <location filename="../src/ui/qgscomposermanagerbase.ui" line="14"/>
         <source>Composer manager</source>
-        <translation type="unfinished"></translation>
+        <translation>Skabelon manager</translation>
     </message>
     <message>
         <location filename="../src/ui/qgscomposermanagerbase.ui" line="36"/>
@@ -15267,7 +15267,7 @@ p, li { white-space: pre-wrap; }
         <location filename="../src/providers/delimitedtext/qgsdelimitedtextprovider.cpp" line="598"/>
         <source>Note: the following lines were not loaded because QGIS was unable to determine values for the x and y coordinates:
 </source>
-        <translation type="unfinished"></translation>
+        <translation>NB! De følgende linier var ikke tilføjet, fordi QGIS ikke var i stand til at finde værdier for x og y koordinater:</translation>
     </message>
 </context>
 <context>
@@ -15440,7 +15440,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../src/ui/qgsdisplayanglebase.ui" line="50"/>
         <source>Ellipsoidal</source>
-        <translation type="unfinished"></translation>
+        <translation>Elliptisk</translation>
     </message>
 </context>
 <context>
@@ -15489,7 +15489,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../src/gui/qgsencodingfiledialog.cpp" line="36"/>
         <source>Encoding:</source>
-        <translation type="unfinished">Kodning:</translation>
+        <translation>Kodning:</translation>
     </message>
     <message>
         <location filename="../src/gui/qgsencodingfiledialog.cpp" line="93"/>
@@ -15570,7 +15570,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../src/ui/qgsexpressionbuilderdialogbase.ui" line="14"/>
         <source>Expression string builder</source>
-        <translation type="unfinished"></translation>
+        <translation>Generering af udtryk</translation>
     </message>
 </context>
 <context>
@@ -15783,7 +15783,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../src/app/qgsfeatureaction.cpp" line="51"/>
         <source>Run actions</source>
-        <translation type="unfinished"></translation>
+        <translation>Udfør aktioner</translation>
     </message>
 </context>
 <context>
@@ -15897,7 +15897,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../src/ui/qgsformannotationdialogbase.ui" line="14"/>
         <source>Dialog</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="../src/ui/qgsformannotationdialogbase.ui" line="25"/>
@@ -15925,7 +15925,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../src/plugins/georeferencer/qgsgcplistwidget.cpp" line="187"/>
         <source>Recenter</source>
-        <translation type="unfinished"></translation>
+        <translation>Recentrér</translation>
     </message>
     <message>
         <location filename="../src/plugins/georeferencer/qgsgcplistwidget.cpp" line="191"/>
@@ -17137,7 +17137,7 @@ Please reselect a valid file.</source>
     <message>
         <location filename="../src/ui/qgsgenericprojectionselectorbase.ui" line="14"/>
         <source>Coordinate Reference System Selector</source>
-        <translation type="unfinished"></translation>
+        <translation>Koordinat Reference System(CRS) vælger</translation>
     </message>
 </context>
 <context>
@@ -17361,7 +17361,7 @@ p, li { white-space: pre-wrap; }
         <location filename="../src/plugins/georeferencer/qgsgeorefplugin.cpp" line="109"/>
         <location filename="../src/plugins/georeferencer/qgsgeorefplugin.cpp" line="124"/>
         <source>&amp;Georeferencer</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Georeferering</translation>
     </message>
 </context>
 <context>
@@ -18710,7 +18710,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../src/plugins/grass/qgsgrassedittools.cpp" line="873"/>
         <source>Select element</source>
-        <translation type="unfinished"></translation>
+        <translation>Vælg element</translation>
     </message>
 </context>
 <context>
@@ -19731,7 +19731,7 @@ at line %2 column %3</source>
     <message>
         <location filename="../src/plugins/grass/qgsgrassmodule.cpp" line="3254"/>
         <source>Selected categories</source>
-        <translation type="unfinished"></translation>
+        <translation>Valgte kategorier</translation>
     </message>
 </context>
 <context>
@@ -20470,7 +20470,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../src/providers/grass/qgsgrassprovider.cpp" line="1083"/>
         <source>GRASS vector map %1 does not have topology. Build topology?</source>
-        <translation type="unfinished"></translation>
+        <translation>GRASS vektor kort %1 indeholder ikke topologi. Dan topolgi?</translation>
     </message>
 </context>
 <context>
@@ -21191,7 +21191,7 @@ This may be a problem in your network connection or at the WMS server.</source>
     <message>
         <location filename="../src/ui/qgsidentifyresultsbase.ui" line="14"/>
         <source>Identify Results</source>
-        <translation type="unfinished"></translation>
+        <translation>Identificér resultater</translation>
     </message>
 </context>
 <context>
@@ -21199,7 +21199,7 @@ This may be a problem in your network connection or at the WMS server.</source>
     <message>
         <location filename="../src/plugins/georeferencer/qgsimagewarper.cpp" line="233"/>
         <source>Progress indication</source>
-        <translation type="unfinished"></translation>
+        <translation>Fremgangs indikation</translation>
     </message>
 </context>
 <context>
@@ -21385,7 +21385,7 @@ This may be a problem in your network connection or at the WMS server.</source>
         <location filename="../src/plugins/interpolation/qgsinterpolationplugin.cpp" line="48"/>
         <location filename="../src/plugins/interpolation/qgsinterpolationplugin.cpp" line="54"/>
         <source>&amp;Interpolation</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
 </context>
 <context>
@@ -21459,7 +21459,7 @@ This may be a problem in your network connection or at the WMS server.</source>
     <message>
         <location filename="../src/app/qgslabeldialog.cpp" line="226"/>
         <source>Auto</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
 </context>
 <context>
@@ -22581,7 +22581,7 @@ This may be a problem in your network connection or at the WMS server.</source>
     <message>
         <location filename="../src/plugins/georeferencer/qgsmapcoordsdialog.cpp" line="31"/>
         <source>From map canvas</source>
-        <translation type="unfinished"></translation>
+        <translation>Fra kortbillede</translation>
     </message>
 </context>
 <context>
@@ -22988,7 +22988,7 @@ This may be a problem in your network connection or at the WMS server.</source>
     <message>
         <location filename="../src/app/qgsmaptooladdvertex.cpp" line="125"/>
         <source>Added vertex</source>
-        <translation type="unfinished"></translation>
+        <translation>Tilføjet knudepunkt</translation>
     </message>
 </context>
 <context>
@@ -23009,7 +23009,7 @@ This may be a problem in your network connection or at the WMS server.</source>
     <message>
         <location filename="../src/app/qgsmaptoolchangelabelproperties.cpp" line="62"/>
         <source>Label properties changed</source>
-        <translation type="unfinished"></translation>
+        <translation>Etikette egenskaber ændret</translation>
     </message>
 </context>
 <context>
@@ -23049,7 +23049,7 @@ This may be a problem in your network connection or at the WMS server.</source>
     <message>
         <location filename="../src/app/qgsmaptooldeletevertex.cpp" line="86"/>
         <source>Vertex deleted</source>
-        <translation type="unfinished"></translation>
+        <translation>Knudepunkt slettet</translation>
     </message>
 </context>
 <context>
@@ -23194,7 +23194,7 @@ This may be a problem in your network connection or at the WMS server.</source>
     <message>
         <location filename="../src/app/qgsmaptoolmovelabel.cpp" line="152"/>
         <source>Label moved</source>
-        <translation type="unfinished"></translation>
+        <translation>Etikette flyttet</translation>
     </message>
 </context>
 <context>
@@ -23202,7 +23202,7 @@ This may be a problem in your network connection or at the WMS server.</source>
     <message>
         <location filename="../src/app/qgsmaptoolmovevertex.cpp" line="167"/>
         <source>Vertex moved</source>
-        <translation type="unfinished"></translation>
+        <translation>Knudepunkt flyttet</translation>
     </message>
 </context>
 <context>
@@ -23279,7 +23279,7 @@ This may be a problem in your network connection or at the WMS server.</source>
     <message>
         <location filename="../src/app/qgsmaptoolrotatelabel.cpp" line="162"/>
         <source>Label rotated</source>
-        <translation type="unfinished"></translation>
+        <translation>Etikette roteret</translation>
     </message>
 </context>
 <context>
@@ -25130,7 +25130,7 @@ Extended error information:
     <message>
         <location filename="../src/providers/osm/osmprovider.cpp" line="421"/>
         <source>Open Street Map format</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
 </context>
 <context>
@@ -25138,7 +25138,7 @@ Extended error information:
     <message>
         <location filename="../src/core/qgsowsconnection.cpp" line="89"/>
         <source>WMS Password for %1</source>
-        <translation type="unfinished"></translation>
+        <translation>WMS kodeord for %1</translation>
     </message>
 </context>
 <context>
@@ -27145,7 +27145,7 @@ Extended error information:
     <message>
         <location filename="../src/app/qgspastetransformations.cpp" line="36"/>
         <source>&amp;Add New Transfer</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Tilføj ny overførsel</translation>
     </message>
 </context>
 <context>
@@ -28402,7 +28402,7 @@ p, li { white-space: pre-wrap; }
     <name>QgsPluginInstallerPluginErrorDialog</name>
     <message>
         <source>no error message received</source>
-        <translation type="unfinished"></translation>
+        <translation>Ingen fejlmeddelelse modtaget</translation>
     </message>
 </context>
 <context>
@@ -31725,7 +31725,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../src/gui/symbology-ng/qgssymbollayerv2widget.cpp" line="856"/>
         <source>Select svg texture file</source>
-        <translation type="unfinished"></translation>
+        <translation>Vælg SVG skraveringsfil</translation>
     </message>
 </context>
 <context>
@@ -32327,7 +32327,7 @@ The error was:
     <message>
         <location filename="../src/gui/symbology-ng/qgssinglesymbolrendererv2widget.cpp" line="66"/>
         <source>Symbol levels...</source>
-        <translation type="unfinished"></translation>
+        <translation>Symbol niveauer..</translation>
     </message>
 </context>
 <context>
@@ -32415,7 +32415,7 @@ The error was:
         <location filename="../src/providers/spatialite/qgsspatialiteconnection.cpp" line="328"/>
         <location filename="../src/providers/spatialite/qgsspatialiteconnection.cpp" line="531"/>
         <source>unknown error cause</source>
-        <translation type="unfinished"></translation>
+        <translation>Ukendt fejl</translation>
     </message>
 </context>
 <context>
@@ -34055,7 +34055,7 @@ Overwrite?</source>
     <message>
         <location filename="../src/gui/symbology-ng/qgssymbolv2propertiesdialog.cpp" line="196"/>
         <source>Outline: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Skitse: %1</translation>
     </message>
 </context>
 <context>
