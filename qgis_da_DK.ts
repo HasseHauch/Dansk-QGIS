@@ -2602,7 +2602,7 @@ Deaktivér &quot;Use intersected extent&quot; optionen for at få ikke-tomme udd
     <message>
         <location filename="../python/plugins/GdalTools/tools/dialogSettings.ui" line="98"/>
         <source>GDAL help path</source>
-        <translation>GDAL hjælp sti</translation>
+        <translation>GDAL hjælpetekst sti</translation>
     </message>
     <message>
         <location filename="../python/plugins/GdalTools/tools/dialogSettings.ui" line="137"/>
@@ -2658,7 +2658,7 @@ når man vælger hjælp knappen i Tool dialogen.</translation>
     <message>
         <location filename="../python/plugins/GdalTools/tools/widgetBuildVRT.ui" line="20"/>
         <source>Build Virtual Raster (Catalog)</source>
-        <translation>Byg virtuel raster (katalog)</translation>
+        <translation>Dan virtuel raster (katalog)</translation>
     </message>
     <message>
         <location filename="../python/plugins/GdalTools/tools/widgetBuildVRT.ui" line="31"/>
@@ -2924,32 +2924,32 @@ når man vælger hjælp knappen i Tool dialogen.</translation>
     <message>
         <location filename="../python/plugins/GdalTools/tools/widgetDEM.ui" line="195"/>
         <source>Azimuth of the light</source>
-        <translation type="unfinished"></translation>
+        <translation>Azimut for lyskilde</translation>
     </message>
     <message>
         <location filename="../python/plugins/GdalTools/tools/widgetDEM.ui" line="218"/>
         <source>Altitude of the light</source>
-        <translation type="unfinished"></translation>
+        <translation>Højde for lyskilde</translation>
     </message>
     <message>
         <location filename="../python/plugins/GdalTools/tools/widgetDEM.ui" line="245"/>
         <source>Slope expressed as percent (instead of as degrees)</source>
-        <translation type="unfinished"></translation>
+        <translation>Hældning (Slope) udtrykt som procent (i stedet for grader)</translation>
     </message>
     <message>
         <location filename="../python/plugins/GdalTools/tools/widgetDEM.ui" line="292"/>
         <source>Return trigonometric angle (instead of azimuth)</source>
-        <translation type="unfinished"></translation>
+        <translation>Find trigonometrisk vinkel(i stedet for azimut)</translation>
     </message>
     <message>
         <location filename="../python/plugins/GdalTools/tools/widgetDEM.ui" line="299"/>
         <source>Return 0 for flat (instead of -9999)</source>
-        <translation type="unfinished"></translation>
+        <translation>Vis 0 for fladt (i stedet for -9999)</translation>
     </message>
     <message>
         <location filename="../python/plugins/GdalTools/tools/widgetDEM.ui" line="323"/>
         <source>Color configuration file</source>
-        <translation type="unfinished"></translation>
+        <translation>Farve konfigurations fil</translation>
     </message>
     <message>
         <location filename="../python/plugins/GdalTools/tools/widgetDEM.ui" line="330"/>
@@ -5796,15 +5796,15 @@ GEOS geoprocessing error: One or more input features have invalid geometry.</sou
     </message>
     <message>
         <source>Failed to load polygon layer.</source>
-        <translation type="unfinished"></translation>
+        <translation>Fejl ved indlæsning af polygonlag</translation>
     </message>
     <message>
         <source>Failed to load line layer.</source>
-        <translation type="unfinished"></translation>
+        <translation>Fejl ved indlæsning af linie lag</translation>
     </message>
     <message>
         <source>Failed to load point layer.</source>
-        <translation type="unfinished"></translation>
+        <translation>Fejl ved indlæsning af punkt lag</translation>
     </message>
     <message>
         <source>Could not connect to setRenderer signal.</source>
@@ -9675,7 +9675,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../src/ui/qgsabout.ui" line="234"/>
         <source>about:blank</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="../src/ui/qgsabout.ui" line="243"/>
@@ -9685,7 +9685,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../src/app/qgsabout.cpp" line="129"/>
         <source>&lt;p&gt;For a list of individuals and institutions who have contributed money to fund QGIS development and other project costs see &lt;a href=&quot;http://qgis.org/en/sponsorship/donors.html&quot;&gt;http://qgis.org/en/sponsorship/donors.html&lt;/a&gt;&lt;/p&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;p&gt;Se: &lt;a href=&quot;http://qgis.org/en/sponsorship/donors.html&quot;&gt;http://qgis.org/en/sponsorship/donors.html&lt;/a&gt; for en liste af pesoner og institutioner, som har sponsoreret QGIS udvikling og andre projektomkostninger&lt;/p&gt;</translation>
     </message>
     <message>
         <location filename="../src/app/qgsabout.cpp" line="212"/>
@@ -9801,17 +9801,17 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../src/ui/qgsannotationwidgetbase.ui" line="14"/>
         <source>Form</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="../src/ui/qgsannotationwidgetbase.ui" line="20"/>
         <source>Fixed map position</source>
-        <translation type="unfinished"></translation>
+        <translation>Fastgjort kortplacering</translation>
     </message>
     <message>
         <location filename="../src/ui/qgsannotationwidgetbase.ui" line="29"/>
         <source>Map marker</source>
-        <translation type="unfinished"></translation>
+        <translation>Kort markør</translation>
     </message>
     <message>
         <location filename="../src/ui/qgsannotationwidgetbase.ui" line="50"/>
@@ -9850,7 +9850,16 @@ Default Theme Path:	%6
 SVG Search Paths:	%7
 User DB Path:	%8
 </source>
-        <translation type="unfinished"></translation>
+        <translation>Program tilstand:
+Prefix:				%1
+Plugin sti:			%2
+Pakkedata sti:		%3
+Navn, aktivt tema:	%4
+Sti, aktivt tema:	%5
+Sti, standardtema:	%6
+SVG Søgestier:		%7
+Bruger DB sti:		%8
+</translation>
     </message>
     <message>
         <location filename="../src/core/qgsapplication.cpp" line="574"/>
@@ -17351,7 +17360,7 @@ Please reselect a valid file.</source>
 p, li { white-space: pre-wrap; }
 &lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:&apos;Droid Sans&apos;; font-size:11pt; font-weight:400; font-style:normal;&quot;&gt;
 &lt;p style=&quot;-qt-paragraph-type:empty; margin-top:12px; margin-bottom:12px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; font-family:&apos;Sans Serif&apos;; font-size:10pt;&quot;&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
 </context>
 <context>
@@ -18878,12 +18887,12 @@ p, li { white-space: pre-wrap; }
         <location filename="../src/plugins/grass/qgsgrassedittools.cpp" line="293"/>
         <location filename="../src/plugins/grass/qgsgrassedittools.cpp" line="330"/>
         <source>Select vertex</source>
-        <translation type="unfinished"></translation>
+        <translation>Vælg knudepunkt</translation>
     </message>
     <message>
         <location filename="../src/plugins/grass/qgsgrassedittools.cpp" line="319"/>
         <source>Select new position</source>
-        <translation type="unfinished"></translation>
+        <translation>Vælg ny position</translation>
     </message>
 </context>
 <context>
@@ -18914,12 +18923,12 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../src/plugins/grass/qgsgrassedittools.cpp" line="72"/>
         <source>New centroid</source>
-        <translation type="unfinished"></translation>
+        <translation>Ny centroide</translation>
     </message>
     <message>
         <location filename="../src/plugins/grass/qgsgrassedittools.cpp" line="74"/>
         <source>New point</source>
-        <translation type="unfinished"></translation>
+        <translation>Nyt punkt</translation>
     </message>
 </context>
 <context>
@@ -19385,12 +19394,12 @@ at line %2 column %3</source>
     <message>
         <location filename="../src/plugins/grass/qgsgrassmapcalcbase.ui" line="13"/>
         <source>MainWindow</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="../src/plugins/grass/qgsgrassmapcalcbase.ui" line="22"/>
         <source>Output</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
 </context>
 <context>
@@ -20478,12 +20487,12 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../src/providers/grass/qgsgrassrasterprovider.cpp" line="366"/>
         <source>Out of extent</source>
-        <translation type="unfinished"></translation>
+        <translation>Uden for udbredelse</translation>
     </message>
     <message>
         <location filename="../src/providers/grass/qgsgrassrasterprovider.cpp" line="370"/>
         <source>null (no data)</source>
-        <translation type="unfinished"></translation>
+        <translation>null (ingen data)</translation>
     </message>
 </context>
 <context>
@@ -21085,12 +21094,12 @@ This may be a problem in your network connection or at the WMS server.</source>
     <message>
         <location filename="../src/plugins/interpolation/qgsidwinterpolatordialogbase.ui" line="14"/>
         <source>Dialog</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="../src/plugins/interpolation/qgsidwinterpolatordialogbase.ui" line="28"/>
         <source>Distance coefficient P</source>
-        <translation type="unfinished"></translation>
+        <translation>Distance koefficient P</translation>
     </message>
 </context>
 <context>
@@ -22374,14 +22383,14 @@ This may be a problem in your network connection or at the WMS server.</source>
         <location filename="../src/plugins/diagram_overlay/qgslinearlyscalingdialog.cpp" line="28"/>
         <location filename="../src/plugins/diagram_overlay/qgslinearlyscalingdialog.cpp" line="74"/>
         <source>Millimeter</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="../src/plugins/diagram_overlay/qgslinearlyscalingdialog.cpp" line="29"/>
         <location filename="../src/plugins/diagram_overlay/qgslinearlyscalingdialog.cpp" line="78"/>
         <location filename="../src/plugins/diagram_overlay/qgslinearlyscalingdialog.cpp" line="99"/>
         <source>Map units</source>
-        <translation type="unfinished"></translation>
+        <translation>Kort enheder</translation>
     </message>
 </context>
 <context>
@@ -22552,12 +22561,12 @@ This may be a problem in your network connection or at the WMS server.</source>
     <message>
         <location filename="../src/ui/qgsmanageconnectionsdialogbase.ui" line="14"/>
         <source>Manage connections</source>
-        <translation type="unfinished"></translation>
+        <translation>Administrér forbindelser</translation>
     </message>
     <message>
         <location filename="../src/ui/qgsmanageconnectionsdialogbase.ui" line="20"/>
         <source>Select connections to export</source>
-        <translation type="unfinished"></translation>
+        <translation>Vælg forbindelser til eksport</translation>
     </message>
 </context>
 <context>
@@ -22567,13 +22576,15 @@ This may be a problem in your network connection or at the WMS server.</source>
         <source>Could not draw %1 because:
 %2</source>
         <comment>COMMENTED OUT</comment>
-        <translation type="unfinished"></translation>
+        <translation>Kunne ikke tegne %1 fordi:
+%2</translation>
     </message>
     <message>
         <location filename="../src/gui/qgsmapcanvas.cpp" line="1472"/>
         <source>Could not draw %1 because:
 %2</source>
-        <translation type="unfinished"></translation>
+        <translation>Kunne ikke tegne %1, fordi:
+%2</translation>
     </message>
 </context>
 <context>
