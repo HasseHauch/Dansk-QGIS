@@ -3676,7 +3676,7 @@ The &apos;gray&apos; value (from GDAL 1.7.0) enables to expand a dataset with a 
     </message>
     <message>
         <source>Singleparts to multipart</source>
-        <translation type="unfinished"></translation>
+        <translation>Enkeltpart til multipart</translation>
     </message>
     <message>
         <source>Output shapefile</source>
@@ -3684,7 +3684,7 @@ The &apos;gray&apos; value (from GDAL 1.7.0) enables to expand a dataset with a 
     </message>
     <message>
         <source>Multipart to singleparts</source>
-        <translation type="unfinished"></translation>
+        <translation>Multipart til enkeltpart</translation>
     </message>
     <message>
         <source>Extract nodes</source>
@@ -3728,15 +3728,15 @@ The &apos;gray&apos; value (from GDAL 1.7.0) enables to expand a dataset with a 
     </message>
     <message>
         <source>Delaunay triangulation</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>Input point vector layer</source>
-        <translation type="unfinished"></translation>
+        <translation>Input punkt vektor lag</translation>
     </message>
     <message>
         <source>Voronoi polygon</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>Buffer region</source>
@@ -3752,7 +3752,7 @@ The &apos;gray&apos; value (from GDAL 1.7.0) enables to expand a dataset with a 
     </message>
     <message>
         <source>Polygon from layer extent</source>
-        <translation type="unfinished"></translation>
+        <translation>Polygon dannet af lag udbredelse</translation>
     </message>
     <message>
         <source>Input layer</source>
@@ -3770,7 +3770,9 @@ The &apos;gray&apos; value (from GDAL 1.7.0) enables to expand a dataset with a 
         <source>Currently QGIS doesn&apos;t allow simultaneous access from 
                                  different threads to the same datasource. Make sure your layer&apos;s 
                                  attribute tables are closed. Continue?</source>
-        <translation type="unfinished"></translation>
+        <translation>For nærværende tillader QGIS ikke samtidig adgang fra 
+                                 forskellige threads to den samme datakilde. Undersøg om dit lags 
+                                 attribut tabellerer lukket. Fortsæt?</translation>
     </message>
     <message>
         <source>Cancel</source>
@@ -3779,21 +3781,23 @@ The &apos;gray&apos; value (from GDAL 1.7.0) enables to expand a dataset with a 
     <message>
         <source>Error processing specified tolerance!
 Please choose larger tolerance...</source>
-        <translation type="unfinished"></translation>
+        <translation>Fejl under bearbejdning ved den valgte tolerance!
+Vælg en større tolerance...</translation>
     </message>
     <message>
         <source>Unable to delete incomplete shapefile.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ikke i stand til at slette den ufærdige shapefil</translation>
     </message>
     <message>
         <source>At least two features must have same attribute value!
 Please choose another field...</source>
-        <translation type="unfinished"></translation>
+        <translation>Mindst to objekter skal have samme kolonneværdi
+Vælg en anden kolonne...</translation>
     </message>
     <message>
         <source>One or more features in the output layer may have invalid geometry, please check using the check validity tool
 </source>
-        <translation type="unfinished"></translation>
+        <translation>Mindst ét objekt i outputlaget har en invalid geometri; check vha. valideringsværktøjet</translation>
     </message>
     <message>
         <source>Created output shapefile:
@@ -3801,16 +3805,21 @@ Please choose another field...</source>
 %2
 
 Would you like to add the new layer to the TOC?</source>
-        <translation type="unfinished"></translation>
+        <translation>Dannet output shape fil:
+%1
+%2
+
+Skal det nye lag tilføjes til TOC?</translation>
     </message>
     <message>
         <source>Error loading output shapefile:
 %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Fejl ved læsning af output shape fil:
+%1</translation>
     </message>
     <message>
         <source>Layer &apos;%1&apos; updated</source>
-        <translation type="unfinished"></translation>
+        <translation>Lag &apos;%1&apos; opdateret</translation>
     </message>
     <message>
         <source>Error writing output shapefile.</source>
