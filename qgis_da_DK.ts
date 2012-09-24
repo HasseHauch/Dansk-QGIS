@@ -6,7 +6,7 @@
     <message>
         <location filename="../src/gui/symbology-ng/characterwidget.cpp" line="111"/>
         <source>&lt;p&gt;Character: &lt;span style=&quot;font-size: 24pt; font-family: %1%2&lt;/span&gt;&lt;p&gt;Value: 0x%3&quot;&gt;</source>
-        <translation>&lt;p&gt;Character: &lt;span style=&quot;font-size: 24pt; font-family: %1%2&lt;/span&gt;&lt;p&gt;V&amp;aelig;rdi: 0x%3&quot;&gt;</translation>
+        <translation>&lt;p&gt;Character: &lt;span style=&quot;font-size: 24pt; font-family: %1%2&lt;/span&gt;&lt;p&gt;Value: 0x%3&quot;&gt;</translation>
     </message>
 </context>
 <context>
@@ -1039,7 +1039,7 @@ Følgende feltnavne er længere end 10 karakterer:
     </message>
     <message>
         <source>Unknown layer type...</source>
-        <translation>Ukendt lagtype</translation>
+        <translation>Ukendt lagtype...</translation>
     </message>
     <message>
         <source>Created output point shapefile:
@@ -2119,15 +2119,15 @@ Dette plugin vil ikke være aktiveret.</translation>
     </message>
     <message>
         <source>The process failed to start. Either the invoked program is missing, or you may have insufficient permissions to invoke the program.</source>
-        <translation>Processen kunne ikke starte. Måske findes programmet ikke eller du har ikke privilegier til at state programmet</translation>
+        <translation>Processen kunne ikke starte. Måske findes programmet ikke eller du har ikke privilegier til at state programmet.</translation>
     </message>
     <message>
         <source>The process crashed some time after starting successfully.</source>
-        <translation>Processen kørte et stykke tid, men gik ned med en fejl</translation>
+        <translation>Processen kørte et stykke tid, men gik ned med en fejl.</translation>
     </message>
     <message>
         <source>An unknown error occurred.</source>
-        <translation>Der er sket en ukendt fejl</translation>
+        <translation>Der er sket en ukendt fejl.</translation>
     </message>
     <message>
         <source>The selected file is not a supported OGR format</source>
@@ -2800,7 +2800,7 @@ når man vælger hjælp knappen i Tool dialogen.</translation>
     <message>
         <location filename="../python/plugins/GdalTools/tools/widgetContour.ui" line="85"/>
         <source>If not provided, no elevation attribute is attached.</source>
-        <translation>Hvis ikke tildelt, vil der ikke tilføjes højdedata </translation>
+        <translation>Hvis ikke tildelt, vil der ikke tilføjes højdedata.</translation>
     </message>
     <message>
         <location filename="../python/plugins/GdalTools/tools/widgetContour.ui" line="99"/>
@@ -3786,7 +3786,7 @@ Vælg en større tolerance...</translation>
     </message>
     <message>
         <source>Unable to delete incomplete shapefile.</source>
-        <translation>Ikke i stand til at slette den ufærdige shapefil</translation>
+        <translation>Ikke i stand til at slette den ufærdige shapefil.</translation>
     </message>
     <message>
         <source>At least two features must have same attribute value!
@@ -5288,24 +5288,24 @@ GEOS geoprocessing error: One or more input features have invalid geometry.</sou
     <message>
         <location filename="../python/plugins/osm/ui_files/OsmAddRelationDlg.ui" line="205"/>
         <source>Select member on map</source>
-        <translation type="unfinished"></translation>
+        <translation>Vælg medlemmer på kortet</translation>
     </message>
     <message>
         <location filename="../python/plugins/osm/ui_files/OsmAddRelationDlg.ui" line="208"/>
         <location filename="../python/plugins/osm/ui_files/OsmAddRelationDlg.ui" line="211"/>
         <source>Starts process of selecting next relation member on map.</source>
-        <translation type="unfinished"></translation>
+        <translation>Start processen med at vælge næste relations medlem på kortet.</translation>
     </message>
     <message>
         <location filename="../python/plugins/osm/ui_files/OsmAddRelationDlg.ui" line="224"/>
         <source>Remove all selected members</source>
-        <translation type="unfinished"></translation>
+        <translation>Fjern alle valgte medlemmer</translation>
     </message>
     <message>
         <location filename="../python/plugins/osm/ui_files/OsmAddRelationDlg.ui" line="227"/>
         <location filename="../python/plugins/osm/ui_files/OsmAddRelationDlg.ui" line="230"/>
         <source>Removes all selected members.</source>
-        <translation type="unfinished"></translation>
+        <translation>Fjern alle valgte medlemmer.</translation>
     </message>
     <message>
         <location filename="../python/plugins/osm/ui_files/OsmAddRelationDlg.ui" line="305"/>
@@ -5323,7 +5323,7 @@ GEOS geoprocessing error: One or more input features have invalid geometry.</sou
     </message>
     <message>
         <source>Edit OSM relation</source>
-        <translation type="unfinished"></translation>
+        <translation>Rediger OSM relationen</translation>
     </message>
     <message>
         <source>for grouping boundaries and marking enclaves / exclaves</source>
@@ -5796,23 +5796,23 @@ GEOS geoprocessing error: One or more input features have invalid geometry.</sou
     </message>
     <message>
         <source>Failed to load polygon layer.</source>
-        <translation>Fejl ved indlæsning af polygonlag</translation>
+        <translation>Fejl ved indlæsning af polygonlag.</translation>
     </message>
     <message>
         <source>Failed to load line layer.</source>
-        <translation>Fejl ved indlæsning af linie lag</translation>
+        <translation>Fejl ved indlæsning af linie lag.</translation>
     </message>
     <message>
         <source>Failed to load point layer.</source>
-        <translation>Fejl ved indlæsning af punkt lag</translation>
+        <translation>Fejl ved indlæsning af punkt lag.</translation>
     </message>
     <message>
         <source>Could not connect to setRenderer signal.</source>
-        <translation type="unfinished"></translation>
+        <translation>Kunne ikke forbinde til setRenderer signal.</translation>
     </message>
     <message>
         <source>Failed to load layers: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Fejl ved indlæsning af lag: %1</translation>
     </message>
 </context>
 <context>
@@ -9866,7 +9866,8 @@ Bruger DB sti:		%8
         <source>
 		</source>
         <comment>match indentation of application state</comment>
-        <translation type="unfinished"></translation>
+        <translation>
+		</translation>
     </message>
 </context>
 <context>
@@ -11159,27 +11160,27 @@ Database:%2</source>
     <message>
         <location filename="../src/ui/qgsbrowserlayerpropertiesbase.ui" line="14"/>
         <source>Dialog</source>
-        <translation type="unfinished"></translation>
+        <translation>Dialog</translation>
     </message>
     <message>
         <location filename="../src/ui/qgsbrowserlayerpropertiesbase.ui" line="25"/>
         <source>Display Name</source>
-        <translation type="unfinished"></translation>
+        <translation>Visningsnavn</translation>
     </message>
     <message>
         <location filename="../src/ui/qgsbrowserlayerpropertiesbase.ui" line="32"/>
         <source>Layer Source</source>
-        <translation type="unfinished"></translation>
+        <translation>Lag kilde</translation>
     </message>
     <message>
         <location filename="../src/ui/qgsbrowserlayerpropertiesbase.ui" line="59"/>
         <source>Provider</source>
-        <translation type="unfinished"></translation>
+        <translation>Provider</translation>
     </message>
     <message>
         <location filename="../src/ui/qgsbrowserlayerpropertiesbase.ui" line="85"/>
         <source>Metadata</source>
-        <translation type="unfinished"></translation>
+        <translation>Metadata</translation>
     </message>
 </context>
 <context>
@@ -11200,7 +11201,7 @@ Database:%2</source>
     <message>
         <location filename="../src/gui/symbology-ng/qgsbrushstylecombobox.cpp" line="29"/>
         <source>Solid</source>
-        <translation type="unfinished"></translation>
+        <translation>Fed</translation>
     </message>
     <message>
         <location filename="../src/gui/symbology-ng/qgsbrushstylecombobox.cpp" line="30"/>
@@ -11210,17 +11211,17 @@ Database:%2</source>
     <message>
         <location filename="../src/gui/symbology-ng/qgsbrushstylecombobox.cpp" line="31"/>
         <source>Horizontal</source>
-        <translation type="unfinished"></translation>
+        <translation>Horisontal</translation>
     </message>
     <message>
         <location filename="../src/gui/symbology-ng/qgsbrushstylecombobox.cpp" line="32"/>
         <source>Vertical</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="../src/gui/symbology-ng/qgsbrushstylecombobox.cpp" line="33"/>
         <source>Cross</source>
-        <translation type="unfinished"></translation>
+        <translation>Vertikal</translation>
     </message>
     <message>
         <location filename="../src/gui/symbology-ng/qgsbrushstylecombobox.cpp" line="34"/>
@@ -11290,12 +11291,12 @@ Database:%2</source>
     <message>
         <location filename="../src/ui/qgscategorizedsymbolrendererv2widget.ui" line="69"/>
         <source>change</source>
-        <translation type="unfinished"></translation>
+        <translation>ændre</translation>
     </message>
     <message>
         <location filename="../src/ui/qgscategorizedsymbolrendererv2widget.ui" line="76"/>
         <source>Color ramp</source>
-        <translation type="unfinished"></translation>
+        <translation>Farveskala</translation>
     </message>
     <message>
         <location filename="../src/ui/qgscategorizedsymbolrendererv2widget.ui" line="122"/>
@@ -11305,17 +11306,17 @@ Database:%2</source>
     <message>
         <location filename="../src/ui/qgscategorizedsymbolrendererv2widget.ui" line="129"/>
         <source>Add</source>
-        <translation type="unfinished"></translation>
+        <translation>Tilføj</translation>
     </message>
     <message>
         <location filename="../src/ui/qgscategorizedsymbolrendererv2widget.ui" line="136"/>
         <source>Delete</source>
-        <translation type="unfinished"></translation>
+        <translation>Slet</translation>
     </message>
     <message>
         <location filename="../src/ui/qgscategorizedsymbolrendererv2widget.ui" line="143"/>
         <source>Delete all</source>
-        <translation type="unfinished"></translation>
+        <translation>Slet alle</translation>
     </message>
     <message>
         <location filename="../src/ui/qgscategorizedsymbolrendererv2widget.ui" line="166"/>
@@ -11377,7 +11378,7 @@ Should the existing classes be deleted before classification?</source>
     <message>
         <location filename="../src/gui/symbology-ng/qgscolorrampcombobox.cpp" line="54"/>
         <source>New color ramp...</source>
-        <translation>Ny farveskala</translation>
+        <translation>Ny farveskala...</translation>
     </message>
 </context>
 <context>
@@ -12119,7 +12120,7 @@ Should the existing classes be deleted before classification?</source>
     <message>
         <location filename="../src/ui/qgscomposeritemwidgetbase.ui" line="80"/>
         <source>Position and size...</source>
-        <translation>Placering og størrelse</translation>
+        <translation>Placering og størrelse...</translation>
     </message>
     <message>
         <location filename="../src/ui/qgscomposeritemwidgetbase.ui" line="103"/>
@@ -38270,42 +38271,42 @@ Description: %3</source>
     <message>
         <location filename="../src/plugins/oracle_raster/qgsselectgeorasterbase.ui" line="14"/>
         <source>Select Oracle Spatial GeoRaster</source>
-        <translation type="unfinished"></translation>
+        <translation>Vælg Oracle Spatial GeoRaster</translation>
     </message>
     <message>
         <location filename="../src/plugins/oracle_raster/qgsselectgeorasterbase.ui" line="36"/>
         <source>Server Connections</source>
-        <translation type="unfinished"></translation>
+        <translation>Server forbindelser</translation>
     </message>
     <message>
         <location filename="../src/plugins/oracle_raster/qgsselectgeorasterbase.ui" line="54"/>
         <source>Edit</source>
-        <translation type="unfinished"></translation>
+        <translation>Rediger</translation>
     </message>
     <message>
         <location filename="../src/plugins/oracle_raster/qgsselectgeorasterbase.ui" line="64"/>
         <source>Delete</source>
-        <translation type="unfinished"></translation>
+        <translation>Slet</translation>
     </message>
     <message>
         <location filename="../src/plugins/oracle_raster/qgsselectgeorasterbase.ui" line="71"/>
         <source>&amp;New</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Ny</translation>
     </message>
     <message>
         <location filename="../src/plugins/oracle_raster/qgsselectgeorasterbase.ui" line="81"/>
         <source>C&amp;onnect</source>
-        <translation type="unfinished"></translation>
+        <translation>F&amp;orbind</translation>
     </message>
     <message>
         <location filename="../src/plugins/oracle_raster/qgsselectgeorasterbase.ui" line="119"/>
         <source>Subdatasets</source>
-        <translation type="unfinished"></translation>
+        <translation>Underdatasæt</translation>
     </message>
     <message>
         <location filename="../src/plugins/oracle_raster/qgsselectgeorasterbase.ui" line="148"/>
         <source>Selection</source>
-        <translation type="unfinished"></translation>
+        <translation>Valg</translation>
     </message>
     <message>
         <location filename="../src/plugins/oracle_raster/qgsselectgeorasterbase.ui" line="160"/>
@@ -38315,7 +38316,7 @@ Description: %3</source>
     <message>
         <location filename="../src/plugins/oracle_raster/qgsselectgeorasterbase.ui" line="183"/>
         <source>Ready</source>
-        <translation type="unfinished"></translation>
+        <translation>Klar</translation>
     </message>
 </context>
 <context>
@@ -38381,27 +38382,27 @@ Description: %3</source>
     <name>ValidateDialog</name>
     <message>
         <source>Check geometry validity</source>
-        <translation type="unfinished"></translation>
+        <translation>Kontroller geometri validitet</translation>
     </message>
     <message>
         <source>Geometry errors</source>
-        <translation type="unfinished"></translation>
+        <translation>Geometri fejl</translation>
     </message>
     <message>
         <source>Total encountered errors</source>
-        <translation type="unfinished"></translation>
+        <translation>Antal fundne fejl</translation>
     </message>
     <message>
         <source>Error!</source>
-        <translation type="unfinished"></translation>
+        <translation>Fejl!</translation>
     </message>
     <message>
         <source>Please specify input vector layer</source>
-        <translation type="unfinished"></translation>
+        <translation>Vælg input vektor lag</translation>
     </message>
     <message>
         <source>Please specify input field</source>
-        <translation type="unfinished"></translation>
+        <translation>Vælg input felt</translation>
     </message>
     <message>
         <source>Cancel</source>
@@ -38409,7 +38410,7 @@ Description: %3</source>
     </message>
     <message>
         <source>Feature</source>
-        <translation type="unfinished"></translation>
+        <translation>Objekt</translation>
     </message>
     <message>
         <source>Error(s)</source>
