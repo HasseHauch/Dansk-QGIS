@@ -6201,7 +6201,7 @@ GEOS geoprocessing error: One or more input features have invalid geometry.</sou
     <message>
         <location filename="../src/ui/qgisapp.ui" line="222"/>
         <source>Paste Features as</source>
-        <translation type="unfinished"></translation>
+        <translation>Indsæt objekter som</translation>
     </message>
     <message>
         <location filename="../src/ui/qgisapp.ui" line="267"/>
@@ -6412,7 +6412,8 @@ GEOS geoprocessing error: One or more input features have invalid geometry.</sou
     <message>
         <location filename="../src/ui/qgisapp.ui" line="699"/>
         <source>Split Parts</source>
-        <translation type="unfinished"></translation>
+        <translatorcomment>Parts == elementer</translatorcomment>
+        <translation>Opdel elementer</translation>
     </message>
     <message>
         <location filename="../src/ui/qgisapp.ui" line="708"/>
@@ -6548,7 +6549,7 @@ GEOS geoprocessing error: One or more input features have invalid geometry.</sou
     <message>
         <location filename="../src/ui/qgisapp.ui" line="968"/>
         <source>Measure Area</source>
-        <translation>Mål afstand</translation>
+        <translation>Mål areal</translation>
     </message>
     <message>
         <location filename="../src/ui/qgisapp.ui" line="971"/>
@@ -6903,22 +6904,24 @@ GEOS geoprocessing error: One or more input features have invalid geometry.</sou
     <message>
         <location filename="../src/ui/qgisapp.ui" line="2125"/>
         <source>New Vector Layer</source>
-        <translation type="unfinished">Nyt vektorlag</translation>
+        <translation>Nyt vektorlag</translation>
     </message>
     <message>
         <location filename="../src/ui/qgisapp.ui" line="2128"/>
         <source>Paste features in clipboard into a new OGR vector layer.</source>
-        <translation type="unfinished"></translation>
+        <translation>Kopiér objekter fra udklipsholder til et nyt OGR baseret vektor lag.</translation>
     </message>
     <message>
         <location filename="../src/ui/qgisapp.ui" line="2133"/>
         <source>New Memory Vector Layer</source>
-        <translation type="unfinished"></translation>
+        <translatorcomment>Hvad er den korrekte oversættetlse af memory layer ??</translatorcomment>
+        <translation>Nyt Memory Vektor lag</translation>
     </message>
     <message>
         <location filename="../src/ui/qgisapp.ui" line="2136"/>
         <source>Paste features in clipboard into a new memory vector layer.</source>
-        <translation type="unfinished"></translation>
+        <translatorcomment>memory lag ??</translatorcomment>
+        <translation>Kopiér objekter fra udklipsholder til et nyt memory vektor lag.</translation>
     </message>
     <message>
         <source>Save Edits</source>
@@ -13070,42 +13073,43 @@ Fejl: %1</translation>
     <message>
         <location filename="../src/app/qgisapp.cpp" line="5613"/>
         <source>Pasted</source>
-        <translation type="unfinished"></translation>
+        <translation>Indsat</translation>
     </message>
     <message>
         <location filename="../src/app/qgisapp.cpp" line="5614"/>
         <source>New memory layer name</source>
-        <translation type="unfinished"></translation>
+        <translatorcomment>memory layer ??</translatorcomment>
+        <translation>Navn for nyt memory vektorlag</translation>
     </message>
     <message>
         <location filename="../src/app/qgisapp.cpp" line="5615"/>
         <source>Layer name</source>
-        <translation type="unfinished">Lagnavn</translation>
+        <translation>Lagnavn</translation>
     </message>
     <message>
         <location filename="../src/app/qgisapp.cpp" line="5687"/>
         <source>No features in clipboard.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ingen objekter i udklipsholder.</translation>
     </message>
     <message>
         <location filename="../src/app/qgisapp.cpp" line="5691"/>
         <source>No features with geometry found, point type layer will be created.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ingen objekter indeholdende geometrier fundet; punkt vektorlag oprettes.</translation>
     </message>
     <message>
         <location filename="../src/app/qgisapp.cpp" line="5695"/>
         <source>Multiple geometry types found, features with geometry different from %1 will be created without geometry.</source>
-        <translation type="unfinished"></translation>
+        <translation>Objekter med forskellige typer goemetri fundet; objekter der ikke har geometri type %1 bliver oprettet uden geometri.</translation>
     </message>
     <message>
         <location filename="../src/app/qgisapp.cpp" line="5708"/>
         <source>Cannot create new layer</source>
-        <translation type="unfinished"></translation>
+        <translation>Kan ikke oprette nyt lag</translation>
     </message>
     <message>
         <location filename="../src/app/qgisapp.cpp" line="5721"/>
         <source>Cannot create field %1 (%2,%3)</source>
-        <translation type="unfinished"></translation>
+        <translation>Kan ikke oprette felt %1 (%2,%3)</translation>
     </message>
     <message>
         <location filename="../src/app/qgisapp.cpp" line="5776"/>
@@ -13555,12 +13559,12 @@ Fejl: %3
     <message>
         <location filename="../src/app/qgisapp.cpp" line="8882"/>
         <source>Exit QGIS</source>
-        <translation type="unfinished">Afslut QGIS</translation>
+        <translation>Afslut QGIS</translation>
     </message>
     <message>
         <location filename="../src/app/qgisapp.cpp" line="8883"/>
         <source>Do you really want to quit QGIS?</source>
-        <translation type="unfinished"></translation>
+        <translation>Vil du afslutte QGIS ?</translation>
     </message>
     <message>
         <location filename="../src/app/qgisapp.cpp" line="8988"/>
@@ -17007,17 +17011,17 @@ Prøv venligst en lavere opløsning eller en mindre papirstørrelse</translation
     <message>
         <location filename="../src/ui/qgscomposerbase.ui" line="581"/>
         <source>Lock Selected Items</source>
-        <translation type="unfinished"></translation>
+        <translation>Lås valgte elementer</translation>
     </message>
     <message>
         <location filename="../src/ui/qgscomposerbase.ui" line="590"/>
         <source>Unlock All</source>
-        <translation type="unfinished"></translation>
+        <translation>Fjern lås fra Alt</translation>
     </message>
     <message>
         <location filename="../src/ui/qgscomposerbase.ui" line="593"/>
         <source>Unlock All Items</source>
-        <translation type="unfinished"></translation>
+        <translation>Fjern lås fra alle elementer</translation>
     </message>
     <message>
         <source>Load From template</source>
@@ -18349,7 +18353,7 @@ Prøv venligst en lavere opløsning eller en mindre papirstørrelse</translation
     <message>
         <location filename="../src/app/composer/qgscomposermapwidget.cpp" line="603"/>
         <source>Overview centering mode changed</source>
-        <translation type="unfinished"></translation>
+        <translation>Overblik centreringsmetode ændret</translation>
     </message>
     <message>
         <location filename="../src/app/composer/qgscomposermapwidget.cpp" line="772"/>
@@ -18685,7 +18689,7 @@ Prøv venligst en lavere opløsning eller en mindre papirstørrelse</translation
     <message>
         <location filename="../src/ui/qgscomposermapwidgetbase.ui" line="703"/>
         <source>Center on overview</source>
-        <translation type="unfinished"></translation>
+        <translation>Centrér på overblik</translation>
     </message>
     <message>
         <location filename="../src/ui/qgscomposermapwidgetbase.ui" line="168"/>
@@ -19922,7 +19926,7 @@ Prøv venligst en lavere opløsning eller en mindre papirstørrelse</translation
         <location filename="../src/app/composer/qgscompositionwidget.cpp" line="63"/>
         <location filename="../src/app/composer/qgscompositionwidget.cpp" line="458"/>
         <source>Map %1</source>
-        <translation type="unfinished">Kort %1</translation>
+        <translation>Kort %1</translation>
     </message>
     <message>
         <location filename="../src/app/composer/qgscompositionwidget.cpp" line="92"/>
@@ -20195,7 +20199,7 @@ Prøv venligst en lavere opløsning eller en mindre papirstørrelse</translation
     <message>
         <location filename="../src/ui/qgscompositionwidgetbase.ui" line="262"/>
         <source>World file on</source>
-        <translation type="unfinished"></translation>
+        <translation>Verdensfil aktiveret</translation>
     </message>
     <message>
         <location filename="../src/ui/qgscompositionwidgetbase.ui" line="319"/>
@@ -24383,22 +24387,22 @@ Udtrykket er udgyldigt, se (mere info) for detaljer</translation>
     <message>
         <location filename="../src/ui/qgsfieldspropertiesbase.ui" line="359"/>
         <source>Suppress attribute form pop-up after feature creation</source>
-        <translation type="unfinished"></translation>
+        <translation>Undertryk attributters popup-vindue efter hvert oprettet objekt</translation>
     </message>
     <message>
         <location filename="../src/ui/qgsfieldspropertiesbase.ui" line="379"/>
         <source>Default</source>
-        <translation type="unfinished">Standard</translation>
+        <translation>Standard</translation>
     </message>
     <message>
         <location filename="../src/ui/qgsfieldspropertiesbase.ui" line="384"/>
         <source>On</source>
-        <translation type="unfinished"></translation>
+        <translation>Til</translation>
     </message>
     <message>
         <location filename="../src/ui/qgsfieldspropertiesbase.ui" line="389"/>
         <source>Off</source>
-        <translation type="unfinished">Fra</translation>
+        <translation>Fra</translation>
     </message>
     <message>
         <location filename="../src/ui/qgsfieldspropertiesbase.ui" line="107"/>
@@ -33866,49 +33870,49 @@ vises ikke</translation>
     <message>
         <location filename="../src/app/qgsmaptoolsplitparts.cpp" line="65"/>
         <source>Coordinate transform error</source>
-        <translation type="unfinished">Fejl ved koordinattransformering</translation>
+        <translation>Fejl ved koordinattransformering</translation>
     </message>
     <message>
         <location filename="../src/app/qgsmaptoolsplitparts.cpp" line="66"/>
         <source>Cannot transform the point to the layers coordinate system</source>
-        <translation type="unfinished">Kan ikke transformere punktet til lagets koordinatsystem</translation>
+        <translation>Kan ikke transformere punktet til lagets koordinatsystem</translation>
     </message>
     <message>
         <location filename="../src/app/qgsmaptoolsplitparts.cpp" line="80"/>
         <source>Parts split</source>
-        <translation type="unfinished"></translation>
+        <translation>Element opdeling gennemført</translation>
     </message>
     <message>
         <location filename="../src/app/qgsmaptoolsplitparts.cpp" line="86"/>
         <location filename="../src/app/qgsmaptoolsplitparts.cpp" line="94"/>
         <location filename="../src/app/qgsmaptoolsplitparts.cpp" line="102"/>
         <source>No part split done</source>
-        <translation type="unfinished"></translation>
+        <translation>Ingen elementopdeling udført</translation>
     </message>
     <message>
         <location filename="../src/app/qgsmaptoolsplitparts.cpp" line="87"/>
         <source>If there are selected parts, the split tool only applies to the selected ones. If you like to split all parts under the split line, clear the selection</source>
-        <translation type="unfinished"></translation>
+        <translation>Hvis der er valgte objekter, anvendes opdelingsværktøjet kun på de valgte. Hvis du vil opdele alle objekter under delingslinjen, skal du rydde selektionen</translation>
     </message>
     <message>
         <location filename="../src/app/qgsmaptoolsplitparts.cpp" line="95"/>
         <source>Cut edges detected. Make sure the line splits parts into multiple parts.</source>
-        <translation type="unfinished"></translation>
+        <translation>Skærekanter fundet. Vær sikker på, at linjen kan dele objekter i flere dele.</translation>
     </message>
     <message>
         <location filename="../src/app/qgsmaptoolsplitparts.cpp" line="103"/>
         <source>The geometry is invalid. Please repair before trying to split it.</source>
-        <translation type="unfinished">Geometrien er ugyldig. Reparér den, før den forsøges opdelt.</translation>
+        <translation>Geometrien er ugyldig. Reparér den, før den forsøges opdelt.</translation>
     </message>
     <message>
         <location filename="../src/app/qgsmaptoolsplitparts.cpp" line="111"/>
         <source>Split error</source>
-        <translation type="unfinished">Opdelingsfejl</translation>
+        <translation>Opdelingsfejl</translation>
     </message>
     <message>
         <location filename="../src/app/qgsmaptoolsplitparts.cpp" line="112"/>
         <source>An error occured during feature splitting</source>
-        <translation type="unfinished">Der opstod en fejl ved objektopdeling</translation>
+        <translation>Der opstod en fejl ved objektopdeling</translation>
     </message>
 </context>
 <context>
@@ -34196,7 +34200,7 @@ http://my.host.com/cgi-bin/mapserv.exe</translation>
     <message>
         <location filename="../src/app/qgsmeasuredialog.cpp" line="225"/>
         <source>Measure (OTF off)</source>
-        <translation type="unfinished"></translation>
+        <translation>Mål (OTF slået fra)</translation>
     </message>
     <message>
         <location filename="../src/app/qgsmeasuredialog.cpp" line="231"/>
@@ -34221,7 +34225,7 @@ http://my.host.com/cgi-bin/mapserv.exe</translation>
     <message>
         <location filename="../src/app/qgsmeasuredialog.cpp" line="239"/>
         <source>Measure (OTF on)</source>
-        <translation type="unfinished"></translation>
+        <translation>Mål (OTF slået til)</translation>
     </message>
     <message>
         <location filename="../src/app/qgsmeasuredialog.cpp" line="244"/>
@@ -34271,7 +34275,7 @@ http://my.host.com/cgi-bin/mapserv.exe</translation>
     <message>
         <location filename="../src/providers/memory/qgsmemoryprovider.cpp" line="84"/>
         <source>Date</source>
-        <translation type="unfinished">Dato</translation>
+        <translation>Dato</translation>
     </message>
 </context>
 <context>
@@ -38519,7 +38523,7 @@ Altid netværk: indlæs altid fra netværk og tjek ikke, om cachen har en gyldig
     <message>
         <location filename="../src/ui/qgsoptionsbase.ui" line="2839"/>
         <source>Suppress attribute form pop-up after feature creation</source>
-        <translation type="unfinished"></translation>
+        <translation>Undertryk attribut popup-vindue efter hvert oprettet objekt</translation>
     </message>
     <message>
         <location filename="../src/ui/qgsoptionsbase.ui" line="3177"/>
@@ -43521,7 +43525,7 @@ Fortsæt?</translation>
     <message>
         <location filename="../src/ui/qgsprojectpropertiesbase.ui" line="1461"/>
         <source>Add geometry to feature response</source>
-        <translation type="unfinished"></translation>
+        <translation>Tilføj geometri til objekt respons</translation>
     </message>
     <message>
         <location filename="../src/ui/qgsprojectpropertiesbase.ui" line="1529"/>
