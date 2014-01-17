@@ -2118,7 +2118,7 @@ Er du sikker på, at du vil fortsætte?</translation>
     </message>
     <message>
         <source>Please specify input polygon vector layer</source>
-        <translation>Vælg venligst input polygon vektor lag</translation>
+        <translation type="unfinished">Vælg venligst input polygon vektorlag</translation>
     </message>
     <message>
         <source>Please specify output shapefile</source>
@@ -2126,7 +2126,7 @@ Er du sikker på, at du vil fortsætte?</translation>
     </message>
     <message>
         <source>Please specify input point vector layer</source>
-        <translation>Vælg venligst input punkt vektor lag</translation>
+        <translation type="unfinished">Vælg venligst input punkt vektorlag</translation>
     </message>
     <message>
         <source>Please specify output count field</source>
@@ -5382,7 +5382,7 @@ Den &apos;grå&apos; værdi (fra GDAL 1.7.0) giver mulighed for at udvide et dat
     </message>
     <message>
         <source>Input polygon vector layer</source>
-        <translation>Input polygon vektor lag</translation>
+        <translation type="unfinished">Input polygon vektorlag</translation>
     </message>
     <message>
         <source>Export/Add geometry columns</source>
@@ -5418,7 +5418,7 @@ Den &apos;grå&apos; værdi (fra GDAL 1.7.0) giver mulighed for at udvide et dat
     </message>
     <message>
         <source>Input point vector layer</source>
-        <translation>Vektor lag til inputpunk </translation>
+        <translation type="unfinished">Vektorlag til inputpunk </translation>
     </message>
     <message>
         <source>Voronoi polygon</source>
@@ -6909,19 +6909,19 @@ GEOS geoprocessing error: One or more input features have invalid geometry.</sou
     <message>
         <location filename="../src/ui/qgisapp.ui" line="2128"/>
         <source>Paste features in clipboard into a new OGR vector layer.</source>
-        <translation>Kopiér objekter fra udklipsholder til et nyt OGR baseret vektor lag.</translation>
+        <translation type="unfinished">Kopiér objekter fra udklipsholder til et nyt OGR baseret vektorlag.</translation>
     </message>
     <message>
         <location filename="../src/ui/qgisapp.ui" line="2133"/>
         <source>New Memory Vector Layer</source>
         <translatorcomment>Hvad er den korrekte oversættetlse af memory layer ??</translatorcomment>
-        <translation>Nyt Memory Vektor lag</translation>
+        <translation type="unfinished">Nyt memory vektorlag</translation>
     </message>
     <message>
         <location filename="../src/ui/qgisapp.ui" line="2136"/>
         <source>Paste features in clipboard into a new memory vector layer.</source>
         <translatorcomment>memory lag ??</translatorcomment>
-        <translation>Kopiér objekter fra udklipsholder til et nyt memory vektor lag.</translation>
+        <translation type="unfinished">Kopiér objekter fra udklipsholder til et nyt memory vektorlag.</translation>
     </message>
     <message>
         <source>Save Edits</source>
