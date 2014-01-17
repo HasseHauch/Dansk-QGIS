@@ -6909,19 +6909,19 @@ GEOS geoprocessing error: One or more input features have invalid geometry.</sou
     <message>
         <location filename="../src/ui/qgisapp.ui" line="2128"/>
         <source>Paste features in clipboard into a new OGR vector layer.</source>
-        <translation type="unfinished">Kopiér objekter fra udklipsholder til et nyt OGR baseret vektorlag.</translation>
+        <translation>Kopiér objekter fra udklipsholder til et nyt OGR baseret vektorlag.</translation>
     </message>
     <message>
         <location filename="../src/ui/qgisapp.ui" line="2133"/>
         <source>New Memory Vector Layer</source>
         <translatorcomment>Hvad er den korrekte oversættetlse af memory layer ??</translatorcomment>
-        <translation type="unfinished">Nyt memory vektorlag</translation>
+        <translation>Nyt memory vektorlag</translation>
     </message>
     <message>
         <location filename="../src/ui/qgisapp.ui" line="2136"/>
         <source>Paste features in clipboard into a new memory vector layer.</source>
         <translatorcomment>memory lag ??</translatorcomment>
-        <translation type="unfinished">Kopiér objekter fra udklipsholder til et nyt memory vektorlag.</translation>
+        <translation>Kopiér objekter fra udklipsholder til et nyt memory vektorlag.</translation>
     </message>
     <message>
         <source>Save Edits</source>
