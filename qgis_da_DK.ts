@@ -2118,7 +2118,7 @@ Er du sikker på, at du vil fortsætte?</translation>
     </message>
     <message>
         <source>Please specify input polygon vector layer</source>
-        <translation type="unfinished">Vælg venligst input polygon vektorlag</translation>
+        <translation>Angiv input-polygon-vektorlag</translation>
     </message>
     <message>
         <source>Please specify output shapefile</source>
@@ -2126,7 +2126,7 @@ Er du sikker på, at du vil fortsætte?</translation>
     </message>
     <message>
         <source>Please specify input point vector layer</source>
-        <translation type="unfinished">Vælg venligst input punkt vektorlag</translation>
+        <translation>Angiv input-punkt-vektorlag</translation>
     </message>
     <message>
         <source>Please specify output count field</source>
@@ -5382,7 +5382,7 @@ Den &apos;grå&apos; værdi (fra GDAL 1.7.0) giver mulighed for at udvide et dat
     </message>
     <message>
         <source>Input polygon vector layer</source>
-        <translation type="unfinished">Input polygon vektorlag</translation>
+        <translation>Input polygon vektorlag</translation>
     </message>
     <message>
         <source>Export/Add geometry columns</source>
@@ -5418,6 +5418,7 @@ Den &apos;grå&apos; værdi (fra GDAL 1.7.0) giver mulighed for at udvide et dat
     </message>
     <message>
         <source>Input point vector layer</source>
+        <translatorcomment>inputpunk ? Sex Pistols har ikke levet forgæves!!</translatorcomment>
         <translation type="unfinished">Vektorlag til inputpunk </translation>
     </message>
     <message>
