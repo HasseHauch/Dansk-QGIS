@@ -1260,7 +1260,7 @@ columns</source>
     <message>
         <location filename="../python/plugins/fTools/tools/frmGeometry.ui" line="28"/>
         <source>Input line or polygon vector layer</source>
-        <translation>Linje- eller vektorlag til polygoner til input</translation>
+        <translation>Linje- eller polygon-vektorlag til input</translation>
     </message>
     <message>
         <location filename="../python/plugins/fTools/tools/frmGeometry.ui" line="44"/>
@@ -1411,7 +1411,7 @@ columns</source>
     <message>
         <location filename="../python/plugins/fTools/tools/frmIntersectLines.ui" line="27"/>
         <source>Input line layer</source>
-        <translation>Input-linjelag</translation>
+        <translation>Linje vektorlag til input</translation>
     </message>
     <message>
         <location filename="../python/plugins/fTools/tools/frmIntersectLines.ui" line="41"/>
@@ -1508,7 +1508,7 @@ columns</source>
     <message>
         <location filename="../python/plugins/fTools/tools/frmPointDistance.ui" line="27"/>
         <source>Input point layer</source>
-        <translation>Punktlag til input</translation>
+        <translation>Punkt vektorlag til input</translation>
     </message>
     <message>
         <location filename="../python/plugins/fTools/tools/frmPointDistance.ui" line="55"/>
@@ -1585,7 +1585,7 @@ columns</source>
         <location filename="../python/plugins/fTools/tools/frmRandPoints.ui" line="32"/>
         <location filename="../python/plugins/fTools/tools/frmRegPoints.ui" line="32"/>
         <source>Input Boundary Layer</source>
-        <translation>Input-skellinje</translation>
+        <translation>Skellinje lag til input</translation>
     </message>
     <message>
         <location filename="../python/plugins/fTools/tools/frmRandPoints.ui" line="42"/>
@@ -2118,7 +2118,7 @@ Er du sikker på, at du vil fortsætte?</translation>
     </message>
     <message>
         <source>Please specify input polygon vector layer</source>
-        <translation>Angiv input-polygon-vektorlag</translation>
+        <translation>Angiv input polygon-vektorlag</translation>
     </message>
     <message>
         <source>Please specify output shapefile</source>
@@ -2126,7 +2126,7 @@ Er du sikker på, at du vil fortsætte?</translation>
     </message>
     <message>
         <source>Please specify input point vector layer</source>
-        <translation>Angiv input-punkt-vektorlag</translation>
+        <translation>Angiv input punkt-vektorlag</translation>
     </message>
     <message>
         <source>Please specify output count field</source>
@@ -2162,7 +2162,7 @@ Dette kan medføre uventede resultater.</translation>
     </message>
     <message>
         <source>Please specify input line vector layer</source>
-        <translation>Angiv input-linje-vektorlag</translation>
+        <translation>Angiv input linje-vektorlag</translation>
     </message>
     <message>
         <source>Please specify output length field</source>
@@ -2218,7 +2218,7 @@ blev reduceret til %s hjørner efter forenkling</translation>
     </message>
     <message>
         <source>Please specify join vector layer</source>
-        <translation>Angiv join-vektor-lag</translation>
+        <translation>Angiv join vektorlag</translation>
     </message>
     <message>
         <source>Please specify at least one summary statistic</source>
@@ -2396,7 +2396,7 @@ Vil du føje det nye lag til oversigten?</translation>
     </message>
     <message>
         <source>Please specify input vector layer</source>
-        <translation>Angiv input-vektorlag</translation>
+        <translation>Angiv input vektorlag</translation>
     </message>
     <message>
         <source>Please specify an input field</source>
@@ -2430,7 +2430,7 @@ Vil du føje det nye lag til oversigten?</translation>
     </message>
     <message>
         <source>No input vector layer specified</source>
-        <translation>Intet input-vektorlag angivet</translation>
+        <translation>Intet input vektorlag angivet</translation>
     </message>
     <message>
         <source>No output will be created.
@@ -2500,7 +2500,7 @@ Flg. feltnavne er længere end 10 tegn:
     </message>
     <message>
         <source>Split vector layer</source>
-        <translation>Opdelt vektorlag</translation>
+        <translation>Opdel vektorlag</translation>
     </message>
     <message>
         <source>Created output shapefiles in folder:
@@ -5346,7 +5346,7 @@ Den &apos;grå&apos; værdi (fra GDAL 1.7.0) giver mulighed for at udvide et dat
     </message>
     <message>
         <source>Please specify input vector layer</source>
-        <translation>Angiv input-vektorlag</translation>
+        <translation>Angiv input vektorlag</translation>
     </message>
     <message>
         <source>Please specify output shapefile</source>
@@ -5362,7 +5362,7 @@ Den &apos;grå&apos; værdi (fra GDAL 1.7.0) giver mulighed for at udvide et dat
     </message>
     <message>
         <source>Singleparts to multipart</source>
-        <translation>Enkeltleddet til flerleddet</translation>
+        <translation>Enkeltparter til multipart</translation>
     </message>
     <message>
         <source>Output shapefile</source>
@@ -5370,7 +5370,7 @@ Den &apos;grå&apos; værdi (fra GDAL 1.7.0) giver mulighed for at udvide et dat
     </message>
     <message>
         <source>Multipart to singleparts</source>
-        <translation>Flerleddet til enkeltleddet</translation>
+        <translation>Multipart til enkeltparter</translation>
     </message>
     <message>
         <source>Extract nodes</source>
@@ -11869,7 +11869,7 @@ SQL: %1</translation>
     <message>
         <location filename="../src/plugins/topology/topolError.cpp" line="228"/>
         <source>multipart feature</source>
-        <translation>multidelsobjekt</translation>
+        <translation>multipart objekt</translation>
     </message>
     <message>
         <source>Already active iterator on this provider was closed.</source>
@@ -33392,12 +33392,12 @@ vises ikke</translation>
     <message>
         <location filename="../src/app/qgsmaptooldeletepart.cpp" line="103"/>
         <source>This isn&apos;t a multipart geometry.</source>
-        <translation>Dette er ikke en flerdelsgeometri.</translation>
+        <translation>Dette er ikke en multipartsgeometri.</translation>
     </message>
     <message>
         <location filename="../src/app/qgsmaptooldeletepart.cpp" line="111"/>
         <source>Part of multipart feature deleted</source>
-        <translation>Del af et flerdelsobjekt slettet</translation>
+        <translation>Part af et multipartsobjekt slettet</translation>
     </message>
     <message>
         <location filename="../src/app/qgsmaptooldeletepart.cpp" line="118"/>
@@ -33791,7 +33791,7 @@ vises ikke</translation>
     <message>
         <location filename="../src/app/qgsmaptoolsimplify.cpp" line="296"/>
         <source>Multipart features are not supported for simplification.</source>
-        <translation>Flerdelsobjekter er ikke understøttede for forenkling.</translation>
+        <translation>Multipartsobjekter er ikke understøttede for forenkling.</translation>
     </message>
     <message>
         <location filename="../src/app/qgsmaptoolsimplify.cpp" line="313"/>
@@ -35098,7 +35098,7 @@ forbedring</translation>
     <message>
         <location filename="../src/core/qgsnetworkreplyparser.cpp" line="58"/>
         <source>Cannot find boundary in multipart content type</source>
-        <translation>Kan ikke finde skellinje i flerdelt indholdstype</translation>
+        <translation>Kan ikke finde skellinje i multipart indholdstype</translation>
     </message>
 </context>
 <context>
@@ -54114,7 +54114,7 @@ Svar var:
     <message>
         <location filename="../src/providers/wcs/qgswcsprovider.cpp" line="922"/>
         <source>Cannot parse multipart response: %1</source>
-        <translation>Kan ikke fortolke flerdelt svar: %1</translation>
+        <translation>Kan ikke fortolke multipart svar: %1</translation>
     </message>
     <message>
         <location filename="../src/providers/wcs/qgswcsprovider.cpp" line="954"/>
@@ -54128,7 +54128,7 @@ Svar var:
     </message>
     <message>
         <source>Cannot find boundary in multipart content type</source>
-        <translation type="obsolete">Kan ikke finde skellinje i flerdelt indholdstype</translation>
+        <translation type="obsolete">Kan ikke finde skellinje i multipart indholdstype</translation>
     </message>
     <message>
         <location filename="../src/providers/wcs/qgswcsprovider.cpp" line="931"/>
@@ -62557,11 +62557,11 @@ Plugin vil ikke blive slået til.</translation>
     </message>
     <message>
         <source>Multipart to singleparts</source>
-        <translation>Flerleddet til enkeltleddet</translation>
+        <translation>Multipart til enkeltparter</translation>
     </message>
     <message>
         <source>Singleparts to multipart</source>
-        <translation>Enkeltleddet til flerleddet</translation>
+        <translation>Enkeltparter til multiparter</translation>
     </message>
     <message>
         <source>Polygons to lines</source>
@@ -68886,7 +68886,7 @@ Returnerer en strengrepræsentation af en farve baseret på dens farvetone-, mæ
     <message>
         <location filename="../src/plugins/topology/topolTest.cpp" line="1558"/>
         <source>Missing geometry in multipart check.</source>
-        <translation>Manglende geometri i flerdelscheck.</translation>
+        <translation>Manglende geometri i multipart check.</translation>
     </message>
     <message>
         <location filename="../src/plugins/topology/topolTest.cpp" line="1677"/>
