@@ -5252,7 +5252,7 @@ Den &apos;grå&apos; værdi (fra GDAL 1.7.0) giver mulighed for at udvide et dat
         <location filename="../python/plugins/GdalTools/tools/widgetTranslate.ui" line="201"/>
         <location filename="../python/plugins/GdalTools/tools/widgetTranslate.ui" line="211"/>
         <source>Selects a subwindow from the source image for copying (like -srcwin) but with the corners given in georeferenced coordinates. (Enter ulx uly lrx lry)</source>
-        <translation>Vælger et undervindue fra kildebillede til kopiering (som kildevin) men med hjørnerne angivet i georefererede koordinater (Angiv ovx ovy nhx nhy)</translation>
+        <translation>Vælger et undervindue fra kildebilledet til kopiering (som -srcwin) men med hjørnerne angivet i georefererede koordinater (Angiv øv-x øv-y nh-x nh-y)</translation>
     </message>
     <message>
         <location filename="../python/plugins/GdalTools/tools/widgetTranslate.ui" line="204"/>
@@ -10383,12 +10383,12 @@ Kun %1 af %2 objekter skrevet.</translation>
     <message>
         <location filename="../src/plugins/georeferencer/qgsgeorefplugin.cpp" line="62"/>
         <source>Georeferencer GDAL</source>
-        <translation>Georeferencer GDAL</translation>
+        <translation>Georeferering GDAL</translation>
     </message>
     <message>
         <location filename="../src/plugins/georeferencer/qgsgeorefplugin.cpp" line="63"/>
         <source>Georeferencing rasters using GDAL</source>
-        <translation>Georeferencering af rasters vha. GDAL</translation>
+        <translation>Georeferering af raster vha. GDAL</translation>
     </message>
     <message>
         <location filename="../src/plugins/georeferencer/qgsgeorefplugin.cpp" line="64"/>
@@ -25919,7 +25919,7 @@ Vælg en gyldig fil.</translation>
     <message>
         <location filename="../src/plugins/georeferencer/qgsgeorefconfigdialogbase.ui" line="14"/>
         <source>Configure Georeferencer</source>
-        <translation>Konfigurér georeferering</translation>
+        <translation>Konfigurér Georeferering</translation>
     </message>
     <message>
         <location filename="../src/plugins/georeferencer/qgsgeorefconfigdialogbase.ui" line="20"/>
@@ -25993,7 +25993,7 @@ Vælg en gyldig fil.</translation>
     <message>
         <location filename="../src/plugins/georeferencer/qgsgeorefdescriptiondialogbase.ui" line="14"/>
         <source>Description georeferencer</source>
-        <translation>Beskrivelse af georeferering</translation>
+        <translation>Beskrivelse af Georeferering</translation>
     </message>
     <message>
         <location filename="../src/plugins/georeferencer/qgsgeorefdescriptiondialogbase.ui" line="46"/>
@@ -26017,7 +26017,7 @@ p, li { white-space: pre-wrap; }
         <location filename="../src/plugins/georeferencer/qgsgeorefplugin.cpp" line="109"/>
         <location filename="../src/plugins/georeferencer/qgsgeorefplugin.cpp" line="124"/>
         <source>&amp;Georeferencer</source>
-        <translation>&amp;Georeferencering</translation>
+        <translation>&amp;Georeferering</translation>
     </message>
 </context>
 <context>
@@ -26109,7 +26109,7 @@ p, li { white-space: pre-wrap; }
         <location filename="../src/plugins/georeferencer/qgsgeorefplugingui.cpp" line="600"/>
         <location filename="../src/plugins/georeferencer/qgsgeorefplugingui.cpp" line="1868"/>
         <source>Please load raster to be georeferenced</source>
-        <translation>Indlæs raster, der skal georeferering</translation>
+        <translation>Indlæs raster, der skal georefereres</translation>
     </message>
     <message>
         <location filename="../src/plugins/georeferencer/qgsgeorefplugingui.cpp" line="873"/>
@@ -26503,13 +26503,13 @@ p, li { white-space: pre-wrap; }
         <location filename="../src/plugins/georeferencer/qgsgeorefpluginguibase.ui" line="297"/>
         <location filename="../src/plugins/georeferencer/qgsgeorefpluginguibase.ui" line="300"/>
         <source>Link Georeferencer to QGIS</source>
-        <translation>Knyt Georeferencering til QGIS</translation>
+        <translation>Knyt Georeferering til QGIS</translation>
     </message>
     <message>
         <location filename="../src/plugins/georeferencer/qgsgeorefpluginguibase.ui" line="308"/>
         <location filename="../src/plugins/georeferencer/qgsgeorefpluginguibase.ui" line="311"/>
         <source>Link QGIS to Georeferencer</source>
-        <translation>Knyt QGIS til Georeferencering</translation>
+        <translation>Knyt QGIS til Georeferering</translation>
     </message>
     <message>
         <source>Link Georeferencer to QGis</source>
@@ -26544,7 +26544,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../src/plugins/georeferencer/qgsgeorefpluginguibase.ui" line="338"/>
         <source>Configure Georeferencer</source>
-        <translation>Konfigurér georeferering</translation>
+        <translation>Konfigurér Georeferering</translation>
     </message>
     <message>
         <location filename="../src/plugins/georeferencer/qgsgeorefpluginguibase.ui" line="341"/>
@@ -67215,7 +67215,7 @@ Returnerer en strengrepræsentation af en farve baseret på dens farvetone-, mæ
     <message>
         <location filename="../src/plugins/grass/grasslabels-i18n.cpp" line="155"/>
         <source>Display projection information from a georeferenced file (raster, vector or image) and create a new location based on it</source>
-        <translation>Vis projektionsinformation fra en georefereret fil (raster, vektor eller billede) og opret en ny lokation baseret på den</translation>
+        <translation>Vis projektionsinformation fra en georefereret fil (raster, vektor eller billede) og opret en ny lokation baseret på denne</translation>
     </message>
     <message>
         <location filename="../src/plugins/grass/grasslabels-i18n.cpp" line="156"/>
@@ -67225,7 +67225,7 @@ Returnerer en strengrepræsentation af en farve baseret på dens farvetone-, mæ
     <message>
         <location filename="../src/plugins/grass/grasslabels-i18n.cpp" line="157"/>
         <source>Display projection information from georeferenced ASCII file containing WKT projection description and create a new location based on it</source>
-        <translation>Vis projektionsinformation fra en georefereret ASCII-fil, der indeholder WKT-projektionsinformation, og opret en ny lokation baseret på den</translation>
+        <translation>Vis projektionsinformation fra en georefereret ASCII-fil, der indeholder WKT-projektionsinformation, og opret en ny lokation baseret på denne</translation>
     </message>
     <message>
         <location filename="../src/plugins/grass/grasslabels-i18n.cpp" line="158"/>
@@ -68031,7 +68031,7 @@ Returnerer en strengrepræsentation af en farve baseret på dens farvetone-, mæ
     <message>
         <location filename="../src/plugins/grass/grasslabels-i18n.cpp" line="318"/>
         <source>Print projection information from a georeferenced file and create a new location based on it</source>
-        <translation>Print projektionsinformation fra en georefereret fil og opret en ny lokation baseret på den</translation>
+        <translation>Print projektionsinformation fra en georefereret fil og opret en ny lokation baseret på denne</translation>
     </message>
     <message>
         <location filename="../src/plugins/grass/grasslabels-i18n.cpp" line="319"/>
