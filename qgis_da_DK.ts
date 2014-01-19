@@ -2010,7 +2010,7 @@ columns</source>
     </message>
     <message>
         <source>There are no shapefiles in this directory. Please select another one.</source>
-        <translation>Der er ingen shapefiler i denne mappe. Vælg venligst en anden.</translation>
+        <translation>Der er ingen shapefiler i denne mappe. Prøv at vælge en anden.</translation>
     </message>
     <message>
         <source>Input files</source>
@@ -2094,7 +2094,7 @@ Er du sikker på, at du vil fortsætte?</translation>
     </message>
     <message>
         <source>Please select the projection system that defines the current layer.</source>
-        <translation>Vælg venligst det projektionssystem der definerer det valgte lag.</translation>
+        <translation>Vælg projektionssystemet, der definerer det valgte lag.</translation>
     </message>
     <message>
         <source>Layer CRS information will be updated to the selected CRS.</source>
@@ -2744,7 +2744,7 @@ blev reduceret til %2 punkter efter forenkling</translation>
     </message>
     <message>
         <source>Please enter some name for the index</source>
-        <translation>Angiv venligst et navn til indekset</translation>
+        <translation>Angiv et navn til indekset</translation>
     </message>
 </context>
 <context>
@@ -5478,7 +5478,7 @@ Vælg en større tolerance...</translation>
         <source>At least two features must have same attribute value!
 Please choose another field...</source>
         <translation>Mindst 2 objekter skal have samme attribut-værdi!
-Vælg venligst et andet felt...</translation>
+Vælg et andet felt...</translation>
     </message>
     <message>
         <source>One or more features in the output layer may have invalid geometry, please check using the check validity tool
@@ -5558,7 +5558,7 @@ Would you like to add the new layer to the TOC?</source>
     </message>
     <message>
         <source>Please specify dissolve field</source>
-        <translation>Angiv venligst det &quot;dissolve&quot; felt</translation>
+        <translation>Angiv &quot;dissolve&quot; feltet</translation>
     </message>
     <message>
         <source>Please specify output shapefile</source>
@@ -5860,7 +5860,7 @@ GEOS geoprocessing error: One or more input features have invalid geometry.</sou
     <message>
         <location filename="../src/plugins/heatmap/heatmapgui.cpp" line="594"/>
         <source>Please enter a valid output file path and name.</source>
-        <translation>Angiv venligst et korrekt output-filnavn og -sti.</translation>
+        <translation>Angiv et korrekt output-filnavn og -sti.</translation>
     </message>
     <message>
         <location filename="../src/plugins/heatmap/heatmapgui.cpp" line="632"/>
@@ -7478,7 +7478,7 @@ Virker på det aktuelle redigérbare lag</translation>
 Please, use the &apos;Save as...&apos; option.</source>
         <translation>Denne model kan ikke gemmes på sin oprindelige placering
 (du har sikkert ikke tilladelse til at gøre det).
-Brug venligst &apos;Gem som...&apos;-funktionen.</translation>
+Brug &apos;Gem som...&apos;-funktionen.</translation>
     </message>
     <message>
         <source>Model saved</source>
@@ -8096,8 +8096,8 @@ Forkert linje %1</translation>
     <message>
         <source>No OSM data are loaded/downloaded or no OSM layer is selected in Layers panel. 
 Please change this situation first, because OSM Plugin doesn&apos;t know what to save.</source>
-        <translation type="obsolete">Ingen OSM-data er indlæst/downloadet eller ingen OSM-lag er valgt i Lagpanelet.
-Ændr venligst denne situation først, da OSM-pluginet ikke ved, hvad der skal gemmes.</translation>
+        <translation type="obsolete">Ingen OSM-data er indlæst/downloadet eller der er ikke valgt et OSM-lag i Lagpanelet.
+Ret denne situation, da OSM-pluginet ikke ved, hvad der skal gemmes.</translation>
     </message>
     <message>
         <source>OSM Upload</source>
@@ -8106,8 +8106,8 @@ Please change this situation first, because OSM Plugin doesn&apos;t know what to
     <message>
         <source>No OSM data are loaded/downloaded or no OSM layer is selected in Layers panel. 
 Please change this situation first, because OSM Plugin doesn&apos;t know what to upload.</source>
-        <translation type="obsolete">Ingen OSM-data er indlæst/downloadet eller ingen OSM-lag er valgt i Lagpanelet.
-Ændr venligst denne situation først, da OSM pluginet ikke ved, hvad der skal uploades.</translation>
+        <translation type="obsolete">Ingen OSM-data er indlæst/downloadet eller der er ikke valgt et OSM-lag i Lagpanelet.
+Ret denne situation, da OSM pluginet ikke ved, hvad der skal uploades.</translation>
     </message>
     <message>
         <source>OSM Import</source>
@@ -8116,12 +8116,12 @@ Please change this situation first, because OSM Plugin doesn&apos;t know what to
     <message>
         <source>No OSM data are loaded/downloaded or no OSM layer is selected in Layers panel. 
 Please change this situation first, because OSM Plugin doesn&apos;t know what layer will be destination of the import.</source>
-        <translation type="obsolete">Ingen OSM-data er indlæst/downloadet, eller ingen OSM-lag er valgt i Lagpanelet.
-Ændr venligst denne situation først, da OSM-pluginet ikke ved, hvilket lag der skal være mål for importeringen.</translation>
+        <translation type="obsolete">Ingen OSM-data er indlæst/downloadet eller der er ikke valgt et OSM-lag i Lagpanelet.
+Ret denne situation, da OSM pluginet ikke ved, hvad der skal uploades.</translation>
     </message>
     <message>
         <source>There are currently no available vector layers.</source>
-        <translation type="obsolete">Der er i øjeblikket ingen tilgængelig vektor lag.</translation>
+        <translation type="obsolete">Der er i øjeblikket ingen tilgængelige vektor lag.</translation>
     </message>
 </context>
 <context>
@@ -11395,7 +11395,7 @@ Vil du angive stien (GISBASE) til din GRASS-installation?</translation>
     <message>
         <location filename="../src/providers/postgres/qgspostgresprovider.cpp" line="3305"/>
         <source>Unable to save layer style. It&apos;s not possible to create the destination table on the database. Maybe this is due to table permissions (user=%1). Please contact your database admin</source>
-        <translation>Kan ikke gemme lagstilart. Det er ikke muligt at oprette destinationstabellen i databasen. Dette kan være pga. tabeltilladelser (bruger=%1). Kontakt venligst databaseadministratoren</translation>
+        <translation>Kan ikke gemme lagstilart. Det er ikke muligt at oprette destinationstabellen i databasen. Dette kan være pga. tabeltilladelser (bruger=%1). Kontakt databaseadministratoren desangående</translation>
     </message>
     <message>
         <location filename="../src/providers/postgres/qgspostgresprovider.cpp" line="3353"/>
@@ -11415,7 +11415,7 @@ Vil du angive stien (GISBASE) til din GRASS-installation?</translation>
     <message>
         <location filename="../src/providers/postgres/qgspostgresprovider.cpp" line="3404"/>
         <source>Unable to save layer style. It&apos;s not possible to insert a new record into the style table. Maybe this is due to table permissions (user=%1). Please contact your database administrator.</source>
-        <translation>Kan ikke gemme lagstilart. Det er ikke muligt at indsætte en ny række i stilartstabellen. Dette kan være pga. tabeltilladelser (bruger=%1). Kontakt venligst databaseadministratoren.</translation>
+        <translation>Kan ikke gemme lagstilart. Det er ikke muligt at indsætte en ny række i stilartstabellen. Dette kan være pga. tabeltilladelser (bruger=%1). Kontakt databaseadministratoren desangående.</translation>
     </message>
     <message>
         <location filename="../src/providers/postgres/qgspostgresprovider.cpp" line="3449"/>
@@ -13187,7 +13187,7 @@ Kontakt udviklerne af programmet.</translation>
     <message>
         <location filename="../src/app/qgisapp.cpp" line="2967"/>
         <source>%1 is an invalid layer and cannot be loaded. Please check the &lt;a href=&quot;#messageLog&quot;&gt;message log&lt;/a&gt; for further info.</source>
-        <translation>%1 er et ugyldigt lag og kan ikke indlæses. Tjek venligst &lt;a href=&quot;#messageLog&quot;&gt;beskedloggen&lt;/a&gt; for yderligere information.</translation>
+        <translation>%1 er et ugyldigt lag og kan ikke indlæses. Tjek &lt;a href=&quot;#messageLog&quot;&gt;beskedloggen&lt;/a&gt; for yderligere information.</translation>
     </message>
     <message>
         <location filename="../src/app/qgisapp.cpp" line="3022"/>
@@ -16324,7 +16324,7 @@ Skal de eksisterende klasser slettes før klassificering?</translation>
         <source>Trying to create image #%1 ( %2x%3 @ %4dpi )may result in a memory overflow.
 Please try a lower resolution or a smaller papersize</source>
         <translation type="obsolete">At danne billede #%1  ( %2x%3 @ %4dpi ) kan resultere i hukommelsesoverflow.
-Prøv venligst en lavere opløsning eller en mindre papirstørrelse</translation>
+Prøv en lavere opløsning eller en mindre papirstørrelse</translation>
     </message>
     <message>
         <location filename="../src/app/composer/qgscomposer.cpp" line="1044"/>
@@ -16470,7 +16470,7 @@ Prøv venligst en lavere opløsning eller en mindre papirstørrelse</translation
         <source>Trying to create image #%1( %2x%3 @ %4dpi ) may result in a memory overflow.
 Please try a lower resolution or a smaller papersize</source>
         <translation>At danne billede #%1( %2x%3 @ %4dpi ) kan resultere i hukommelsesoverflow.
-Prøv venligst en lavere opløsning eller en mindre papirstørrelse</translation>
+Prøv en lavere opløsning eller en mindre papirstørrelse</translation>
     </message>
     <message>
         <location filename="../src/app/composer/qgscomposer.cpp" line="1600"/>
@@ -59966,7 +59966,7 @@ Du kan tilføje nogle eksempelhandlinger ved at klikke på knappen &lt;label&gt;
 &lt;/a&gt;
 Fanen Diagram lader dig tilføje en grafisk belægning til et vektorlag. For at aktivere denne funktion, skal du åbne &lt;label&gt;Pluginstyring&lt;/label&gt; og vælge &lt;label&gt;Diagrambelægning&lt;/label&gt;-pluginet. Derefter er der en ny fane i dialogen &lt;label&gt;Egenskaber for vektorlag&lt;/label&gt;, hvor indstillingerne for diagrammer kan indtastes.&lt;p&gt;
 Den nuværende implementering af diagrammer understøtter lagkage- og søjlediagrammer til lineær skalering
-af diagrammets størrelse efter en klassifikationsattribut.
+af diagrammets størrelse efter en klassificeringsattribut.
 </translation>
     </message>
     <message>
@@ -68682,7 +68682,7 @@ Returnerer en strengrepræsentation af en farve baseret på dens farvetone-, mæ
     </message>
     <message>
         <source>Please specify API file or check &quot;Use preloaded API files&quot;</source>
-        <translation>Angiv venligst API-filen eller marker &quot;Brug forindlæste API-filer&quot;</translation>
+        <translation>Angiv API-filen eller marker &quot;Brug forindlæste API-filer&quot;</translation>
     </message>
     <message>
         <source>The APIs file was not compiled, click on &quot;Compile APIs...&quot;</source>
