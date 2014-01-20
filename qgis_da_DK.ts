@@ -2709,27 +2709,27 @@ blev reduceret til %2 punkter efter forenkling</translation>
     <message>
         <location filename="../python/plugins/processing/ui/DlgAutofill.ui" line="14"/>
         <source>Autofill settings</source>
-        <translation type="unfinished"></translation>
+        <translation>AutoFyld opsætning</translation>
     </message>
     <message>
         <location filename="../python/plugins/processing/ui/DlgAutofill.ui" line="20"/>
         <source>Autofill mode</source>
-        <translation type="unfinished"></translation>
+        <translation>AutoFyld modus</translation>
     </message>
     <message>
         <location filename="../python/plugins/processing/ui/DlgAutofill.ui" line="28"/>
         <source>Do not autofill</source>
-        <translation type="unfinished"></translation>
+        <translation>Brug ikke AutoFyld</translation>
     </message>
     <message>
         <location filename="../python/plugins/processing/ui/DlgAutofill.ui" line="33"/>
         <source>Fill with numbers</source>
-        <translation type="unfinished"></translation>
+        <translation>Fyld ud med numre</translation>
     </message>
     <message>
         <location filename="../python/plugins/processing/ui/DlgAutofill.ui" line="38"/>
         <source>Fill with parameter values</source>
-        <translation type="unfinished"></translation>
+        <translation>Fyld ud med parameterværdier</translation>
     </message>
     <message>
         <location filename="../python/plugins/processing/ui/DlgAutofill.ui" line="49"/>
@@ -7800,7 +7800,7 @@ Virker på det aktuelle redigérbare lag</translation>
     </message>
     <message>
         <source>Save Model As Image</source>
-        <translation type="unfinished">Gem Model som Billede</translation>
+        <translation>Gem Model som Billede</translation>
     </message>
     <message>
         <source>PNG files (*.png *.PNG)</source>
@@ -7826,7 +7826,9 @@ Virker på det aktuelle redigérbare lag</translation>
         <source>The selected model could not be loaded.
 
                                  Wrong line: %s</source>
-        <translation type="unfinished"></translation>
+        <translation>Den valgte model kunne ikke indlæses.
+
+                                 Forkert linje %s</translation>
     </message>
     <message>
         <source>Model doesn&apos;t contains any algorithms and/or parameters and can&apos;t be executed</source>
@@ -7905,15 +7907,15 @@ Forkert linje %1</translation>
     <name>MultipleInputDialog</name>
     <message>
         <source>Select all</source>
-        <translation type="unfinished">Vælg alle</translation>
+        <translation>Vælg alle</translation>
     </message>
     <message>
         <source>Clear selection</source>
-        <translation type="unfinished">Ryd selektion</translation>
+        <translation>Ryd selektion</translation>
     </message>
     <message>
         <source>Toggle selection</source>
-        <translation type="unfinished"></translation>
+        <translation>Skift selektion</translation>
     </message>
 </context>
 <context>
@@ -7927,71 +7929,71 @@ Forkert linje %1</translation>
     <name>NumberInputDialog</name>
     <message>
         <source>[Enter your formula here]</source>
-        <translation type="unfinished"></translation>
+        <translation>[Angiv din formular her]</translation>
     </message>
     <message>
         <source>Values from data layers extents</source>
-        <translation type="unfinished"></translation>
+        <translation>Værdier fra datalagets omrids</translation>
     </message>
     <message>
         <source>Min X</source>
-        <translation type="unfinished"></translation>
+        <translation>Min. X</translation>
     </message>
     <message>
         <source>Max X</source>
-        <translation type="unfinished"></translation>
+        <translation>Maks. X</translation>
     </message>
     <message>
         <source>Min Y</source>
-        <translation type="unfinished"></translation>
+        <translation>Min. Y</translation>
     </message>
     <message>
         <source>Max Y</source>
-        <translation type="unfinished"></translation>
+        <translation>Maks. Y</translation>
     </message>
     <message>
         <source>Cellsize</source>
-        <translation type="unfinished"></translation>
+        <translation>Cellestørrelse</translation>
     </message>
     <message>
         <source>Values from raster layers statistics</source>
-        <translation type="unfinished"></translation>
+        <translation>Værdier fra rasterlags-statistik</translation>
     </message>
     <message>
         <source>Mean</source>
-        <translation type="unfinished">Middel</translation>
+        <translation>Middel</translation>
     </message>
     <message>
         <source>Std. deviation</source>
-        <translation type="unfinished"></translation>
+        <translation>Std.afvigelse</translation>
     </message>
     <message>
         <source>Max value</source>
-        <translation type="unfinished"></translation>
+        <translation>Maks. værdi</translation>
     </message>
     <message>
         <source>Min value</source>
-        <translation type="unfinished"></translation>
+        <translation>Min. værdi</translation>
     </message>
     <message>
         <source>Values from QGIS map canvas</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Værdier fra QGIS kortbillede</translation>
     </message>
     <message>
         <source>Current extent</source>
-        <translation type="unfinished">Aktuelt omrids</translation>
+        <translation>Aktuelt omrids</translation>
     </message>
     <message>
         <source>Full extent of all layers in map canvas</source>
-        <translation type="unfinished"></translation>
+        <translation>Maks. omrids af alle lag i kortbillede</translation>
     </message>
     <message>
         <source>Wrong expression</source>
-        <translation type="unfinished"></translation>
+        <translation>Forkert udtryk</translation>
     </message>
     <message>
         <source>The expression entered is not correct</source>
-        <translation type="unfinished"></translation>
+        <translation>Det indtastede udtryk er ikke korrekt</translation>
     </message>
 </context>
 <context>
@@ -9229,19 +9231,19 @@ Ret denne situation, da OSM pluginet ikke ved, hvad der skal uploades.</translat
     </message>
     <message>
         <source>Close Tab</source>
-        <translation type="unfinished"></translation>
+        <translation>Luk Tab</translation>
     </message>
     <message>
         <source>Close All</source>
-        <translation type="unfinished"></translation>
+        <translation>Luk Alle</translation>
     </message>
     <message>
         <source>Close Others</source>
-        <translation type="unfinished"></translation>
+        <translation>Luk Andre</translation>
     </message>
     <message>
         <source>Save As</source>
-        <translation type="unfinished">Gem som</translation>
+        <translation>Gem som</translation>
     </message>
     <message>
         <source>The file {0} could not be opened. Error: {1}
@@ -9470,7 +9472,7 @@ brug qgis.utils.iface objekt (instans af QgisInterface class).</translation>
     <message>
         <location filename="../src/core/qgis.cpp" line="90"/>
         <source>nautical miles</source>
-        <translation type="unfinished"></translation>
+        <translation>nautiske mil</translation>
     </message>
 </context>
 <context>
@@ -10379,7 +10381,7 @@ Error(%2): %3</source>
     <message>
         <location filename="../src/core/qgsvectorfilewriter.cpp" line="515"/>
         <source>New BNA files are created by the systems default line termination conventions. This may be overridden here.</source>
-        <translation type="unfinished"></translation>
+        <translation>Nye BNA filer oprettes med standard linieterminering. Dette kan ændres her</translation>
     </message>
     <message>
         <location filename="../src/core/qgsvectorfilewriter.cpp" line="526"/>
