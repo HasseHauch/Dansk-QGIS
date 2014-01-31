@@ -40425,7 +40425,7 @@ Altid netværk: indlæs altid fra netværk og tjek ikke, om cachen har en gyldig
     <message>
         <location filename="../src/ui/qgsoptionsbase.ui" line="613"/>
         <source>Custom side bar style</source>
-        <translation>Brugerdefineret stil for side afsnit</translation>
+        <translation>Brugerdefineret stil for side panel</translation>
     </message>
     <message>
         <location filename="../src/ui/qgsoptionsbase.ui" line="624"/>
