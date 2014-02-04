@@ -6,7 +6,7 @@
     <message>
         <location filename="../python/console/console_compile_apis.ui" line="32"/>
         <source>Generating prepared API file (please wait)...</source>
-        <translation>Danner forindlæst API-fil (vent venligst)...</translation>
+        <translation>Danner forberedt API-fil (vent venligst)...</translation>
     </message>
 </context>
 <context>
@@ -10555,62 +10555,62 @@ Hvis til stede, vil dette URI indsættes som schema location. Bemærk, at schema
     <message>
         <location filename="../src/core/qgsvectorfilewriter.cpp" line="889"/>
         <source>only valid when FORMAT=GML3/GML3Degree/GML3.2) Default to YES. If YES, SRS with EPSG authority will be written with the &apos;urn:ogc:def:crs:EPSG::&apos; prefix. In the case, if the SRS is a geographic SRS without explicit AXIS order, but that the same SRS authority code imported with ImportFromEPSGA() should be treated as lat/long, then the function will take care of coordinate order swapping. If set to NO, SRS with EPSG authority will be written with the &apos;EPSG:&apos; prefix, even if they are in lat/long order.</source>
-        <translation type="unfinished"></translation>
+        <translation>kun gyldigt når FORMAT=GML3/GML3Degree/GML3.2) Standard er YES. Hvis sat til YES vil SRS med EPSG myndighed blive skrevet med &apos;urn:ogc:def:crs:EPSG::&apos; præfiks. Hvis SRS er en geografisk SRS uden bestemt AXIS valg, og at den samme SRS kode hentet med ImportFromEPSGA() ville blive behandlet som lat/long, vil funktionen tage højde for skift i koordinat rækkefølge. If sat til NO vil SRS med EPSG myndighedty blive skrevet ned &apos;EPSG:&apos; prefiks, selv om de er i lat/long rækkefølge.</translation>
     </message>
     <message>
         <location filename="../src/core/qgsvectorfilewriter.cpp" line="901"/>
         <source>only valid when FORMAT=GML3/GML3Degree/GML3.2) Default to YES. If set to NO, the &lt;gml:boundedBy&gt; element will not be written for each feature.</source>
-        <translation type="unfinished"></translation>
+        <translation>kun gyldig hvis FORMAT=GML3/GML3Degree/GML3.2) Standard er YES. If sat til NO bliver &lt;gml:boundedBy&gt; elementet ikke skrevet for hvert objekt.</translation>
     </message>
     <message>
         <location filename="../src/core/qgsvectorfilewriter.cpp" line="908"/>
         <source>Default to YES. If YES, the output will be indented with spaces for more readability, but at the expense of file size.</source>
-        <translation type="unfinished"></translation>
+        <translation>Standard er YES. Hvis sat til YES vil output will be indrykket med blanktegn for at gøre det mere læsbart, men filen bliver større som konsekvens af dette.</translation>
     </message>
     <message>
         <location filename="../src/core/qgsvectorfilewriter.cpp" line="945"/>
         <source>By default when writing a layer whose features are of type wkbLineString, the GPX driver chooses to write them as routes. If FORCE_GPX_TRACK=YES is specified, they will be written as tracks.</source>
-        <translation type="unfinished"></translation>
+        <translation>Som standard vil GPX underprogrammet skrive objekter af type wkbLineString som routes. Hvis FORCE_GPX_TRACK=YES is sat, bliver  wkbLineString objekter skrevet som tracks.</translation>
     </message>
     <message>
         <location filename="../src/core/qgsvectorfilewriter.cpp" line="953"/>
         <source>By default when writing a layer whose features are of type wkbMultiLineString, the GPX driver chooses to write them as tracks. If FORCE_GPX_ROUTE=YES is specified, they will be written as routes, provided that the multilines are composed of only one single line.</source>
-        <translation type="unfinished"></translation>
+        <translation>Som standard vil GPX underprogrammet skrive objekter af type wkbMultiLineString som routes. Hvis FORCE_GPX_TRACK=YES is sat, bliver  wkbMultiLineString objekter skrevet som tracks- forudsat at objektet kun består af een linie.</translation>
     </message>
     <message>
         <location filename="../src/core/qgsvectorfilewriter.cpp" line="962"/>
         <source>If GPX_USE_EXTENSIONS=YES is specified, extra fields will be written inside the &lt;extensions&gt; tag.</source>
-        <translation type="unfinished"></translation>
+        <translation>Hvis GPX_USE_EXTENSIONS=YES er sat, vil ekstra felter blive skrevet indenfor et &lt;extensions&gt; tag.</translation>
     </message>
     <message>
         <location filename="../src/core/qgsvectorfilewriter.cpp" line="968"/>
         <source>Only used if GPX_USE_EXTENSIONS=YES and GPX_EXTENSIONS_NS_URL is set. The namespace value used for extension tags. By default, &apos;ogr&apos;.</source>
-        <translation type="unfinished"></translation>
+        <translation>Bruges kun hvis GPX_USE_EXTENSIONS=YES og GPX_EXTENSIONS_NS_URL er værdisat. Sætter namespace for extension tags. Standard  er &apos;ogr&apos;.</translation>
     </message>
     <message>
         <location filename="../src/core/qgsvectorfilewriter.cpp" line="974"/>
         <source>Only used if GPX_USE_EXTENSIONS=YES and GPX_EXTENSIONS_NS is set. The namespace URI. By default, &apos;http://osgeo.org/gdal&apos;.</source>
-        <translation type="unfinished"></translation>
+        <translation>Bruges kun hvis GPX_USE_EXTENSIONS=YES og GPX_EXTENSIONS_NS_URL er værdisat. Sætter namespace URI. Standard  er &apos;http://osgeo.org/gdal&apos;.</translation>
     </message>
     <message>
         <location filename="../src/core/qgsvectorfilewriter.cpp" line="980"/>
         <source>By default files are created with the line termination conventions of the local platform (CR/LF on win32 or LF on all other systems). This may be overridden through use of the LINEFORMAT layer creation option which may have a value of CRLF (DOS format) or LF (Unix format).</source>
-        <translation type="unfinished"></translation>
+        <translation>Som standard er karaktererne for linie afslutning det samme som gælder for computer platformen (CR/LF for win32/64 eller LF på alle  andre platforme). Dette kan ændres ved at bruge LINEFORMAT laggenererings indstillingen som kan have værdierne CRLF (DOS format) eller LF (Unix format).</translation>
     </message>
     <message>
         <location filename="../src/core/qgsvectorfilewriter.cpp" line="1038"/>
         <source>Allows you to specify the field to use for the KML &lt;name&gt; element. </source>
-        <translation type="unfinished"></translation>
+        <translation>Tillader dig at vælge feltet som bliver brugt til KML &lt;name&gt; elementet. </translation>
     </message>
     <message>
         <location filename="../src/core/qgsvectorfilewriter.cpp" line="1043"/>
         <source>Allows you to specify the field to use for the KML &lt;description&gt; element.</source>
-        <translation type="unfinished"></translation>
+        <translation>Tillader dig at vælge feltet som bliver brugt til KML &lt;description&gt; elementet. </translation>
     </message>
     <message>
         <location filename="../src/core/qgsvectorfilewriter.cpp" line="1048"/>
         <source>Allows you to specify the AltitudeMode to use for KML geometries. This will only affect 3D geometries and must be one of the valid KML options.</source>
-        <translation type="unfinished"></translation>
+        <translation>Tillader dig at vælge AltitudeMode der skal bruges til KML geometrier. Dette har kun betydning for 3D geometrier and skal være en af de gyldige KML indstillinger.</translation>
     </message>
     <message>
         <location filename="../src/core/qgsvectorfilewriter.cpp" line="1073"/>
