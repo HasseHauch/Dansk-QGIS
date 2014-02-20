@@ -2223,8 +2223,8 @@ Dette kan medføre uventede resultater.</translation>
     <message>
         <source>There were %d vertices in original dataset which
 were reduced to %d vertices after simplification</source>
-        <translation>Der var %d hjørner i det originale datasæt som
-blev reduceret til %s hjørner efter forenkling</translation>
+        <translation>Der var %d punkter i det originale datasæt som
+blev reduceret til %s punkter efter forenkling</translation>
     </message>
     <message>
         <source>Processing of the following layers/files ended with error:&lt;br&gt;&lt;br&gt;</source>
@@ -9597,7 +9597,7 @@ brug qgis.utils.iface objekt (instans af QgisInterface class).</translation>
         <translation>Alvorlig programfejl</translation>
     </message>
     <message>
-        <location filename="../src/app/main.cpp" line="599"/>
+        <location filename="../src/app/main.cpp" line="600"/>
         <source>QGIS starting in non-interactive mode not supported.
 You are seeing this message most likely because you have no DISPLAY environment variable set.
 </source>
@@ -15013,19 +15013,19 @@ p, li { white-space: pre-wrap; }
 <context>
     <name>QgsApplication</name>
     <message>
-        <location filename="../src/core/qgsapplication.cpp" line="233"/>
-        <location filename="../src/core/qgsapplication.cpp" line="237"/>
-        <location filename="../src/core/qgsapplication.cpp" line="241"/>
+        <location filename="../src/core/qgsapplication.cpp" line="234"/>
+        <location filename="../src/core/qgsapplication.cpp" line="238"/>
+        <location filename="../src/core/qgsapplication.cpp" line="242"/>
         <source>Exception</source>
         <translation>Undtagelse</translation>
     </message>
     <message>
-        <location filename="../src/core/qgsapplication.cpp" line="241"/>
+        <location filename="../src/core/qgsapplication.cpp" line="242"/>
         <source>unknown exception</source>
         <translation>ukendt undtagelse</translation>
     </message>
     <message>
-        <location filename="../src/core/qgsapplication.cpp" line="600"/>
+        <location filename="../src/core/qgsapplication.cpp" line="601"/>
         <source>Application state:
 QGIS_PREFIX_PATH env var:		%1
 Prefix:		%2
@@ -15050,31 +15050,31 @@ Bruger-DB-sti:	%9
 </translation>
     </message>
     <message>
-        <location filename="../src/core/qgsapplication.cpp" line="617"/>
+        <location filename="../src/core/qgsapplication.cpp" line="618"/>
         <source>
 		</source>
         <comment>match indentation of application state</comment>
         <translation></translation>
     </message>
     <message>
-        <location filename="../src/core/qgsapplication.cpp" line="924"/>
+        <location filename="../src/core/qgsapplication.cpp" line="925"/>
         <source>[ERROR] Can not make qgis.db private copy</source>
         <translation>[FEJL] Kan ikke lave privat kopi af qgis.db</translation>
     </message>
     <message>
-        <location filename="../src/core/qgsapplication.cpp" line="937"/>
+        <location filename="../src/core/qgsapplication.cpp" line="938"/>
         <source>Could not open qgis.db</source>
         <translation>Kunne ikke åbne qgis.db</translation>
     </message>
     <message>
-        <location filename="../src/core/qgsapplication.cpp" line="967"/>
+        <location filename="../src/core/qgsapplication.cpp" line="968"/>
         <source>Migration of private qgis.db failed.
 %1</source>
         <translation>Migrering af privat qgis.db mislykkedes.
 %1</translation>
     </message>
     <message>
-        <location filename="../src/core/qgsapplication.cpp" line="1002"/>
+        <location filename="../src/core/qgsapplication.cpp" line="1003"/>
         <source>Update of view in private qgis.db failed.
 %1</source>
         <translation>Opdatering af view i privat qgis.db mislykkedes.
@@ -21233,7 +21233,7 @@ Prøv en lavere opløsning eller en mindre papirstørrelse</translation>
     <message>
         <location filename="../src/ui/qgscomposershapewidgetbase.ui" line="85"/>
         <source> mm</source>
-        <translation>mm</translation>
+        <translation> mm</translation>
     </message>
     <message>
         <location filename="../src/ui/qgscomposershapewidgetbase.ui" line="95"/>
@@ -22114,11 +22114,11 @@ Prøv en lavere opløsning eller en mindre papirstørrelse</translation>
     </message>
     <message>
         <source>Snapping</source>
-        <translation type="obsolete">Fastgøring</translation>
+        <translation type="obsolete">Snapping</translation>
     </message>
     <message>
         <source>Snap to grid</source>
-        <translation type="obsolete">Fastgør til gitter</translation>
+        <translation type="obsolete">Snap til gitter</translation>
     </message>
     <message>
         <source>X offset </source>
@@ -22332,33 +22332,33 @@ Prøv en lavere opløsning eller en mindre papirstørrelse</translation>
 <context>
     <name>QgsCoordinateTransform</name>
     <message>
-        <location filename="../src/core/qgscoordinatetransform.cpp" line="594"/>
+        <location filename="../src/core/qgscoordinatetransform.cpp" line="603"/>
         <source>The source spatial reference system (CRS) is not valid. The coordinates can not be reprojected. The CRS is: %1</source>
         <translation>Kildekoordinatsystemet (CRS) er ikke gyldigt. Koordinaterne kan ikke reprojiceres. CRS&apos;et er: %1</translation>
     </message>
     <message>
-        <location filename="../src/core/qgscoordinatetransform.cpp" line="596"/>
-        <location filename="../src/core/qgscoordinatetransform.cpp" line="602"/>
+        <location filename="../src/core/qgscoordinatetransform.cpp" line="605"/>
+        <location filename="../src/core/qgscoordinatetransform.cpp" line="611"/>
         <source>CRS</source>
         <translation>CRS</translation>
     </message>
     <message>
-        <location filename="../src/core/qgscoordinatetransform.cpp" line="601"/>
+        <location filename="../src/core/qgscoordinatetransform.cpp" line="610"/>
         <source>The destination spatial reference system (CRS) is not valid. The coordinates can not be reprojected. The CRS is: %1</source>
         <translation>Destinationskoordinatsystemet (CRS) er ikke gyldigt. Koordinaterne kan ikke reprojiceres. CRS&apos;et er: %1</translation>
     </message>
     <message>
-        <location filename="../src/core/qgscoordinatetransform.cpp" line="656"/>
+        <location filename="../src/core/qgscoordinatetransform.cpp" line="665"/>
         <source>inverse transform</source>
         <translation>modsat transformation</translation>
     </message>
     <message>
-        <location filename="../src/core/qgscoordinatetransform.cpp" line="656"/>
+        <location filename="../src/core/qgscoordinatetransform.cpp" line="665"/>
         <source>forward transform</source>
         <translation>forlæns transformation</translation>
     </message>
     <message>
-        <location filename="../src/core/qgscoordinatetransform.cpp" line="658"/>
+        <location filename="../src/core/qgscoordinatetransform.cpp" line="667"/>
         <source>%1 of
 %2PROJ.4: %3 +to %4
 Error: %5</source>
@@ -29522,17 +29522,17 @@ Tryk på Fortryd for at afbryde beregning eller OK for at fortsætte.</translati
     <message>
         <location filename="../src/plugins/grass/qgsgrassedit.cpp" line="280"/>
         <source>Move vertex</source>
-        <translation>Flyt hjørne</translation>
+        <translation>Flyt punkt</translation>
     </message>
     <message>
         <location filename="../src/plugins/grass/qgsgrassedit.cpp" line="286"/>
         <source>Add vertex</source>
-        <translation>Tilføj hjørne</translation>
+        <translation>Tilføj punkt</translation>
     </message>
     <message>
         <location filename="../src/plugins/grass/qgsgrassedit.cpp" line="292"/>
         <source>Delete vertex</source>
-        <translation>Slet hjørne</translation>
+        <translation>Slet punkt</translation>
     </message>
     <message>
         <location filename="../src/plugins/grass/qgsgrassedit.cpp" line="298"/>
@@ -29703,7 +29703,7 @@ Tryk på Fortryd for at afbryde beregning eller OK for at fortsætte.</translati
     <message>
         <location filename="../src/plugins/grass/qgsgrassedittools.cpp" line="458"/>
         <source>New vertex position</source>
-        <translation>Ny hjørneposition</translation>
+        <translation>Ny punktposition</translation>
     </message>
     <message>
         <location filename="../src/plugins/grass/qgsgrassedittools.cpp" line="458"/>
@@ -29843,17 +29843,17 @@ Tryk på Fortryd for at afbryde beregning eller OK for at fortsætte.</translati
         <location filename="../src/plugins/grass/qgsgrassedittools.cpp" line="593"/>
         <location filename="../src/plugins/grass/qgsgrassedittools.cpp" line="604"/>
         <source>Select vertex</source>
-        <translation>Vælg hjørne</translation>
+        <translation>Vælg punkt</translation>
     </message>
     <message>
         <location filename="../src/plugins/grass/qgsgrassedittools.cpp" line="589"/>
         <source>Delete vertex</source>
-        <translation>Slet hjørne</translation>
+        <translation>Slet punkt</translation>
     </message>
     <message>
         <location filename="../src/plugins/grass/qgsgrassedittools.cpp" line="589"/>
         <source>Release vertex</source>
-        <translation>Frigiv hjørne</translation>
+        <translation>Frigiv punkt</translation>
     </message>
 </context>
 <context>
@@ -29884,7 +29884,7 @@ Tryk på Fortryd for at afbryde beregning eller OK for at fortsætte.</translati
         <location filename="../src/plugins/grass/qgsgrassedittools.cpp" line="293"/>
         <location filename="../src/plugins/grass/qgsgrassedittools.cpp" line="330"/>
         <source>Select vertex</source>
-        <translation>Vælg hjørne</translation>
+        <translation>Vælg punkt</translation>
     </message>
     <message>
         <location filename="../src/plugins/grass/qgsgrassedittools.cpp" line="319"/>
@@ -29901,13 +29901,13 @@ Tryk på Fortryd for at afbryde beregning eller OK for at fortsætte.</translati
         <location filename="../src/plugins/grass/qgsgrassedittools.cpp" line="235"/>
         <location filename="../src/plugins/grass/qgsgrassedittools.cpp" line="239"/>
         <source>New vertex</source>
-        <translation>Nyt hjørne</translation>
+        <translation>Nyt punkt</translation>
     </message>
     <message>
         <location filename="../src/plugins/grass/qgsgrassedittools.cpp" line="235"/>
         <location filename="../src/plugins/grass/qgsgrassedittools.cpp" line="239"/>
         <source>Undo last vertex</source>
-        <translation>Fortryd sidste hjørne</translation>
+        <translation>Fortryd sidste punkt</translation>
     </message>
     <message>
         <location filename="../src/plugins/grass/qgsgrassedittools.cpp" line="239"/>
@@ -35725,7 +35725,7 @@ vises ikke</translation>
     <name>QgsMapToolAddVertex</name>
     <message>
         <source>Added vertex</source>
-        <translation type="obsolete">Tilføjede hjørne</translation>
+        <translation type="obsolete">Tilføjede punkt</translation>
     </message>
 </context>
 <context>
@@ -35789,7 +35789,7 @@ vises ikke</translation>
     <name>QgsMapToolDeleteVertex</name>
     <message>
         <source>Vertex deleted</source>
-        <translation type="obsolete">Hjørne slettet</translation>
+        <translation type="obsolete">Punkt slettet</translation>
     </message>
 </context>
 <context>
@@ -36047,7 +36047,7 @@ vises ikke</translation>
     <name>QgsMapToolMoveVertex</name>
     <message>
         <source>Vertex moved</source>
-        <translation type="obsolete">Hjørne flyttet</translation>
+        <translation type="obsolete">Punkt flyttet</translation>
     </message>
 </context>
 <context>
@@ -36055,7 +36055,7 @@ vises ikke</translation>
     <message>
         <location filename="../src/app/nodetool/qgsmaptoolnodetool.cpp" line="692"/>
         <source>Inserted vertex</source>
-        <translation>Indsat knudepunkt</translation>
+        <translation>Indsat punkt</translation>
     </message>
 </context>
 <context>
@@ -36167,7 +36167,7 @@ vises ikke</translation>
         <location filename="../src/app/qgsmaptoolrotatepointsymbols.cpp" line="99"/>
         <source>No point feature was detected at the clicked position. Please click closer to the feature or enhance the search tolerance under Settings-&gt;Options-&gt;Digitizing-&gt;Serch radius for vertex edits</source>
         <translatorcomment>Typo in source: &apos;Serch&apos;</translatorcomment>
-        <translation>Intet punktobjekt blev fundet på den klikkede position. Klik tættere på objektet, eller forøg søgetolerancen under Indstillinger-&gt;Generelle indstillinger-&gt;Digitalisering-&gt;Søgeradius for hjørneredigeringer</translation>
+        <translation>Intet punktobjekt blev fundet på den klikkede position. Klik tættere på objektet, eller forøg søgetolerancen under Indstillinger-&gt;Generelle indstillinger-&gt;Digitalisering-&gt;Søgeradius for punktsredigeringer</translation>
     </message>
     <message>
         <location filename="../src/app/qgsmaptoolrotatepointsymbols.cpp" line="113"/>
@@ -36227,7 +36227,7 @@ vises ikke</translation>
     <message>
         <location filename="../src/app/qgsmaptoolsimplify.cpp" line="313"/>
         <source>This feature cannot be simplified. Check if feature has enough vertices to be simplified.</source>
-        <translation>Objektet kan ikke forenkles. Tjek, om objektet har nok hjørner til at kunne forenkles.</translation>
+        <translation>Objektet kan ikke forenkles. Tjek, om objektet har nok punkter til at kunne forenkles.</translation>
     </message>
 </context>
 <context>
@@ -36351,7 +36351,7 @@ vises ikke</translation>
     <message>
         <location filename="../src/app/qgsmaptoolvertexedit.cpp" line="46"/>
         <source>Snap tolerance</source>
-        <translation>Fastgøringstolerance</translation>
+        <translation>Snap tolerance</translation>
     </message>
     <message>
         <location filename="../src/app/qgsmaptoolvertexedit.cpp" line="47"/>
@@ -36580,7 +36580,7 @@ http://my.host.com/cgi-bin/mapserv.exe</translation>
     <message>
         <location filename="../src/gui/symbology-ng/qgssymbollayerv2widget.cpp" line="1142"/>
         <source>&apos;vertex&apos;|&apos;lastvertex&apos;|&apos;firstvertex&apos;|&apos;centerpoint&apos;</source>
-        <translation>&apos;hjørne&apos;|&apos;sidstehjørne&apos;|&apos;førstehjørne&apos;|&apos;centerpunkt&apos;</translation>
+        <translation>&apos;punkt&apos;|&apos;sidstepunkt&apos;|&apos;førstepunkt&apos;|&apos;centerpunkt&apos;</translation>
     </message>
 </context>
 <context>
@@ -39772,7 +39772,7 @@ Altid netværk: indlæs altid fra netværk og tjek ikke, om cachen har en gyldig
     <message>
         <location filename="../src/app/qgsoptions.cpp" line="783"/>
         <source>To vertex</source>
-        <translation>Til hjørne</translation>
+        <translation>Til punkt</translation>
     </message>
     <message>
         <location filename="../src/app/qgsoptions.cpp" line="784"/>
@@ -39782,7 +39782,7 @@ Altid netværk: indlæs altid fra netværk og tjek ikke, om cachen har en gyldig
     <message>
         <location filename="../src/app/qgsoptions.cpp" line="785"/>
         <source>To vertex and segment</source>
-        <translation>Til hjørne og segment</translation>
+        <translation>Til punkt og segment</translation>
     </message>
     <message>
         <location filename="../src/app/qgsoptions.cpp" line="793"/>
@@ -40055,12 +40055,12 @@ Altid netværk: indlæs altid fra netværk og tjek ikke, om cachen har en gyldig
     <message>
         <location filename="../src/ui/qgsoptionsbase.ui" line="323"/>
         <source>Icon theme</source>
-        <translation>Ikontema</translation>
+        <translation>Ikon-tema</translation>
     </message>
     <message>
         <location filename="../src/ui/qgsoptionsbase.ui" line="365"/>
         <source>Icon size</source>
-        <translation>Ikonstørrelse</translation>
+        <translation>Ikon-størrelse</translation>
     </message>
     <message>
         <location filename="../src/ui/qgsoptionsbase.ui" line="389"/>
@@ -40121,16 +40121,16 @@ Altid netværk: indlæs altid fra netværk og tjek ikke, om cachen har en gyldig
     <message>
         <location filename="../src/ui/qgsoptionsbase.ui" line="2519"/>
         <source>Open identify results in a dock window (QGIS restart required)</source>
-        <translation>Åbn identificeringsresultater i dockvindue (QGIS-genstart påkrævet)</translation>
+        <translation>Åbn identificeringsresultater i et forankret vindue (QGIS-genstart påkrævet)</translation>
     </message>
     <message>
         <source>Open snapping options  in a dock window (QGIS restart required)</source>
-        <translation type="obsolete">Åbn fastgøringsmuligheder i dockvindue (QGIS-genstart påkrævet)</translation>
+        <translation type="obsolete">Vis snapmuligheder i et forankret vindue (QGIS-genstart påkrævet)</translation>
     </message>
     <message>
         <location filename="../src/ui/qgsoptionsbase.ui" line="1267"/>
         <source>Open attribute table in a dock window (QGIS restart required)</source>
-        <translation>Åbn attribut-tabel i dockvindue (QGIS-genstart påkrævet)</translation>
+        <translation>Åbn attribut-tabel i et forankret vindue (QGIS-genstart påkrævet)</translation>
     </message>
     <message>
         <location filename="../src/ui/qgsoptionsbase.ui" line="1509"/>
@@ -40140,7 +40140,7 @@ Altid netværk: indlæs altid fra netværk og tjek ikke, om cachen har en gyldig
     <message>
         <location filename="../src/ui/qgsoptionsbase.ui" line="2418"/>
         <source>Add new layers to selected or current group</source>
-        <translation>Tilføj nye lag til valgteeller aktuelle gruppe</translation>
+        <translation>Tilføj nye lag til valgt eller aktuel gruppe</translation>
     </message>
     <message>
         <location filename="../src/ui/qgsoptionsbase.ui" line="1274"/>
@@ -40159,7 +40159,7 @@ Altid netværk: indlæs altid fra netværk og tjek ikke, om cachen har en gyldig
     <message>
         <location filename="../src/ui/qgsoptionsbase.ui" line="1328"/>
         <source>Attribute table row cache</source>
-        <translation>Rækkecache til attribut-tabel</translation>
+        <translation>Størrelse af rækkebuffer til attribut-tabel</translation>
     </message>
     <message>
         <location filename="../src/ui/qgsoptionsbase.ui" line="1368"/>
@@ -40168,17 +40168,17 @@ Altid netværk: indlæs altid fra netværk og tjek ikke, om cachen har en gyldig
     </message>
     <message>
         <source>Prompt for raster sublayers</source>
-        <translation type="obsolete">Spørg efter raster-underlag</translation>
+        <translation type="obsolete">Spørg efter raster del-lag</translation>
     </message>
     <message>
         <location filename="../src/ui/qgsoptionsbase.ui" line="1404"/>
         <source>Scan for valid items in the browser dock</source>
-        <translation>Scan efter gyldige elementer i browserdocken</translation>
+        <translation>Søgemetode for at finde fil-kandidater til browserpanelet</translation>
     </message>
     <message>
         <location filename="../src/ui/qgsoptionsbase.ui" line="1431"/>
         <source>Scan for contents of compressed files (.zip) in browser dock</source>
-        <translation>Scan efter indhold af komprimerede filer (.zip) i browserdock</translation>
+        <translation>Metode til at undersøge indhold i komprimerede filer (.zip) til browserpanel</translation>
     </message>
     <message>
         <location filename="../src/ui/qgsoptionsbase.ui" line="181"/>
@@ -40236,7 +40236,7 @@ Altid netværk: indlæs altid fra netværk og tjek ikke, om cachen har en gyldig
     <message>
         <location filename="../src/ui/qgsoptionsbase.ui" line="988"/>
         <source>Plugin paths</source>
-        <translation>Pluginstier</translation>
+        <translation>Plugin-stier</translation>
     </message>
     <message>
         <location filename="../src/ui/qgsoptionsbase.ui" line="994"/>
@@ -40306,7 +40306,7 @@ Altid netværk: indlæs altid fra netværk og tjek ikke, om cachen har en gyldig
     <message>
         <location filename="../src/ui/qgsoptionsbase.ui" line="1751"/>
         <source>Make lines appear less jagged at the expense of some drawing performance</source>
-        <translation>Gør, at linjer ser mindre hakkede ud, på bekostning af noget tegnehastighed</translation>
+        <translation>Få linier til at se mindre hakkede ud, på bekostning af tegnehastighed</translation>
     </message>
     <message>
         <location filename="../src/ui/qgsoptionsbase.ui" line="1758"/>
@@ -40414,7 +40414,7 @@ Altid netværk: indlæs altid fra netværk og tjek ikke, om cachen har en gyldig
     <message>
         <location filename="../src/ui/qgsoptionsbase.ui" line="2585"/>
         <source>Rubberband color</source>
-        <translation>Gummibåndsfarve</translation>
+        <translation>Farve af elastik</translation>
     </message>
     <message>
         <location filename="../src/ui/qgsoptionsbase.ui" line="2592"/>
@@ -40567,7 +40567,7 @@ Altid netværk: indlæs altid fra netværk og tjek ikke, om cachen har en gyldig
     <message>
         <location filename="../src/ui/qgsoptionsbase.ui" line="490"/>
         <source>Timeout for timed messages or dialogs</source>
-        <translation>Timeout for timede beskeder og dialoger</translation>
+        <translation>Vis tidsbegrænsede meddelelser og skærmbilleder i </translation>
     </message>
     <message>
         <location filename="../src/ui/qgsoptionsbase.ui" line="510"/>
@@ -40577,7 +40577,7 @@ Altid netværk: indlæs altid fra netværk og tjek ikke, om cachen har en gyldig
     <message>
         <location filename="../src/ui/qgsoptionsbase.ui" line="573"/>
         <source>Bold group box titles</source>
-        <translation>Gruppeboks-titler med fed skrift</translation>
+        <translation>Gruppeboks-titler vises med fed skrift</translation>
     </message>
     <message>
         <location filename="../src/ui/qgsoptionsbase.ui" line="593"/>
@@ -40592,12 +40592,12 @@ Altid netværk: indlæs altid fra netværk og tjek ikke, om cachen har en gyldig
     <message>
         <location filename="../src/ui/qgsoptionsbase.ui" line="604"/>
         <source>Use live-updating color chooser dialogs</source>
-        <translation>Brug realtidsopdaterende farvevælgerdialoger</translation>
+        <translation>Valg i farvevælger-dialoger gennemføres med det samme</translation>
     </message>
     <message>
         <location filename="../src/ui/qgsoptionsbase.ui" line="651"/>
         <source>New</source>
-        <translation>Ny</translation>
+        <translation>Nyt</translation>
     </message>
     <message>
         <location filename="../src/ui/qgsoptionsbase.ui" line="656"/>
@@ -40617,7 +40617,7 @@ Altid netværk: indlæs altid fra netværk og tjek ikke, om cachen har en gyldig
     <message>
         <location filename="../src/ui/qgsoptionsbase.ui" line="822"/>
         <source>Prompt to save project and data source changes when required</source>
-        <translation>Spørg efter gemning af projekt- og datakildeændringer, når det er påkrævet</translation>
+        <translation>Spørg for at gemme projekt- og datakildeændringer, når det er påkrævet</translation>
     </message>
     <message>
         <location filename="../src/ui/qgsoptionsbase.ui" line="1047"/>
@@ -40669,12 +40669,12 @@ Altid netværk: indlæs altid fra netværk og tjek ikke, om cachen har en gyldig
     <message>
         <location filename="../src/ui/qgsoptionsbase.ui" line="1468"/>
         <source>Prompt for raster sublayers when opening</source>
-        <translation>Spørg efter raster-underlag ved åbning</translation>
+        <translation>Spørg efter raster del-lag ved åbning</translation>
     </message>
     <message>
         <location filename="../src/ui/qgsoptionsbase.ui" line="1502"/>
         <source>Ignore shapefile encoding declaration</source>
-        <translation>Ignorér erklæring af shapefil-kodning</translation>
+        <translation>Se bort fra karakterkode-definition i shapefil</translation>
     </message>
     <message>
         <location filename="../src/ui/qgsoptionsbase.ui" line="1499"/>
@@ -40863,7 +40863,7 @@ Altid netværk: indlæs altid fra netværk og tjek ikke, om cachen har en gyldig
     <message>
         <location filename="../src/ui/qgsoptionsbase.ui" line="3197"/>
         <source>Rubberband</source>
-        <translation>Gummibånd</translation>
+        <translation>Elastik</translation>
     </message>
     <message>
         <location filename="../src/ui/qgsoptionsbase.ui" line="3232"/>
@@ -40888,22 +40888,22 @@ Altid netværk: indlæs altid fra netværk og tjek ikke, om cachen har en gyldig
     <message>
         <location filename="../src/ui/qgsoptionsbase.ui" line="3280"/>
         <source>Snapping</source>
-        <translation>Fastgøring</translation>
+        <translation>Snapping</translation>
     </message>
     <message>
         <location filename="../src/ui/qgsoptionsbase.ui" line="3286"/>
         <source>Default snap mode</source>
-        <translation>Standard-fastgøringstilstand</translation>
+        <translation>Standard snap-tilstand</translation>
     </message>
     <message>
         <location filename="../src/ui/qgsoptionsbase.ui" line="3303"/>
         <source>Default snapping tolerance</source>
-        <translation>Standard-fastgøringstolerance</translation>
+        <translation>Standard snap-tolerance</translation>
     </message>
     <message>
         <location filename="../src/ui/qgsoptionsbase.ui" line="3320"/>
         <source>Search radius for vertex edits</source>
-        <translation>Søgeradius for hjørneredigeringer</translation>
+        <translation>Søgeradius for punktredigeringer</translation>
     </message>
     <message>
         <location filename="../src/ui/qgsoptionsbase.ui" line="3344"/>
@@ -40921,12 +40921,12 @@ Altid netværk: indlæs altid fra netværk og tjek ikke, om cachen har en gyldig
     <message>
         <location filename="../src/ui/qgsoptionsbase.ui" line="3410"/>
         <source>Open snapping options in a dock window (QGIS restart required)</source>
-        <translation>Åbn fastgøringsmuligheder i et dockvindue (kræver QGIS-genstart)</translation>
+        <translation>Vis snap-muligheder i et forankret vindue (kræver QGIS-genstart)</translation>
     </message>
     <message>
         <location filename="../src/ui/qgsoptionsbase.ui" line="3420"/>
         <source>Vertex markers</source>
-        <translation>Hjørnemarkører</translation>
+        <translation>punktmarkører</translation>
     </message>
     <message>
         <location filename="../src/ui/qgsoptionsbase.ui" line="3489"/>
@@ -41136,7 +41136,7 @@ Altid netværk: indlæs altid fra netværk og tjek ikke, om cachen har en gyldig
     <message>
         <location filename="../src/ui/qgsoptionsbase.ui" line="2980"/>
         <source>Grid defaults</source>
-        <translation>Grid standard indstillinger</translation>
+        <translation>Gitter standard indstillinger</translation>
     </message>
     <message>
         <location filename="../src/ui/qgsoptionsbase.ui" line="2986"/>
@@ -41199,12 +41199,12 @@ Altid netværk: indlæs altid fra netværk og tjek ikke, om cachen har en gyldig
     <message>
         <location filename="../src/ui/qgsoptionsbase.ui" line="3532"/>
         <source>Quadrant segments</source>
-        <translation>Kvadrantsegmenter</translation>
+        <translation>Segmentantal pr. kvadrant</translation>
     </message>
     <message>
         <location filename="../src/ui/qgsoptionsbase.ui" line="3626"/>
         <source>GDAL driver options</source>
-        <translation>GDAL-drivermuligheder</translation>
+        <translation>GDAL-driverindstillinger</translation>
     </message>
     <message>
         <location filename="../src/ui/qgsoptionsbase.ui" line="3678"/>
@@ -50596,22 +50596,22 @@ standardafvigelse ×</translation>
     <message>
         <location filename="../src/app/nodetool/qgsselectedfeature.cpp" line="424"/>
         <source>ring %1, vertex %2</source>
-        <translation>ring %1, hjørne %2</translation>
+        <translation>ring %1, punkt %2</translation>
     </message>
     <message>
         <location filename="../src/app/nodetool/qgsselectedfeature.cpp" line="444"/>
         <source>polygon %1, ring %2, vertex %3</source>
-        <translation>polygon %1, ring %2, hjørne %3</translation>
+        <translation>polygon %1, ring %2, punkt %3</translation>
     </message>
     <message>
         <location filename="../src/app/nodetool/qgsselectedfeature.cpp" line="468"/>
         <source>polyline %1, vertex %2</source>
-        <translation>polylinje %1, hjørne %2</translation>
+        <translation>polylinje %1, punkt %2</translation>
     </message>
     <message>
         <location filename="../src/app/nodetool/qgsselectedfeature.cpp" line="478"/>
         <source>vertex %1</source>
-        <translation>hjørne %1</translation>
+        <translation>punkt %1</translation>
     </message>
     <message>
         <location filename="../src/app/nodetool/qgsselectedfeature.cpp" line="493"/>
@@ -51305,7 +51305,7 @@ forbedring</translation>
         <location filename="../src/app/qgssnappingdialog.cpp" line="164"/>
         <location filename="../src/app/qgssnappingdialog.cpp" line="258"/>
         <source>to vertex</source>
-        <translation>til knudepunkter</translation>
+        <translation>til punkter</translation>
     </message>
     <message>
         <location filename="../src/app/qgssnappingdialog.cpp" line="168"/>
@@ -51316,7 +51316,7 @@ forbedring</translation>
     <message>
         <location filename="../src/app/qgssnappingdialog.cpp" line="260"/>
         <source>to vertex and segment</source>
-        <translation>til knudepunkter og linier</translation>
+        <translation>til punkter og linier</translation>
     </message>
     <message>
         <location filename="../src/app/qgssnappingdialog.cpp" line="274"/>
@@ -60495,17 +60495,17 @@ Would you like to add the new layer to the TOC?</source>
     <message>
         <location filename="../src/ui/symbollayer/widget_markerline.ui" line="91"/>
         <source>on every vertex</source>
-        <translation>på hvert hjørne</translation>
+        <translation>på hvert punkt</translation>
     </message>
     <message>
         <location filename="../src/ui/symbollayer/widget_markerline.ui" line="98"/>
         <source>on last vertex only</source>
-        <translation>kun på sidste hjørne</translation>
+        <translation>kun på sidste punkt</translation>
     </message>
     <message>
         <location filename="../src/ui/symbollayer/widget_markerline.ui" line="105"/>
         <source>on first vertex only</source>
-        <translation>kun på første hjørne</translation>
+        <translation>kun på første punkt</translation>
     </message>
     <message>
         <location filename="../src/ui/symbollayer/widget_markerline.ui" line="122"/>
@@ -62793,7 +62793,7 @@ The results can be written to a new attribute column or it can be used to update
 The vector layer needs to be in editing mode, before you can click on the &lt;label&gt;Field calculator&lt;/label&gt; icon to open the dialog.
 </source>
         <translation>&lt;h3&gt;Attributtabel&lt;/h3&gt;
-Attributtabellen viser objekter i et udvalgt lag. Hver række i tabellen repræsenterer et kortobjekt med sine attributter vist i flere kolonner. Objekterne i tabellen kan søges, vælges, flyttes eller endda redigeres. Som standard er attributtabellen et separat vindue. Hvis du har åbnet det og kan ikke se den mere, er det sandsynligvis skjult under det primære QGIS-vindue. Du kan gøre det også til et forankret vindue ved at markere &lt;label&gt;Åbn attributtabellen i et dockvindue &lt;/label&gt; i &lt;label&gt;Indstillinger &gt; Generelle indstillinger &gt; Generelt&lt;/label&gt;.&lt;p&gt;
+Attributtabellen viser objekter i et udvalgt lag. Hver række i tabellen repræsenterer et kortobjekt med sine attributter vist i flere kolonner. Objekterne i tabellen kan søges, vælges, flyttes eller endda redigeres. Som standard er attributtabellen et separat vindue. Hvis du har åbnet det og kan ikke se den mere, er det sandsynligvis skjult under det primære QGIS-vindue. Du kan gøre det også til et forankret vindue ved at markere &lt;label&gt;Åbn attributtabellen i et forankret vindue &lt;/label&gt; i &lt;label&gt;Indstillinger &gt; Generelle indstillinger &gt; Generelt&lt;/label&gt;.&lt;p&gt;
 
 Antallet af totale antal lagobjekter, filtrerede objekter og udvalgte objekter er skrevet på vinduesoverskriften.&lt;p&gt;
 &lt;p&gt;
@@ -63098,7 +63098,7 @@ To define a new connection, click on &lt;label&gt;New&lt;/label&gt; button and u
 The connections you define will be remembered for further use and available to choose from the drop down menu.
 </source>
         <translation>&lt;h3&gt;Tilføj SpatiaLite-tabeller&lt;/h3&gt;
-For at definere en ny forbindelse, klik på knappen &lt;label&gt;Ny&lt;/label&gt; og brug filbrowseren til at udpege din SpatiaLite-database, som er en fil med endelsen &lt;i&gt;.sqlite&lt;/i&gt;.&lt;p&gt;
+For at definere en ny forbindelse, klik på knappen &lt;label&gt;Ny&lt;/label&gt; og brug browserpanelet til at udpege din SpatiaLite-database, som er en fil med endelsen &lt;i&gt;.sqlite&lt;/i&gt;.&lt;p&gt;
 Forbindelserne, du definerer, vil blive huske til fremtidig brug og tilgængelige fra dropdown-menuen.
 </translation>
     </message>
@@ -64348,7 +64348,7 @@ Som standard viser QGIS ikke alle objekter for et lag, indtil hele laget er blev
 &lt;h5&gt;Identificér&lt;/h5&gt;
 &lt;label&gt;Tilstand&lt;/label&gt;sindstillingen afgør, hvilke lag, der skal vises af værktøjet &lt;label&gt;Identificér&lt;/label&gt;. Ved at skifte til &lt;label&gt;Oppefra og ned&lt;/label&gt; i stedet for &lt;label&gt;Aktuelt lag&lt;/label&gt;, vises attributter for alle identificerbare lag med værktøjet &lt;label&gt;Identificér&lt;/label&gt;.
 &lt;h5&gt;Måleværktøj&lt;/h5&gt;
-Her kan du indstille en ellipsoide for afstandsberegninger, måleenheder og foretrukne farve for gummibånd.
+Her kan du indstille en ellipsoide for afstandsberegninger, måleenheder og foretrukne farve for elastik.
 &lt;h5&gt;Panorering og zoom&lt;/h5&gt;
 Gør det muligt at definere musehjulets handling og zoomfaktor.
 &lt;a name=&quot;over&quot;&gt;
@@ -64359,13 +64359,13 @@ Definér placeringsalgoritme til labels. Vælg mellem &lt;label&gt;centralt punk
 &lt;a name=&quot;digit&quot;&gt;
 &lt;h4&gt;Digitalisering&lt;/h4&gt;
 &lt;/a&gt;
-&lt;h5&gt;Gummibånd&lt;/h5&gt;
+&lt;h5&gt;Elastik&lt;/h5&gt;
 På fanen &lt;label&gt;Digitalisering&lt;/label&gt; kan du definere indstillinger for digitaliserings stregtykkelse og farve.
 &lt;h5&gt;Fastgørelse&lt;/h5&gt;
 Her kan du definere et generelt fastgørelsestolerance for hele projektet.&lt;p&gt;
-Du kan vælge mellem &lt;label&gt;Til hjørne&lt;/label&gt;, &lt;label&gt;Til segment&lt;/label&gt; eller &lt;label&gt;Til hjørne og segment&lt;/label&gt; som standard-fastgørelsestilstand. Du kan også definere en standard-fastgørelsestolerance og en søgningsradius for hjørneredigeringer. Tolerancen kan indstilles enten i kortenheder eller i pixels. Fordelen ved at vælge pixel er, at fastgørelsestolerance ikke behøver at blive ændret efter zoomhandlinger.&lt;p&gt;
+Du kan vælge mellem &lt;label&gt;Til punkt&lt;/label&gt;, &lt;label&gt;Til segment&lt;/label&gt; eller &lt;label&gt;Til punkt og segment&lt;/label&gt; som standard-fastgørelsestilstand. Du kan også definere en standard-fastgørelsestolerance og en søgningsradius for punktsredigeringer. Tolerancen kan indstilles enten i kortenheder eller i pixels. Fordelen ved at vælge pixel er, at fastgørelsestolerance ikke behøver at blive ændret efter zoomhandlinger.&lt;p&gt;
 En lagbaseret fastgørelsestolerance kan defineres ved at vælge &lt;label&gt;Indstillinger&lt;/label&gt; (eller &lt;label&gt;Fil&lt;/label&gt;) &gt; &lt;label&gt;Projektegenskaber...&lt;/label&gt;. På fanen &lt;label&gt;Generelt&lt;/label&gt;, sektionen  &lt;label&gt;Digitalisér&lt;/label&gt; kan du klikke på &lt;label&gt;Fastgørelsesmuligheder...&lt;/label&gt; for at aktivere og justere fastgørelsestilstand og -tolerance på lagbasis.
-&lt;h5&gt;Hjørnemarkører&lt;/h5&gt;
+&lt;h5&gt;punktmarkører&lt;/h5&gt;
 Du kan definere markør-stilart som &lt;label&gt;Semitransparent cirkel&lt;/label&gt;, &lt;label&gt;Cross&lt;/label&gt; eller &lt;label&gt;Ingen&lt;/label&gt; og størrelse; og du kan også indstille visning af markører kun for udvalgte objekter.
 &lt;h5&gt;Angiv attributværdier&lt;/h5&gt;
 Som standard, efter at have digitaliseret et ny objekt, beder QGIS dig om at indtaste attributværdier for det pågældende objekt. At markere &lt;label&gt;Undertryk attribut-popupvinduer efter hvert skabte objekt&lt;/label&gt; giver dig mulighed for at angive attributterne senere.
@@ -72747,7 +72747,7 @@ Returnerer en strengrepræsentation af en farve baseret på dens farvetone-, mæ
     <message>
         <location filename="../src/plugins/grass/grasslabels-i18n.cpp" line="330"/>
         <source>Raster support</source>
-        <translation>Raster-understøttelse</translation>
+        <translation>Raster understøttelse</translation>
     </message>
     <message>
         <location filename="../src/plugins/grass/grasslabels-i18n.cpp" line="331"/>
@@ -72892,7 +72892,7 @@ Returnerer en strengrepræsentation af en farve baseret på dens farvetone-, mæ
     <message>
         <location filename="../src/plugins/grass/grasslabels-i18n.cpp" line="359"/>
         <source>Remove vertices in threshold from lines and boundaries, boundary is pruned only if topology is not damaged (new intersection, changed attachement of centroid), first and last segment of the boundary is never changed</source>
-        <translation>Fjern hjørner indenfor tærskelværdi fra linjer og skellinjer, skellinje er kun afkortet, hvis topologi ikke er beskadiget (ny skæring, ændret vedhæftning på centroid), skellinjens første og sidste segment ændres aldrig</translation>
+        <translation>Fjern punkter indenfor tærskelværdi fra linjer og skellinjer, skellinje er kun afkortet, hvis topologi ikke er beskadiget (ny skæring, ændret vedhæftning på centroid), skellinjens første og sidste segment ændres aldrig</translation>
     </message>
     <message>
         <location filename="../src/plugins/grass/grasslabels-i18n.cpp" line="360"/>
@@ -73078,7 +73078,7 @@ Returnerer en strengrepræsentation af en farve baseret på dens farvetone-, mæ
     <message>
         <location filename="../src/plugins/grass/grasslabels-i18n.cpp" line="396"/>
         <source>Snap lines to vertex in threshold</source>
-        <translation>Fastgør linjer til hjørne indenfor tærskelværdi</translation>
+        <translation>Fastgør linjer til punkt indenfor tærskelværdi</translation>
     </message>
     <message>
         <location filename="../src/plugins/grass/grasslabels-i18n.cpp" line="397"/>
