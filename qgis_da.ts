@@ -4209,15 +4209,15 @@ Vil du afslutte den alligevel?</translation>
     </message>
     <message>
         <source>Select the input file for Translate</source>
-        <translation>Vælg inputfilen til Oversæt</translation>
+        <translation>Vælg inputfilen til konvertering</translation>
     </message>
     <message>
         <source>Select the input directory with files to Translate</source>
-        <translation>Vælg inputmappen med filer til Oversæt</translation>
+        <translation>Vælg inputmappen med filer til konvertering</translation>
     </message>
     <message>
         <source>Select the raster file to save the results to</source>
-        <translation>Vælg rasterfilen, hvor resultatet skal gemmes til</translation>
+        <translation>Vælg rasterfilen til at gemme resultatet i</translation>
     </message>
     <message>
         <source>Output size or resolution required</source>
@@ -4229,7 +4229,7 @@ Vil du afslutte den alligevel?</translation>
     </message>
     <message>
         <source>Select the output directory to save the results to</source>
-        <translation>Vælg den mappe, hvor resultatet skal gemmes i</translation>
+        <translation>Vælg mappe til at gemme resultatet i</translation>
     </message>
     <message>
         <source>{0} not created.</source>
@@ -4237,7 +4237,7 @@ Vil du afslutte den alligevel?</translation>
     </message>
     <message>
         <source>Translate - srcwin</source>
-        <translation>Oversæt - srcwin</translation>
+        <translation>Konvertér - srcwin</translation>
     </message>
     <message>
         <source>Image coordinates (pixels) must be integer numbers.</source>
@@ -4245,7 +4245,7 @@ Vil du afslutte den alligevel?</translation>
     </message>
     <message>
         <source>Translate - prjwin</source>
-        <translation>Oversæt - prjwin</translation>
+        <translation>Konvertér - prjwin</translation>
     </message>
     <message>
         <source>Image coordinates (geographic) must be numbers.</source>
@@ -4277,7 +4277,7 @@ Vil du afslutte den alligevel?</translation>
     </message>
     <message>
         <source>Select the input file for Polygonize</source>
-        <translation>Vælg inputfilen til Polygonisér</translation>
+        <translation>Vælg inputfilen til Polygonisering</translation>
     </message>
     <message>
         <source>Select where to save the Polygonize output</source>
@@ -4297,7 +4297,7 @@ Vil du afslutte den alligevel?</translation>
     </message>
     <message>
         <source>Select the files to analyse</source>
-        <translation>Vælg filerne, som skal analyseres</translation>
+        <translation>Vælg filerne der skal analyseres</translation>
     </message>
     <message>
         <source>Select the input directory with files</source>
@@ -4305,7 +4305,7 @@ Vil du afslutte den alligevel?</translation>
     </message>
     <message>
         <source>Select the files to Merge</source>
-        <translation>Vælg filerne, som skal flettes</translation>
+        <translation>Vælg filerne der skal flettes</translation>
     </message>
     <message>
         <source>Error retrieving the extent</source>
@@ -4331,7 +4331,7 @@ Disable the &quot;Use intersected extent&quot; option to have a nonempty output.
     </message>
     <message>
         <source>Select the input directory with files to Merge</source>
-        <translation>Vælg inputmappen med filer til Flet </translation>
+        <translation>Vælg inputmappen med filer til Fletning </translation>
     </message>
     <message>
         <source>Select the input file</source>
@@ -4355,11 +4355,11 @@ Disable the &quot;Use intersected extent&quot; option to have a nonempty output.
     </message>
     <message>
         <source>Select the file to analyse</source>
-        <translation>Vælg filen, som skal analyseres</translation>
+        <translation>Vælg filen der skal analyseres</translation>
     </message>
     <message>
         <source>Select the input directory with files to Assign projection</source>
-        <translation>Vælg inputmappen med filer til Tildel projektion</translation>
+        <translation>Vælg inputmappen med filer, der skal have en projektion tilføjet</translation>
     </message>
     <message>
         <source>Finished</source>
@@ -4384,7 +4384,7 @@ Disable the &quot;Use intersected extent&quot; option to have a nonempty output.
     </message>
     <message>
         <source>Select the input file for Rasterize</source>
-        <translation>Vælg inputfilen til Rasterisér</translation>
+        <translation>Vælg inputfilen til Rasterisering</translation>
     </message>
     <message>
         <source>Output size required</source>
@@ -4404,7 +4404,7 @@ Disable the &quot;Use intersected extent&quot; option to have a nonempty output.
     </message>
     <message>
         <source>Select the input file for Warp</source>
-        <translation>Vælg inputfilen til Reprojicér </translation>
+        <translation>Vælg inputfilen til forskydning</translation>
     </message>
     <message>
         <source>Select the mask file</source>
@@ -4412,7 +4412,7 @@ Disable the &quot;Use intersected extent&quot; option to have a nonempty output.
     </message>
     <message>
         <source>Select the input directory with files to Warp</source>
-        <translation>Vælg inputmappen med filer til Reprojicér</translation>
+        <translation>Vælg inputmappen med filer til forskydning</translation>
     </message>
     <message>
         <source>Convert paletted image to RGB</source>
@@ -4420,7 +4420,7 @@ Disable the &quot;Use intersected extent&quot; option to have a nonempty output.
     </message>
     <message>
         <source>Select the input file for Sieve</source>
-        <translation>Vælg inputfilen til Si</translation>
+        <translation>Vælg inputfilen til Si-funktion</translation>
     </message>
     <message>
         <source>Select the file for DEM</source>
@@ -4440,7 +4440,7 @@ Disable the &quot;Use intersected extent&quot; option to have a nonempty output.
     </message>
     <message>
         <source>Select the input file for Near Black</source>
-        <translation>Vælg inputfilen til Nærved sort</translation>
+        <translation>Vælg inputfilen til Nærved Sort</translation>
     </message>
 </context>
 <context>
@@ -4609,7 +4609,7 @@ når der trykkes på værktøjsdialogens hjælpeknap.</translation>
     </message>
     <message>
         <source>Select directory with GDAL executables</source>
-        <translation>Vælg mappen med GDALs eksekverbare filer</translation>
+        <translation>Vælg mappen med GDALs programfiler</translation>
     </message>
     <message>
         <source>Select directory with GDAL python modules</source>
@@ -6762,7 +6762,7 @@ GEOS geoprocessing error: One or more input features have invalid geometry.</sou
     <message>
         <location filename="../src/ui/qgisapp.ui" line="735"/>
         <source>Add Part</source>
-        <translation>Tilføj del</translation>
+        <translation>Tilføj part</translation>
     </message>
     <message>
         <location filename="../src/ui/qgisapp.ui" line="747"/>
@@ -6777,7 +6777,7 @@ GEOS geoprocessing error: One or more input features have invalid geometry.</sou
     <message>
         <location filename="../src/ui/qgisapp.ui" line="771"/>
         <source>Delete Part</source>
-        <translation>Slet del</translation>
+        <translation>Slet part</translation>
     </message>
     <message>
         <location filename="../src/ui/qgisapp.ui" line="780"/>
@@ -6913,7 +6913,7 @@ GEOS geoprocessing error: One or more input features have invalid geometry.</sou
     <message>
         <location filename="../src/ui/qgisapp.ui" line="1016"/>
         <source>Zoom to Selection</source>
-        <translation>Zoom til udvalg</translation>
+        <translation>Zoom til selektion</translation>
     </message>
     <message>
         <location filename="../src/ui/qgisapp.ui" line="1019"/>
@@ -7293,7 +7293,7 @@ GEOS geoprocessing error: One or more input features have invalid geometry.</sou
     <message>
         <location filename="../src/ui/qgisapp.ui" line="1311"/>
         <source>Save Selection as Vector File...</source>
-        <translation>Gem udvalg som vektorfil...</translation>
+        <translation>Gem selektion som vektorfil...</translation>
     </message>
     <message>
         <location filename="../src/ui/qgisapp.ui" line="1320"/>
@@ -13714,7 +13714,7 @@ Kontakt udviklerne af programmet.</translation>
     <message>
         <location filename="../src/app/qgisapp.cpp" line="3578"/>
         <source>Choose a QGIS project file to open</source>
-        <translation>Vælg en QGIS-projektfil, der skal åbnes</translation>
+        <translation>Vælg en QGIS-projektfil</translation>
     </message>
     <message>
         <source>QGis files</source>
@@ -13770,7 +13770,7 @@ Kontakt udviklerne af programmet.</translation>
     <message>
         <location filename="../src/app/qgisapp.cpp" line="3802"/>
         <source>Choose a file name to save the QGIS project file as</source>
-        <translation>Vælg et filnavn at gemme QGIS-projektfilen som</translation>
+        <translation>Vælg et filnavn til QGIS-projektfilen</translation>
     </message>
     <message>
         <location filename="../src/app/qgisapp.cpp" line="3986"/>
@@ -13780,7 +13780,7 @@ Kontakt udviklerne af programmet.</translation>
     <message>
         <location filename="../src/app/qgisapp.cpp" line="4034"/>
         <source>Choose a file name to save the map image as</source>
-        <translation>Vælg et filnavn at gemme kortbilledet som</translation>
+        <translation>Vælg et filnavn til kortbilledet</translation>
     </message>
     <message>
         <location filename="../src/app/qgisapp.cpp" line="4039"/>
@@ -13976,7 +13976,7 @@ Fejl: %1</translation>
     <message>
         <location filename="../src/app/qgisapp.cpp" line="5038"/>
         <source>(title generated if left empty)</source>
-        <translation>(titel dannet hvis tom)</translation>
+        <translation>(autogenereres hvis tom)</translation>
     </message>
     <message>
         <location filename="../src/app/qgisapp.cpp" line="5052"/>
@@ -17444,7 +17444,7 @@ Skal de eksisterende klasser slettes før klassificering?</translation>
     <message>
         <location filename="../src/app/composer/qgscomposer.cpp" line="1515"/>
         <source>Choose a file name to save the map image as</source>
-        <translation>Vælg et filnavn at gemme kortbilledet som</translation>
+        <translation>Vælg et filnavn til kortbilledet</translation>
     </message>
     <message>
         <location filename="../src/app/composer/qgscomposer.cpp" line="1529"/>
@@ -22441,7 +22441,7 @@ og den aktuelle fil er [%3]</translation>
     <message>
         <location filename="../src/gui/symbology-ng/qgscptcitycolorrampv2dialog.cpp" line="139"/>
         <source>Selections by theme</source>
-        <translation>Udvalg via tema</translation>
+        <translation>Selektion via tema</translation>
     </message>
     <message>
         <location filename="../src/gui/symbology-ng/qgscptcitycolorrampv2dialog.cpp" line="140"/>
@@ -22508,7 +22508,7 @@ og den aktuelle fil er [%3]</translation>
     <message>
         <location filename="../src/ui/qgscptcitycolorrampv2dialogbase.ui" line="185"/>
         <source>Selection and preview</source>
-        <translation>Udvalg og eksempel</translation>
+        <translation>Valg og eksempelvisning</translation>
     </message>
     <message>
         <location filename="../src/ui/qgscptcitycolorrampv2dialogbase.ui" line="191"/>
@@ -24100,7 +24100,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../src/providers/delimitedtext/qgsdelimitedtextsourceselect.cpp" line="629"/>
         <source>Choose a delimited text file to open</source>
-        <translation>Vælg en afgrænset tekstfil, der skal åbnes</translation>
+        <translation>Vælg en afgrænset tekstfil</translation>
     </message>
     <message>
         <location filename="../src/providers/delimitedtext/qgsdelimitedtextsourceselect.cpp" line="631"/>
@@ -24597,7 +24597,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Selected delimiters</source>
-        <translation type="obsolete">Udvalgte afgrænsere</translation>
+        <translation type="obsolete">Valgte afgrænsere</translation>
     </message>
     <message>
         <source>The delimiter is a regular expression</source>
@@ -25464,7 +25464,7 @@ Parserfejl:
     <message>
         <location filename="../src/ui/qgsdxfexportdialogbase.ui" line="121"/>
         <source>Export features intersecting the current map extent</source>
-        <translation>Eksportér objekter som skærer nuværende kortudbredelse</translation>
+        <translation>Eksportér kun objekter som overlapper/skærer nuværende kortudbredelse</translation>
     </message>
 </context>
 <context>
@@ -34985,7 +34985,7 @@ vises ikke</translation>
     <message>
         <location filename="../src/app/legend/qgslegendlayer.cpp" line="440"/>
         <source>Save Selection As...</source>
-        <translation>Gem udvalg som...</translation>
+        <translation>Gem valg som...</translation>
     </message>
     <message>
         <location filename="../src/app/legend/qgslegendlayer.cpp" line="447"/>
@@ -35653,7 +35653,7 @@ vises ikke</translation>
     <message>
         <location filename="../src/app/qgsmaptooladdpart.cpp" line="197"/>
         <source>Error, could not add part</source>
-        <translation>Fejl, kunne ikke tilføje del</translation>
+        <translation>Fejl, kunne ikke tilføje part</translation>
     </message>
 </context>
 <context>
@@ -35763,7 +35763,7 @@ vises ikke</translation>
         <location filename="../src/app/qgsmaptooldeletepart.cpp" line="103"/>
         <location filename="../src/app/qgsmaptooldeletepart.cpp" line="118"/>
         <source>Delete part</source>
-        <translation>Slet del</translation>
+        <translation>Slet part</translation>
     </message>
     <message>
         <location filename="../src/app/qgsmaptooldeletepart.cpp" line="103"/>
@@ -40840,11 +40840,11 @@ Altid netværk: indlæs altid fra netværk og tjek ikke, om cachen har en gyldig
     </message>
     <message>
         <source>Semi-minor</source>
-        <translation type="obsolete">Semi-mindre</translation>
+        <translation type="obsolete">Lille halvakse</translation>
     </message>
     <message>
         <source>Semi-major</source>
-        <translation type="obsolete">Semi-større</translation>
+        <translation type="obsolete">Store halvakse</translation>
     </message>
     <message>
         <source>Overlays</source>
@@ -45943,12 +45943,12 @@ Fortsæt?</translation>
     <message>
         <location filename="../src/ui/qgsprojectpropertiesbase.ui" line="426"/>
         <source>Semi-minor</source>
-        <translation>Semi-mindre</translation>
+        <translation>Lille halvakse</translation>
     </message>
     <message>
         <location filename="../src/ui/qgsprojectpropertiesbase.ui" line="413"/>
         <source>Semi-major</source>
-        <translation>Semi-større</translation>
+        <translation>Store halvakse</translation>
     </message>
     <message>
         <location filename="../src/ui/qgsprojectpropertiesbase.ui" line="517"/>
@@ -46171,7 +46171,7 @@ Fortsæt?</translation>
         <translation type="obsolete">OWS-server</translation>
     </message>
     <message>
-        <source>Service Capabilitities</source>
+        <source>Service capabilitities</source>
         <translation type="obsolete">Service-&apos;Capabilitities&apos;</translation>
     </message>
     <message>
@@ -46187,7 +46187,7 @@ Fortsæt?</translation>
     <message>
         <location filename="../src/ui/qgsprojectpropertiesbase.ui" line="1273"/>
         <source>Service capabilities</source>
-        <translation>Service-&apos;Capabilities&apos;</translation>
+        <translation>Service-Capabilities</translation>
     </message>
     <message>
         <location filename="../src/ui/qgsprojectpropertiesbase.ui" line="1353"/>
@@ -46227,10 +46227,6 @@ Fortsæt?</translation>
         <location filename="../src/ui/qgsprojectpropertiesbase.ui" line="1166"/>
         <source> %</source>
         <translation> %</translation>
-    </message>
-    <message>
-        <source>Service capabilitities</source>
-        <translation type="obsolete">Service-&apos;Capabilitities&apos;</translation>
     </message>
     <message>
         <location filename="../src/ui/qgsprojectpropertiesbase.ui" line="1317"/>
@@ -46527,7 +46523,7 @@ Derfor vil projektionsvælgeren ikke virke...</translation>
     <message>
         <location filename="../src/ui/qgsprojectionselectorbase.ui" line="126"/>
         <source>Coordinate reference systems of the world</source>
-        <translation>Verdens koordinatsystemer</translation>
+        <translation>Verdens-koordinatsystemer</translation>
     </message>
     <message>
         <location filename="../src/ui/qgsprojectionselectorbase.ui" line="151"/>
@@ -47399,7 +47395,7 @@ Klik på hjælpeknappen for at få gyldige oprettelsesmuligheder til dette forma
     <message>
         <location filename="../src/gui/raster/qgsrasterhistogramwidget.cpp" line="565"/>
         <source>Choose a file name to save the map image as</source>
-        <translation>Vælg et filnavn til gemme kortbilledet som</translation>
+        <translation>Vælg et filnavn til kortbilledet</translation>
     </message>
 </context>
 <context>
@@ -51368,7 +51364,7 @@ forbedring</translation>
     <message>
         <location filename="../src/ui/qgssnappingdialogbase.ui" line="58"/>
         <source>Avoid Int.</source>
-        <translation>Undgå skæ.</translation>
+        <translation>Undgå skæring</translation>
     </message>
     <message>
         <location filename="../src/ui/qgssnappingdialogbase.ui" line="61"/>
@@ -52099,7 +52095,7 @@ p, li { white-space: pre-wrap; }
 &lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;
 p, li { white-space: pre-wrap; }
 &lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:&apos;Sans Serif&apos;; font-size:9pt; font-weight:400; font-style:normal;&quot;&gt;
-&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-family:&apos;MS Shell Dlg 2&apos;; font-size:8pt;&quot;&gt;Når markeret, vil handlingen kun omfatte udvalgte geometrier fra referencelaget&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-family:&apos;MS Shell Dlg 2&apos;; font-size:8pt;&quot;&gt;Når markeret, vil handlingen kun omfatte valgte geometrier fra referencelaget&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="../src/plugins/spatialquery/qgsspatialquerydialogbase.ui" line="154"/>
@@ -53304,7 +53300,7 @@ Overskriv?</translation>
     <message>
         <location filename="../src/gui/symbology-ng/qgsstylev2managerdialog.cpp" line="74"/>
         <source>Share Menu</source>
-        <translation>Menuen Del</translation>
+        <translation>Delings menu</translation>
     </message>
     <message>
         <location filename="../src/gui/symbology-ng/qgsstylev2managerdialog.cpp" line="75"/>
@@ -62799,7 +62795,7 @@ The vector layer needs to be in editing mode, before you can click on the &lt;la
         <translation>&lt;h3&gt;Attributtabel&lt;/h3&gt;
 Attributtabellen viser objekter i et udvalgt lag. Hver række i tabellen repræsenterer et kortobjekt med sine attributter vist i flere kolonner. Objekterne i tabellen kan søges, vælges, flyttes eller endda redigeres. Som standard er attributtabellen et separat vindue. Hvis du har åbnet det og kan ikke se den mere, er det sandsynligvis skjult under det primære QGIS-vindue. Du kan gøre det også til et forankret vindue ved at markere &lt;label&gt;Åbn attributtabellen i et forankret vindue &lt;/label&gt; i &lt;label&gt;Indstillinger &gt; Generelle indstillinger &gt; Generelt&lt;/label&gt;.&lt;p&gt;
 
-Antallet af totale antal lagobjekter, filtrerede objekter og udvalgte objekter er skrevet på vinduesoverskriften.&lt;p&gt;
+Antallet af totale antal lagobjekter, filtrerede objekter og valgte objekter er skrevet på vinduesoverskriften.&lt;p&gt;
 &lt;p&gt;
 &lt;a href=&quot;#Selecting&quot;&gt;Udvælgelse&lt;/a&gt;&lt;br/&gt;
 &lt;a href=&quot;#Sorting&quot;&gt;Sortering&lt;/a&gt;&lt;br/&gt;
@@ -63071,7 +63067,7 @@ Denne dialog lader dig indstille en række egenskaber relateret til &lt;label&gt
 &lt;/a&gt;
 &lt;table border=1&gt;
 &lt;tr&gt;&lt;td&gt;&lt;label&gt;Projektets titel&lt;/label&gt;&lt;/td&gt;&lt;td&gt;En beskrivende titel for projektet. Denne titel vil blive vist i titellinjen i QGIS-vinduet &lt;/td&gt;&lt;/tr&gt;
-&lt;tr&gt;&lt;td&gt;&lt;label&gt;Selektionsfarve&lt;/label&gt;&lt;/td&gt;&lt;td&gt;Udvalgte objekter vises på kortet ved hjælp af denne farve.&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;&lt;label&gt;Selektionsfarve&lt;/label&gt;&lt;/td&gt;&lt;td&gt;Valgte objekter vises på kortet ved hjælp af denne farve.&lt;/td&gt;&lt;/tr&gt;
 &lt;tr&gt;&lt;td&gt;&lt;label&gt;Baggrundsfarve&lt;/label&gt;&lt;/td&gt;&lt;td&gt;Farven på kortkanvasset.&lt;/td&gt;&lt;/tr&gt;
 &lt;tr&gt;&lt;td&gt;&lt;label&gt;Gem stier&lt;/label&gt;&lt;/td&gt;&lt;td&gt;Mulighed for at gemme stierne som absolutte eller relative.&lt;/td&gt;&lt;/tr&gt;
 &lt;tr&gt;&lt;td&gt;&lt;label&gt;Lagenheder&lt;/label&gt;&lt;/td&gt;&lt;td&gt; Vælg de enheder, der passer til lagene i projektet. &lt;/td&gt;&lt;/tr&gt;
@@ -64370,7 +64366,7 @@ Her kan du definere et generelt fastgørelsestolerance for hele projektet.&lt;p&
 Du kan vælge mellem &lt;label&gt;Til punkt&lt;/label&gt;, &lt;label&gt;Til segment&lt;/label&gt; eller &lt;label&gt;Til punkt og segment&lt;/label&gt; som standard-fastgørelsestilstand. Du kan også definere en standard-fastgørelsestolerance og en søgningsradius for punktsredigeringer. Tolerancen kan indstilles enten i kortenheder eller i pixels. Fordelen ved at vælge pixel er, at fastgørelsestolerance ikke behøver at blive ændret efter zoomhandlinger.&lt;p&gt;
 En lagbaseret fastgørelsestolerance kan defineres ved at vælge &lt;label&gt;Indstillinger&lt;/label&gt; (eller &lt;label&gt;Fil&lt;/label&gt;) &gt; &lt;label&gt;Projektegenskaber...&lt;/label&gt;. På fanen &lt;label&gt;Generelt&lt;/label&gt;, sektionen  &lt;label&gt;Digitalisér&lt;/label&gt; kan du klikke på &lt;label&gt;Fastgørelsesmuligheder...&lt;/label&gt; for at aktivere og justere fastgørelsestilstand og -tolerance på lagbasis.
 &lt;h5&gt;punktmarkører&lt;/h5&gt;
-Du kan definere markør-stilart som &lt;label&gt;Semitransparent cirkel&lt;/label&gt;, &lt;label&gt;Cross&lt;/label&gt; eller &lt;label&gt;Ingen&lt;/label&gt; og størrelse; og du kan også indstille visning af markører kun for udvalgte objekter.
+Du kan definere markør-stilart som &lt;label&gt;Semitransparent cirkel&lt;/label&gt;, &lt;label&gt;Cross&lt;/label&gt; eller &lt;label&gt;Ingen&lt;/label&gt; og størrelse; og du kan også indstille visning af markører kun for valgte objekter.
 &lt;h5&gt;Angiv attributværdier&lt;/h5&gt;
 Som standard, efter at have digitaliseret et ny objekt, beder QGIS dig om at indtaste attributværdier for det pågældende objekt. At markere &lt;label&gt;Undertryk attribut-popupvinduer efter hvert skabte objekt&lt;/label&gt; giver dig mulighed for at angive attributterne senere.
 &lt;a name=&quot;crs&quot;&gt;
@@ -65020,7 +65016,7 @@ Det er sikrere at bruge en eksplicit kodning, hvis QGIS projekt skal være flytb
     &lt;li&gt;CSV-filformat. Det er et format, der almindeligvis anvendes af regneark, hvor felterne er afgrænset
     med et kommategn, citeret og ved hjælp af et &quot;(citations)&quot;-tegn. I citationsfelter angives citationen
     som &quot;&quot;. &lt;/li&gt;
-    &lt;li&gt;Udvalgte afgrænsningstegn. Hver post er opdelt i felter ved hjælp af en eller flere afgrænsningstegn.
+    &lt;li&gt;Valgte afgrænsningstegn. Hver post er opdelt i felter ved hjælp af en eller flere afgrænsningstegn.
     Citationstegn bruges til felter, der kan indeholde skilletegn. Escapetegn kan anvendes
     til behandling af følgende tegn som et normalt tegn (dvs. at omfatte afgrænsningstegn, citation og
     nyt linje-tegn i tekstfelter). Brugen af afgrænsningstegn-, citations- og escapetegn er beskrevet nærmere &lt;a href=&quot;#csv&quot;&gt;nedenfor&lt;/a&gt;.
@@ -65402,7 +65398,7 @@ For support, send en mail til scala@itc.cnr.it
     <message>
         <location filename="../src/plugins/dxf2shp_converter/dxf2shpconvertergui.cpp" line="157"/>
         <source>Choose a DXF file to open</source>
-        <translation>Vælg en DXF-fil, der skal åbnes</translation>
+        <translation>Vælg en DXF-fil</translation>
     </message>
     <message>
         <location filename="../src/plugins/dxf2shp_converter/dxf2shpconvertergui.cpp" line="159"/>
